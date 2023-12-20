@@ -148,6 +148,10 @@ h4 {
   width: max-content;
 }
 
+.grid h4 {
+  margin-top: 0.75em;
+}
+
 .two-col-flex {
   display: flex;
   align-items: baseline;
@@ -157,6 +161,10 @@ h4 {
   content: "■";
   color: var(--color-blue);
   padding-inline-end: 10px;
+}
+
+.normal-case span {
+  text-transform: none;
 }
 
 /* EXTERNAL LINK */
