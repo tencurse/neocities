@@ -630,7 +630,7 @@ span.spoiler {
 
 span.revealed {
   background-color: var(--color-black);
-  color: var(--color-primary);
+  color: var(--color-white);
   -webkit-user-select: text; /* Safari */
   -ms-user-select: text; /* IE 10 and IE 11 */
   user-select: text; /* Standard syntax */
