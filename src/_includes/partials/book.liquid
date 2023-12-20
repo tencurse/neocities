@@ -9,7 +9,8 @@
                         book.data.rating %}</span>{% endif %} <span class="log-icon">{% if book.data.reread %}{% lucide
                         "refresh-cw" %}{% endif
                         %} {%
-                        if book.data.favourite %}{% lucide "heart" %}{% endif %}</span> {%if book.data.bookBug %}<a
-                        href="/logs/bookbug">{% lucide "bug" %}</a>{% endif %} {% if book.data.bookClub %}{% lucide
+                        if book.data.favourite %}{% lucide "heart" %}{% endif %}</span> {% if book.data.hasReview %}{%
+                lucide "text" %}{% endif %} {%if book.data.bookBug %}<a href="/logs/bookbug">{% lucide "bug" %}</a>{%
+                endif %} {% if book.data.bookClub %}{% lucide
                 "users-round" %}{% endif %}</span>
 </li>
