@@ -11,6 +11,7 @@ status: Read
 rating: 4
 cover: "/assets/img/the-traitor-baru-cormorant.jpg"
 hasReview: true
+favourite: true
 ---
 
 ### the masquerade trilogy
