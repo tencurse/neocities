@@ -24,6 +24,7 @@ parent: /logs
 
 {% lucide "heart" %} - favourite
 {% lucide "refresh-cw" %} - reread
+{% lucide "text" %} - reviewed
 {% lucide "users-round" %} - book club ([r/bookclub](https://www.reddit.com/r/bookclub/))
 </div>
 <div class="grid">
