@@ -12,4 +12,3 @@ parent: /
 {% for update in updates23 %}<span class="label">{{ update.date | toUTC }}</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
 </div>
 {% endif %}
-<p></p>

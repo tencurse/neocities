@@ -38,5 +38,3 @@ practice protest safety when attending!
   - [lemmy.ml/unixporn](https://lemmy.ml/c/unixporn)
 - [terminal colour schemes](https://gogh-co.github.io/Gogh/) – install terminal colour schemes in one command. i mostly use this as reference when picking out colour schemes for websites/IDEs
 - [88x31 button Maker](https://hekate2.github.io/buttonmaker/) – drag and drop customizable button maker for your website!
-
-<p></p>
