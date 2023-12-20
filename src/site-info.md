@@ -29,6 +29,7 @@ art credit:
 
 - [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
 - [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - button credit
+- [fool lovers](https://www.foollovers.com/) - button template and favicon credit
 
 11ty plugins used:
 
