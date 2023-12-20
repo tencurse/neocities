@@ -1,0 +1,248 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-primary: #efefef;
+    --color-primary: #2d2f42;
+
+    --background-selection: #b6bfe2;
+    --background-secondary: #e1e2e7;
+
+    --background-selection-transp: rgba(182, 191, 226, 0.2);
+    --background-red: rgba(214, 94, 118, 0.2);
+    --background-yellow: rgba(181, 118, 20, 0.2);
+    --background-green: rgba(75, 160, 22, 0.2);
+    --background-blue: rgba(100, 140, 227, 0.2);
+
+    --color-black: #32354e;
+    --color-red: #d65e76;
+    --color-green: #4ba016;
+    --color-yellow: #b57614;
+    --color-blue: #648ce3;
+    --color-purple: #8d46d4;
+    --color-teal: #16a085;
+    --color-violet: #b252a5;
+
+    --color-gray: #848cb5;
+    --color-border: #ccc;
+
+    /* PRISM */
+    --plain-color: #343b58;
+    --plain-backgroundColor: #e1e2e7;
+    --selection-backgroundColor: #f9f9fc;
+    --prolog-color: #f52a65;
+    --comment-color: #848cb5;
+    --constant-color: #b15c00;
+    --keyword-color: #7847bd;
+    --symbol-color: #188092;
+    --string-color: #587539;
+    --variable-color: #2e7de9;
+    --url-color: #2e7de9;
+    --punctuation-color: #9854f1;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* TOKYO NIGHT NIGHT */
+    --background-primary: #1a1b26;
+    --color-primary: #dfdede;
+
+    --background-selection: #283457;
+    --background-secondary: #24283b;
+
+    --background-selection-transp: rgba(40, 52, 87, 0.2);
+    --background-red: rgba(247, 118, 142, 0.2);
+    --background-yellow: rgba(224, 175, 104, 0.2);
+    --background-green: rgba(158, 206, 106, 0.2);
+    --background-blue: rgba(122, 162, 247, 0.2);
+
+    --color-black: #0b0b11;
+    --color-red: #f7768e;
+    --color-green: #9ece6a;
+    --color-yellow: #e0af68;
+    --color-blue: #7aa2f7;
+    --color-purple: #9d7cd8;
+    --color-teal: #7dcfff;
+    --color-violet: #ca79b3;
+
+    --color-gray: #6a79ba;
+    --color-border: #515151;
+
+    /* PRISM */
+    --plain-color: #c0caf5;
+    --plain-backgroundColor: #24283b;
+    --selection-backgroundColor: #363d55;
+    --prolog-color: #f7768e;
+    --comment-color: #565f89;
+    --constant-color: #ff9e64;
+    --keyword-color: #9d7cd8;
+    --symbol-color: #2ac3de;
+    --string-color: #9ece6a;
+    --variable-color: #7aa2f7;
+    --url-color: #89ddff;
+    --punctuation-color: #bb9af7;
+  }
+}
+
+html[data-theme="light"] {
+  /* TOKYO NIGHT DAY */
+  --background-primary: #efefef;
+  --color-primary: #2d2f42;
+
+  --background-selection: #b6bfe2;
+  --background-secondary: #e1e2e7;
+
+  --background-selection-transp: rgba(182, 191, 226, 0.2);
+  --background-red: rgba(214, 94, 118, 0.2);
+  --background-yellow: rgba(181, 118, 20, 0.2);
+  --background-green: rgba(75, 160, 22, 0.2);
+  --background-blue: rgba(100, 140, 227, 0.2);
+
+  --color-black: #32354e;
+  --color-red: #d65e76;
+  --color-green: #4ba016;
+  --color-yellow: #b57614;
+  --color-blue: #648ce3;
+  --color-purple: #8d46d4;
+  --color-teal: #16a085;
+  --color-violet: #b252a5;
+
+  --color-gray: #848cb5;
+  --color-border: #ccc;
+
+  /* PRISM */
+  --plain-color: #343b58;
+  --plain-backgroundColor: #e1e2e7;
+  --selection-backgroundColor: #f9f9fc;
+  --prolog-color: #f52a65;
+  --comment-color: #848cb5;
+  --constant-color: #b15c00;
+  --keyword-color: #7847bd;
+  --symbol-color: #188092;
+  --string-color: #587539;
+  --variable-color: #3760bf;
+  --url-color: #2e7de9;
+  --punctuation-color: #9854f1;
+}
+
+html[data-theme="dark"] {
+  /* TOKYO NIGHT NIGHT */
+  --background-primary: #1a1b26;
+  --color-primary: #dfdede;
+
+  --background-selection: #283457;
+  --background-secondary: #24283b;
+
+  --background-selection-transp: rgba(40, 52, 87, 0.2);
+  --background-red: rgba(247, 118, 142, 0.2);
+  --background-yellow: rgba(224, 175, 104, 0.2);
+  --background-green: rgba(158, 206, 106, 0.2);
+  --background-blue: rgba(122, 162, 247, 0.2);
+
+  --color-black: #0b0b11;
+  --color-red: #f7768e;
+  --color-green: #9ece6a;
+  --color-yellow: #e0af68;
+  --color-blue: #7aa2f7;
+  --color-purple: #9d7cd8;
+  --color-teal: #70c0b1;
+  --color-violet: #ca79b3;
+
+  --color-gray: #6a79ba;
+  --color-border: #515151;
+
+  /* PRISM */
+  --plain-color: #c0caf5;
+  --plain-backgroundColor: #24283b;
+  --selection-backgroundColor: #363d55;
+  --prolog-color: #f7768e;
+  --comment-color: #565f89;
+  --constant-color: #ff9e64;
+  --keyword-color: #9d7cd8;
+  --symbol-color: #2ac3de;
+  --string-color: #9ece6a;
+  --variable-color: #7aa2f7;
+  --url-color: #89ddff;
+  --punctuation-color: #bb9af7;
+}
+
+html[data-theme="horizondark"] {
+  /* HORIZON DARK */
+  --background-primary: #1c1e26;
+  --color-primary: #fdf0ed;
+
+  --background-selection: #6c6f9380;
+  --background-secondary: #1c1e26;
+
+  --background-selection-transp: rgba(108, 111, 147, 0.2);
+  --background-red: rgba(233, 86, 120, 0.2);
+  --background-yellow: rgba(250, 183, 149, 0.2);
+  --background-green: rgba(41, 211, 152, 0.2);
+  --background-blue: rgba(38, 187, 217, 0.2);
+
+  --color-black: #16161c;
+  --color-red: #e95678;
+  --color-green: #29d398;
+  --color-yellow: #fab795;
+  --color-blue: #26bbd9;
+  --color-purple: #ee64ae;
+  --color-teal: #59e3e3;
+  --color-violet: #ec5d93;
+
+  --color-gray: #a1877a;
+  --color-border: #6c6f9380;
+
+  /* PRISM */
+  --plain-color: #fdf0ed;
+  --plain-backgroundColor: #232530;
+  --selection-backgroundColor: #6c6f9380;
+  --prolog-color: #e95678;
+  --comment-color: #bbbbbb4d;
+  --constant-color: #f09483e6;
+  --keyword-color: #b877dbe6;
+  --symbol-color: #bbbbbb;
+  --string-color: #fab795e6;
+  --variable-color: #e95678e6;
+  --url-color: #fab795e6;
+  --punctuation-color: #bbbbbb;
+}
+
+html[data-theme="horizonbright"] {
+  /* HORIZON BRIGHT */
+  --background-primary: #faf4ed;
+  --color-primary: #16161c;
+
+  --background-selection: #af542780;
+  --background-secondary: #fadad1;
+
+  --background-selection-transp: rgba(175, 84, 39, 0.2);
+  --background-red: rgba(236, 106, 136, 0.2);
+  --background-yellow: rgba(247, 125, 38, 0.2);
+  --background-green: rgba(30, 185, 128, 0.2);
+  --background-blue: rgba(30, 174, 174, 0.2);
+
+  --color-black: #16161c;
+  --color-red: #ec6a88;
+  --color-green: #1eb980;
+  --color-yellow: #f77d26;
+  --color-blue: #1eaeae;
+  --color-purple: #8931b9;
+  --color-teal: #1d8991;
+  --color-violet: #bb4ea1;
+
+  --color-gray: #ab8468;
+  --color-border: #6c6f9380;
+
+  /* PRISM */
+  --plain-color: #16161c;
+  --plain-backgroundColor: #fadad1;
+  --selection-backgroundColor: #af542780;
+  --prolog-color: #ec6a88;
+  --comment-color: #33333380;
+  --constant-color: #dc3318;
+  --keyword-color: #8a31b9;
+  --symbol-color: #333333;
+  --string-color: #f6661e;
+  --variable-color: #da103f;
+  --url-color: #f6661e;
+  --punctuation-color: #333333;
+}

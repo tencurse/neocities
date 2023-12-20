@@ -1,0 +1,11 @@
+# dependencies installed by npm
+
+node_modules
+
+# build artefacts
+
+public
+
+# blog articles
+
+blog
