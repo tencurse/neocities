@@ -27,7 +27,7 @@ fonts used:
 art credit:
 
 - [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
-- [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - free palestine buttons created by rosemary + more resources
+- [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - button credit
 
 11ty plugins used:
 
