@@ -1,19 +1,39 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }}</title>
+  <meta name="color-scheme" content="dark light" />
+  <title>ten@earth ~{{ '/'+title if title != 'home' }}</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
 
   <link rel="stylesheet" href="/assets/css/theme.css" />
   <link rel="stylesheet" href="/assets/css/styles.css" />
+
+  {% if page.url == '/' %}
+  <link rel="stylesheet" href="https://neossg.neocities.org/onionring.css" />
+  <link rel="stylesheet" href="https://teethinvitro.neocities.org/webring/linuxring/script/onionring.css" />
+  {% endif %}
+
+  <link rel="me" href="https://tech.lgbt/@karma" />
 </head>
+
 <body>
+  {% include "partials/navigation.njk" %}
   <main>
     <article>
       {% include "partials/header.njk" %}
       {{ content | safe }}
     </article>
   </main>
+  {% if page.url == '/' %}
+  <footer>{% include "partials/webrings.njk" %}</footer>
+  {% endif %}
 </body>
+
 </html>
