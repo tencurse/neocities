@@ -40,7 +40,7 @@ find more web dev resources [here](/resources/dev)!
 previous iterations of the website are saved through archive.org. current iteration is v3, updated on dec 17 2023.
 
 - [v1](https://web.archive.org/web/20230529165943/https://10kph.neocities.org/) - apr 26 2023
-- [v2](https://web.archive.org/web/20231210035358/https://10kph.neocities.org/) - may 28 2023, [source code](https://github.com/tencurse/neocities-v1)
+- [v2](https://web.archive.org/web/20231210035358/https://10kph.neocities.org/) - may 28 2023, [source code](https://github.com/tencurse/neocities-v2)
 
 ## licence
 
