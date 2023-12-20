@@ -1,6 +1,11 @@
 [
   {
     "year": 2023,
+    "date": "2023-12-18",
+    "update": "replaced unicode icons with icons from lucide.dev"
+  },
+  {
+    "year": 2023,
     "date": "2023-12-17",
     "update": "third website overhaul for this year lmaoooo. some new stuff here and there, temporarily removed blog archive from directory"
   },

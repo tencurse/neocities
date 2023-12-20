@@ -23,7 +23,7 @@ here’s a [map](/sitemap), go forth and explore!
 
 thanks for visiting and take care!
 
-[<img src="assets/img/standwith.png">](/resources)
+[<img src="assets/img/standwith.png" alt="Resources for Palestinian liberation">](/resources) click the button on the left or go to [this page](/resources) for more information and resources and what you can do to help.
 
 ## currently
 

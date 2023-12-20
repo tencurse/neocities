@@ -18,6 +18,7 @@ here are resources i used in development:
 - [deploy-to-neocities](https://deploy-to-neocities.neocities.org/) - github workflow to automatically deploy your changes to neocities
 - [moment.js](https://momentjs.com/) - javascript library for easy date formatting
 - [transfonter.org](https://transfonter.org/) - online @font-face generator
+- [lucide.dev](https://lucide.dev/) - icons
 
 fonts used:
 
@@ -32,6 +33,7 @@ art credit:
 11ty plugins used:
 
 - [syntax highlighting](https://www.11ty.dev/docs/plugins/syntaxhighlight/) - prismjs syntax highlighting
+- [lucide icons](https://github.com/GrimLink/eleventy-plugin-lucide-icons) - enables shortcodes for lucide icons
 
 find more web dev resources [here](/resources/dev)!
 
