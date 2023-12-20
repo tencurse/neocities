@@ -18,10 +18,10 @@ parent: /logs
 </div>
 <p></p>
 
+#### icon key
+
 {% lucide "heart" %} - favourite
 {% lucide "refresh-cw" %} - reread
 {% lucide "users-round" %} - book club ([r/bookclub](https://www.reddit.com/r/bookclub/))
 
 {% include "partials/logbook.liquid" %}
-
-<!-- go to [bookbug](/bookbug) page -->
