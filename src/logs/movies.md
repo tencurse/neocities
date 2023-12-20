@@ -6,7 +6,7 @@ parent: /logs
 
 <p></p>
 
-<div class="grid">
+<div class="grid two-col-flex">
 <span class="label">letterboxd</span>
 <span><a href="https://letterboxd.com/coil/">coil</a></span>
 </div>
