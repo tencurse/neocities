@@ -16,7 +16,7 @@ bookClub: true
 
 *Stopped at 69%.* (Nice?)
 
-This book was really long 😭 Maybe it was bad luck and bad timing because I’m also reading another [epically long book](/logs/books/the-traitor-baru-cormorant) and I only had time and attention for one. Really, it’s my fault for trying to multitask (multiread?) two long books at the same time.
+This book was really long 😭 Maybe it was bad luck and bad timing because I’m also reading another [epically long book](/logs/books/the-monster-baru-cormorant) and I only had time and attention for one. Really, it’s my fault for trying to multitask (multiread?) two long books at the same time.
 
 My one gripe though is that it took 60% of the way through for something interesting to happen. That’s 300 pages out of 544 💀
 
