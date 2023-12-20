@@ -354,7 +354,8 @@ hr {
   margin: 1rem 1.5rem;
 }
 
-img, svg {
+img,
+svg {
   max-width: 100%;
   margin: 0 auto;
   vertical-align: middle;
@@ -446,7 +447,8 @@ nav li:hover a {
 
   h1.button,
   h2,
-  h3 {
+  h3,
+  nav a.button {
     padding: 2px 1em 2px 0.5em;
   }
 }
