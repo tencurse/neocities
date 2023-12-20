@@ -18,10 +18,20 @@ parent: /logs
 </div>
 <p></p>
 
-#### icon key
+<div class="grid two-col-flex">
+<div class="grid">
+<h4>icon key</h4>
 
 {% lucide "heart" %} - favourite
 {% lucide "refresh-cw" %} - reread
 {% lucide "users-round" %} - book club ([r/bookclub](https://www.reddit.com/r/bookclub/))
+</div>
+<div class="grid">
+<h4>acronym key</h4>
+
+DNF - did not finish
+TBR - to be read
+</div>
+</div>
 
 {% include "partials/logbook.liquid" %}
