@@ -4,8 +4,6 @@ layout: base.njk
 parent: /
 ---
 
-## basics
-
 <pre class="ascii">
 〃∩ ∧＿∧ 　　crick
 ⊂⌒（ 　・ω・）　　　crick
@@ -13,6 +11,8 @@ parent: /
 　 　 　 ＼/ 　  　  /　 旦
 　　　　　　￣￣￣
 </pre>
+
+## basics
 
 <div class="two-col-flex">
 <div class="grid">
