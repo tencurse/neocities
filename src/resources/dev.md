@@ -26,6 +26,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 
 {% aside "" "<p><strong>Note:</strong> Git is not the same thing as GitHub. Git is the version control system, while GitHub is where you may remotely host your repository. There are other options, like GitLab or Codeberg. Using GitHub/GitLab/Codeberg is completely optional.</p>" %}
 
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/) - a simple reference guide to get started with git
 - [Git Tutorial from W3 Schools](https://www.w3schools.com/git/git_intro.asp?remote=github) – I haven’t personally used this tutorial, but it might be helpful if you have no idea what Git version control is.
 - [Learn Git Branching](https://learngitbranching.js.org/) – Interactive tutorial for Git branching. Fun to use, but not for you if you don’t already have initial knowledge about Git.
 - [Git commit message conventions](https://cbea.ms/git-commit/#seven-rules) – a blog post on writing better commit messages
@@ -36,8 +37,6 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 
 - **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
 - [Specialized CSS frameworks](https://github.com/troxler/awesome-css-frameworks#specialized) – Cool CSS stylesheets/libraries! Some of these emulate interfaces (Windows 98, XP, 7, BIOS / MS–DOS, NES, etc.)
-  - I use [Tufte CSS](https://edwardtufte.github.io/tufte-css/) as a base for this website
-  - Related: [athena](https://github.com/apas/athena/tree/master) – minimalist static blog generator based on Flask, Pandoc, and Tufte CSS
 - **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
 - [csslayouts.io](https://csslayout.io/) – Pre–made CSS layouts for common web components
 - [Responsive Templates (w3.css)](https://www.w3schools.com/w3css/w3css_templates.asp) – Free responsive CSS templates from ol’ reliable W3 Schools
@@ -46,8 +45,8 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 
 ## accessibility
 
-- **[Solaria’s Web Accessibility Guide](https://solaria.neocities.org/accessibility)** - Great writeup on accessibility, covers a lot of ground
-- [A Field Guide to Accessibility](https://theultimatemotherfuckingwebsite.com/) – A great guide on accessibility
+- **[Solaria’s Web Accessibility Guide](https://solaria.neocities.org/accessibility)**
+- [A Field Guide to Accessibility](https://theultimatemotherfuckingwebsite.com/)
 - [WAVE Web Accessibility Tool](https://wave.webaim.org/) – This scans your website for any accessibility problems and how to fix them
 - [WebAIM’s Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check your text/background colour contrast
 - [Randoma11y](https://randoma11y.com) – Generate accessible colour schemes
@@ -59,7 +58,6 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [VS Code](https://code.visualstudio.com/) – free open source IDE with lots of useful extensions
 - [VSCodium](https://vscodium.com/) – a community–driven, free–licensed distribution of VS Code for the Microsoft haters
 - [neovim](https://neovim.io/) – hyperextensible vim–based text editor
-- [Brackets](https://brackets.io/) – text editor built for web designers and front–end developers
 
 ## best practices
 
