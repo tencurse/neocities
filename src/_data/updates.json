@@ -1,0 +1,137 @@
+[
+  {
+    "year": 2023,
+    "date": "2023-12-17",
+    "update": "third website overhaul for this year lmaoooo. some new stuff here and there, temporarily removed blog archive from directory"
+  },
+  {
+    "year": 2023,
+    "date": "2023-10-10",
+    "update": "Hi... Just updated the now page and movie page... Added RSS to blog... Ok bye again"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-24",
+    "update": "Updated about page and dev resources, minor CSS tweaks"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-09",
+    "update": "Added more ASCII in pages, changed font again teehee"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-08",
+    "update": "Added new webring! New blog post! Exciting!"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-07",
+    "update": "Removed _Writing_ page, added ASCII/Kaomoji on some pages, added _Bass_ log page, added fallback fonts"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-06",
+    "update": "Changed blog archive design to a much simpler layout, self-hosted Inconsolata variable font"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-05",
+    "update": "Changed arrow symbol for external links, added filter format for numbers (word count), removed wave text animation (it's not working in Chromium browsers for some reason!?!?!)"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-03",
+    "update": "Added alert/aside styling"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-02",
+    "update": "Joined a few webrings, updated home page title with rainbow background and wavy text. Happy Pride Month! <3"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-31",
+    "update": "Added next/previous blog post buttons, added pagination in fic archive and chapter pages, created _Style Guide_ page"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-30",
+    "update": "Implement external link arrow indicator, added theme switcher, added font switcher, added _Comms_ page with the chatbox and guestbook, moved webrings to the footer"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-29",
+    "update": "Updated story pages to be uniform with the current layout, new blog post, transferred web dev resources to its own page, added a _Now_ page, configured GitHub workflow for automated deployment"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-28",
+    "update": "First ever site layout overhaul into one column... I like it but I'm not sure if it'll stick 🤔 Stay tuned!"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-19",
+    "update": "Tweaked layout for story pages to support sidenotes, customized scrollbar for both Chromium and Firefox browsers, added pagination in _Writing_ page, added recent fics in home sidebar"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-18",
+    "update": "Added _Resources_ and _Writing_ pages, used new layout for story pages, archived some of my written works"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-17",
+    "update": "Added `box-shadow` in containers, added _Sitemap_ page, changed page titles, new blog post! Yippee!"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-15",
+    "update": "Extended main container to be a bit wider, adjusted kerning for `<h1>` and `<h2>` styles"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-14",
+    "update": "Installed TOC plugin for blog posts, made sidebar sticky"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-13",
+    "update": "Installed more 11ty plugins, added syntax highlighting (both light and dark mode, yay!), updated _About_ page, added _Blog_ page, updated sidebar with recent blog posts"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-12",
+    "update": "Tweaked layout and CSS, added _About_ page, updated the home page"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-10",
+    "update": "Converted project to 11ty SSG, separated sections into their own pages"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-09",
+    "update": "Initialized Git version control, changed font _again_, changed site layout, added pages, tweaked light colour scheme"
+  },
+  {
+    "year": 2023,
+    "date": "2023-05-05",
+    "update": "Changed font"
+  },
+  {
+    "year": 2023,
+    "date": "2023-04-27",
+    "update": "Added `<hr />` and `<code>` styles, slight improvements to the sidebar, added _To do_ section, changed dark mode button"
+  },
+  {
+    "year": 2023,
+    "date": "2023-04-26",
+    "update": "Built the website layout from scratch! It's still barebones but I added some info on how I built it."
+  },
+  {
+    "year": 2023,
+    "date": "2023-04-23",
+    "update": "This site was born :)"
+  }
+]

@@ -1,6 +1,7 @@
 ---
 title: sitemap
 layout: base.njk
+parent: /
 ---
 
 <pre class="ascii">
@@ -16,14 +17,12 @@ layout: base.njk
 
 - [about](/about)
 - [media log](/logs)
-- [blog archive](/blog)
-- [projects](/projects)
-- shrines - WIP
+- blog archive - work in progress :~)
 
 ## the website
 
+- [site info](/site-info)
 - [changelog](/changelog)
-- [roadmap](/roadmap)
 - [style guide](/styleguide)
 
 ## resources

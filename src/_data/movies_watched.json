@@ -1,0 +1,497 @@
+[
+  {
+    "Title": "Pacific Rim",
+    "Directors": ["Guillermo del Toro"],
+    "Rating": 5,
+    "Genres": ["Action", "Science-Fiction", "Adventure"],
+    "Year": 2013,
+    "DateWatched": "2023-12-14",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Happy Together",
+    "Directors": ["Wong Kar-wai"],
+    "Rating": 4.5,
+    "Genres": ["Romance", "Drama"],
+    "Year": 1997,
+    "DateWatched": "2023-12-05",
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "The Marvels",
+    "Directors": ["Nia DaCosta"],
+    "Rating": 3,
+    "Genres": ["Science-Fiction", "Action", "Adventure"],
+    "Year": 2023,
+    "DateWatched": "2023-12-01",
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "Directors": ["Francis Lawrence"],
+    "Rating": 4,
+    "Genres": ["Romance", "Drama", "Action"],
+    "Year": 2023,
+    "DateWatched": "2023-11-27",
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Whiplash",
+    "Directors": ["Damien Chazelle"],
+    "Rating": 5,
+    "Genres": ["Drama", "Music"],
+    "Year": 2014,
+    "DateWatched": "2023-11-26",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Hotel Transylvania Transformania",
+    "Directors": ["Derek Drymon", "Jennifer Kluska"],
+    "Rating": 3,
+    "Genres": ["Fantasy", "Comedy", "Adventure"],
+    "Year": 2022,
+    "DateWatched": "2023-11-25",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Hot Fuzz",
+    "Directors": ["Edgar Wright"],
+    "Rating": 3.5,
+    "Genres": ["Action", "Crime", "Comedy"],
+    "Year": 2007,
+    "DateWatched": "2023-11-21",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Annihilation",
+    "Directors": ["Alex Garland"],
+    "Rating": 4,
+    "Genres": ["Horror", "Science-Fiction"],
+    "Year": 2018,
+    "DateWatched": "2023-10-28",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Shrek",
+    "Directors": ["Andrew Adamson", "Vicky Jenson"],
+    "Rating": 5,
+    "Genres": ["Adventure", "Fantasy", "Comedy"],
+    "Year": 2001,
+    "DateWatched": "2023-10-17",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "A Quiet Place Part II",
+    "Directors": ["John Krasinski"],
+    "Rating": 3.5,
+    "Genres": ["Horror", "Science-Fiction", "Thriller"],
+    "Year": 2020,
+    "DateWatched": "2023-10-13",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Malum",
+    "Directors": ["Anthony DiBlasi"],
+    "Rating": 2.5,
+    "Genres": ["Horror"],
+    "Year": 2023,
+    "DateWatched": "2023-10-13",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "No Hard Feelings",
+    "Directors": ["Gene Stupnitsky"],
+    "Rating": 4,
+    "Genres": ["Comedy", "Romance"],
+    "Year": 2023,
+    "DateWatched": "2023-09-06",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Indiana Jones and the Dial of Destiny",
+    "Directors": ["James Mangold"],
+    "Rating": 3,
+    "Genres": ["Action", "Adventure"],
+    "Year": 2023,
+    "DateWatched": "2023-09-02",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Spider-Man: Across the Spider-Verse",
+    "Directors": ["Joaquim Dos Santos", "Justin K. Thompson", "Kemp Powers"],
+    "Rating": 4,
+    "Genres": ["Action", "Adventure"],
+    "Year": 2023,
+    "DateWatched": "2023-08-08",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Dungeons & Dragons: Honor Among Thieves",
+    "Directors": ["John Francis Daley", "Jonathan Goldstein"],
+    "Rating": 5,
+    "Genres": ["Comedy", "Adventure", "Fantasy"],
+    "Year": 2023,
+    "DateWatched": "2023-08-02",
+    "Favourite": true,
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Barbie",
+    "Directors": ["Greta Gerwig"],
+    "Rating": 4.5,
+    "Genres": ["Fantasy", "Comedy", "Adventure"],
+    "Year": 2023,
+    "DateWatched": "2023-07-22",
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Pacific Rim",
+    "Directors": ["Guillermo del Toro"],
+    "Rating": 5,
+    "Genres": ["Action", "Science-Fiction", "Adventure"],
+    "Year": 2013,
+    "DateWatched": "2023-07-12",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Suzume",
+    "Directors": ["Makoto Shinkai"],
+    "Rating": 5,
+    "Genres": ["Adventure", "Drama", "Fantasy"],
+    "Year": 2022,
+    "DateWatched": "2023-07-10",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Léon: The Professional",
+    "Directors": ["Luc Besson"],
+    "Rating": 3.5,
+    "Genres": ["Action", "Drama", "Crime"],
+    "Year": 1994,
+    "DateWatched": "2023-06-28",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Brokeback Mountain",
+    "Directors": ["Ang Lee"],
+    "Rating": 5,
+    "Genres": ["Romance", "Drama"],
+    "Year": 2005,
+    "DateWatched": "2023-06-27",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Extraction 2",
+    "Directors": ["Sam Hargrave"],
+    "Rating": 3,
+    "Genres": ["Action", "Thriller"],
+    "Year": 2023,
+    "DateWatched": "2023-06-18",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Saving Face",
+    "Directors": ["Alice Wu"],
+    "Rating": 5,
+    "Genres": ["Drama", "Comedy", "Romance"],
+    "Year": 2004,
+    "DateWatched": "2023-06-13",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "D.E.B.S.",
+    "Directors": ["Angela Robinson"],
+    "Rating": 4,
+    "Genres": ["Action", "Comedy", "Romance"],
+    "Year": 2004,
+    "DateWatched": "2023-06-11",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Fast X",
+    "Directors": ["Louis Leterrier"],
+    "Rating": 3.5,
+    "Genres": ["Thriller", "Action", "Crime"],
+    "Year": 2023,
+    "DateWatched": "2023-06-11",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Girl, Interrupted",
+    "Directors": ["James Mangold"],
+    "Rating": 4.5,
+    "Genres": ["Drama"],
+    "Year": 1999,
+    "DateWatched": "2023-06-08",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "But I'm a Cheerleader",
+    "Directors": ["Jamie Babbit"],
+    "Rating": 5,
+    "Genres": ["Comedy", "Romance", "Drama"],
+    "Year": 2000,
+    "DateWatched": "2023-06-04",
+    "Favourite": true,
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Bound",
+    "Directors": ["Lilly Wachowski", "Lana Wachowski"],
+    "Rating": 4,
+    "Genres": ["Thriller", "Drama"],
+    "Year": 1996,
+    "DateWatched": "2023-06-03",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Y Tu Mamá También",
+    "Directors": ["Alfonso Cuarón"],
+    "Rating": 4.5,
+    "Genres": ["Drama", "Romance"],
+    "Year": 2001,
+    "DateWatched": "2023-06-02",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Atomic Blonde",
+    "Directors": ["David Leitch"],
+    "Rating": 4.5,
+    "Genres": ["Thriller", "Action"],
+    "Year": 2017,
+    "DateWatched": "2023-06-01",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Red Sparrow",
+    "Directors": ["Francis Lawrence"],
+    "Rating": 4,
+    "Genres": ["Thriller", "Mystery"],
+    "Year": 2018,
+    "DateWatched": "2023-05-28",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Guardians of the Galaxy Vol. 3",
+    "Directors": ["James Gunn"],
+    "Rating": 4.5,
+    "Genres": ["Science-Fiction", "Action", "Adventure"],
+    "Year": 2023,
+    "DateWatched": "2023-05-08",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Suzume",
+    "Directors": ["Makoto Shinkai"],
+    "Rating": 4,
+    "Genres": ["Adventure", "Drama", "Fantasy"],
+    "Year": 2022,
+    "DateWatched": "2023-05-04",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Sinbad: Legend of the Seven Seas",
+    "Directors": ["Tim Johnson", "Patrick Gilmore"],
+    "Rating": 4,
+    "Genres": ["Adventure", "Drama", "Fantasy"],
+    "Year": 2022,
+    "DateWatched": "2023-04-08",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Dungeons & Dragons: Honor Among Thieves",
+    "Directors": ["John Francis Daley", "Jonathan Goldstein"],
+    "Rating": 5,
+    "Genres": ["Comedy", "Adventure", "Fantasy"],
+    "Year": 2023,
+    "DateWatched": "2023-04-07",
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "John Wick: Chapter 4",
+    "Directors": ["Chad Stahelski"],
+    "Rating": 5,
+    "Genres": ["Thriller", "Action", "Crime"],
+    "Year": 2023,
+    "DateWatched": "2023-04-03",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Tetris",
+    "Directors": ["Jon S. Baird"],
+    "Rating": 4,
+    "Genres": ["History", "Drama", "Thriller"],
+    "Year": 2023,
+    "DateWatched": "2023-03-31",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "10 Things I Hate About You",
+    "Directors": ["Gil Junger"],
+    "Rating": 3.5,
+    "Genres": ["Comedy", "Romance", "Drama"],
+    "Year": 1999,
+    "DateWatched": "2023-03-30",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Speed Racer",
+    "Directors": ["Lilly Wachowski", "Lana Wachowski"],
+    "Rating": 3.5,
+    "Genres": ["Comedy", "Adventure", "Action"],
+    "Year": 2008,
+    "DateWatched": "2023-03-28",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Cocaine Bear",
+    "Directors": ["Elizabeth Banks"],
+    "Rating": 3.5,
+    "Genres": ["Thriller", "Comedy", "Crime"],
+    "Year": 2023,
+    "DateWatched": "2023-03-24",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Glass Onion",
+    "Directors": ["Rian Johnson"],
+    "Rating": 5,
+    "Genres": ["Crime", "Comedy", "Mystery"],
+    "Year": 2022,
+    "DateWatched": "2023-03-17",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "The Menu",
+    "Directors": ["Mark Mylod"],
+    "Rating": 5,
+    "Genres": ["Thriller", "Horror", "Comedy"],
+    "Year": 2022,
+    "DateWatched": "2023-02-24",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Ant-Man and the Wasp: Quantumania",
+    "Directors": ["Peyton Reed"],
+    "Rating": 2,
+    "Genres": ["Action", "Adventure", "Science-Fiction"],
+    "Year": 2023,
+    "DateWatched": "2023-02-18",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Puss in Boots: The Last Wish",
+    "Directors": ["Joel Crawford"],
+    "Rating": 5,
+    "Genres": ["Comedy", "Adventure", "Fantasy"],
+    "Year": 2022,
+    "DateWatched": "2023-02-09",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Black Panther: Wakanda Forever",
+    "Directors": ["Ryan Coogler"],
+    "Rating": 4,
+    "Genres": ["Adventure", "Action", "Science-Fiction"],
+    "Year": 2022,
+    "DateWatched": "2023-02-03",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Back to the Future Part III",
+    "Directors": ["Robert Zemeckis"],
+    "Rating": 4.5,
+    "Genres": ["Adventure", "Comedy", "Science-Fiction"],
+    "Year": 1990,
+    "DateWatched": "2023-01-28",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Back to the Future Part II",
+    "Directors": ["Robert Zemeckis"],
+    "Rating": 4.5,
+    "Genres": ["Adventure", "Comedy", "Science-Fiction"],
+    "Year": 1989,
+    "DateWatched": "2023-01-26",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Back to the Future",
+    "Directors": ["Robert Zemeckis"],
+    "Rating": 5,
+    "Genres": ["Adventure", "Comedy", "Science-Fiction"],
+    "Year": 1985,
+    "DateWatched": "2023-01-25",
+    "Rewatch": true,
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Pearl",
+    "Directors": ["Ti West"],
+    "Rating": 4,
+    "Genres": ["Horror"],
+    "Year": 2022,
+    "DateWatched": "2023-01-24",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Criminal",
+    "Directors": ["Ariel Vromen"],
+    "Rating": 2,
+    "Genres": ["Action", "Crime", "Science-Fiction"],
+    "Year": 2016,
+    "DateWatched": "2023-01-22",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Last Seen Alive",
+    "Directors": ["Brian Goodman"],
+    "Rating": 2,
+    "Genres": ["Action", "Thriller"],
+    "Year": 2022,
+    "DateWatched": "2023-01-20",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "The Frighteners",
+    "Directors": ["Peter Jackson"],
+    "Rating": 4,
+    "Genres": ["Comedy", "Horror"],
+    "Year": 1996,
+    "DateWatched": "2023-01-08",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Nobody",
+    "Directors": ["Ilya Naishuller"],
+    "Rating": 3,
+    "Genres": ["Thriller", "Action", "Crime"],
+    "Year": 2021,
+    "DateWatched": "2023-01-07",
+    "YearWatched": 2023
+  }
+]

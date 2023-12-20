@@ -1,1 +1,4 @@
-<h1 class="title button">/{{ title }}</h1>
+<h1 class="title button">/{{ title }} {% if page.url != '/' %}
+  <a href="{{ parent }}">↰</a>
+  {% endif %}
+</h1>

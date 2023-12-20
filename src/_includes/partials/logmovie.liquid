@@ -1,0 +1,17 @@
+{% if movies_watched %}
+
+{% assign movies23 = movies_watched | where: 'YearWatched', 2023%}
+
+{% if movies23 %}
+<h2>2023</h2>
+
+<ul class="log">
+  {% for movie in movies23 %}
+  {% assign directors = movie.Directors %}
+  {% include "partials/movie.liquid" %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+
+{% endif %}

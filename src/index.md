@@ -17,11 +17,13 @@ layout: base.njk
 
 hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
 
-i made this site to share a little pieces of myself--my interests, my thoughts, my projects. i hope you have fun, learn something, or both!
+i made this site to share a little pieces of myself--my interests, my thoughts, my projects, among other things. i hope you have fun, learn something, or both!
 
 here’s a [map](/sitemap), go forth and explore!
 
 thanks for visiting and take care!
+
+[<img src="assets/img/standwith.png">](/resources)
 
 ## currently
 
@@ -35,14 +37,19 @@ thanks for visiting and take care!
 <span class="label">listening</span>
 <span><em>obsession</em> by sir chloe</span>
 </div>
+
 <p></p>
+
+last updated: dec 2023
 
 ## site updates
 
+{% assign update = updates | first %}
+
 <div class="grid">
-<span class="label">oct 10 2023</span>
-<span>hi... just updated the now page and movie page... added RSS to blog... ok bye again</span>
+<span class="label">{{ update.date | toUTC }}</span>
+<span>{{ update.update | renderUsingMarkdown }}</span>
 </div>
 <p></p>
 
-[see more updates →](/updates)
+[see more updates →](/changelog)
