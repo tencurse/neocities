@@ -329,8 +329,6 @@ blockquote p:first-of-type::before {
 }
 
 blockquote p {
-  /* width: 50%; */
-  /* margin-right: 40px; */
   position: relative;
 }
 
@@ -346,6 +344,11 @@ hr {
   border: 0;
   border-top: 1px solid var(--color-border);
   margin: 1rem 1.5rem;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 /* NAVIGATION */
