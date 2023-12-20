@@ -8,20 +8,25 @@ layout: bookbase.njk
     <img class="entry-cover" src="{{ cover }}" alt="{{ book-title }} by {{ author }}">
     <div>
       <h3>details</h3>
-      <p class="entry-author"><strong>author: </strong>{{ author }}</p>
-      <p><strong>published: </strong>{{yearPublished}}</p>
-      <p class="entry-date-group"><span class="entry-date"><strong>date started:</strong> {{ dateStarted | toUTC
-          }}</span><span class="entry-date"><strong>date finished:</strong> {% if status == "Read"%}{{ date | toUTC }}{%
-          else %}{{ status }}{% endif %}</span></p>
+      <div class="grid two-col-flex">
+        <div class="grid">
+          <span class="label">author</span> <span>{{ author }}</span>
+          <span class="label">published</span> <span>{{ yearPublished }}</span>
+          <span class="label">date start</span> <span>{{ dateStarted | toUTC }}</span>
+          <span class="label">date read</span> <span>{% if status == "Read"%}{{ date | toUTC }}{%
+            else %}{{ status }}{% endif %}</span>
+        </div>
+      </div>
       <p class="entry-icon-group">{% if rating %}<span class="entry-rating">{% renderStar rating %}</span>{% endif %}
         <span class="entry-icon">{%
           if
           bookBug %}<a href="/logs/bookbug">{% lucide "bug" %}</a>{% endif %} {% if bookClub %}{% lucide "users-round"
           %}{% endif %} {% if reread
           %}{%
-          lucide "refresh-cw" %}{% endif %} {% if favourite %}{% lucide "heart" %}{% endif %}</span></p>
-      <p class="entry-genre-group">{% for gen in genre %} <span class="entry-genre">{{ gen }} {% if gen != genre.last
-          %}·{% endif %}{% endfor %}</span></p>
+          lucide "refresh-cw" %}{% endif %} {% if favourite %}{% lucide "heart" %}{% endif %}</span>
+      </p>
+      <p class="entry-genre-group">{% for gen in genre %} <span class="entry-genre">{{ gen }}</span> {% if gen != genre.last
+          %}{% lucide "dot" %}{% endif %}{% endfor %}</p>
       {% if contentWarning %}<p><strong>content warnings:</strong> {% for cw in contentWarning %} {{ cw }}{% if cw !=
         contentWarning.last %}, {% endif %}{% endfor %}</p>{% endif %}
     </div>
