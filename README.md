@@ -6,6 +6,12 @@ Don't know where to start? Try [index.md](./src/index.md). Or [base.njk](./src/_
 
 For your browsing experience, please click **Code** at the top of a Markdown file instead of **Preview**.
 
+## Preview
+
+![Website layout screenshot](2023-12-17.png)
+
+Website layout as of 2023-12-17
+
 ## Getting started
 
 I'm not sure why you'd want to do this but here are instructions on how to create a clone of my website on your local machine:
