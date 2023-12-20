@@ -248,6 +248,12 @@ h3 a {
   color: var(--background-primary) !important;
 }
 
+h1 a svg {
+  color: var(--color-primary);
+  filter: drop-shadow(3px 3px var(--background-primary));
+  margin-top:-12px;
+}
+
 h1 {
   background: var(--color-red);
   font-size: 1.8em;
@@ -398,7 +404,7 @@ nav a::before {
 }
 
 nav li:active,
-a.button {
+h1 a:active svg {
   transform: scale(0.95);
 }
 
@@ -598,9 +604,11 @@ img.entry-cover {
   align-self: center;
   box-shadow: 8px 8px var(--color-black);
 }
-.entry-date {
-  margin-inline-end: 2rem;
-  display: inline-block;
+.entry-container .grid span {
+  text-transform: none;
+}
+.entry-genre {
+  color: var(--color-blue);
 }
 
 @media (max-width: 665px) {
