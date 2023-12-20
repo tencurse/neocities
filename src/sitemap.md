@@ -19,8 +19,10 @@ parent: /
 - [media log](/logs)
   - [movies](/logs/movies)
   - [books](/logs/books)
+    - [2023](/logs/books/2023)
+    - [2022](/logs/books/2022)
+    - [2021](/logs/books/2021)
   - [bass](/logs/bass)
-- blog archive - work in progress :~)
 
 ## the website
 
