@@ -611,6 +611,24 @@ img.entry-cover {
   color: var(--color-blue);
 }
 
+span.spoiler {
+  background-color: var(--color-black);
+  color: var(--color-black);
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+  cursor: pointer;
+}
+
+span.revealed {
+  background-color: transparent;
+  color: var(--color-primary);
+  -webkit-user-select: text; /* Safari */
+  -ms-user-select: text; /* IE 10 and IE 11 */
+  user-select: text; /* Standard syntax */
+  cursor: pointer;
+}
+
 @media (max-width: 665px) {
   .entry-details {
     flex-direction: column;

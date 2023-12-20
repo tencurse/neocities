@@ -68,6 +68,10 @@ module.exports = function (eleventyConfig) {
     return `<aside class="${type}">${message}</aside>`;
   });
 
+  eleventyConfig.addPairedShortcode("spoiler", (content) => {
+    return `<span class="spoiler" onclick="revealSpoiler(this)">${content}</span>`;
+  })
+
   // COLLECTIONS
 
   eleventyConfig.addCollection("books", function (collection) {
@@ -79,6 +83,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets/css");
   eleventyConfig.addPassthroughCopy("./src/assets/img");
   eleventyConfig.addPassthroughCopy("./src/assets/fonts");
+  eleventyConfig.addPassthroughCopy("./src/assets/js");
 
   return {
     dir: {
