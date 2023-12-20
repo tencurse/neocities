@@ -3,5 +3,7 @@
   "permalink": "/logs/books/{{ book-title | slugify }}/",
   "tags": "books",
   "title": "books",
-  "parent": "/logs/books"
+  "eleventyComputed": {
+    "parent": "/logs/books/{% if yearRead != 2024 %}{{ yearRead }}{% endif %}"
+  }
 }

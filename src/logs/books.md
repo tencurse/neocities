@@ -18,21 +18,12 @@ parent: /logs
 </div>
 <p></p>
 
-<div class="grid two-col-flex">
-<div class="grid">
-<h4>icon key</h4>
-
-{% lucide "heart" %} - favourite
-{% lucide "refresh-cw" %} - reread
-{% lucide "text" %} - reviewed
-{% lucide "users-round" %} - book club ([r/bookclub](https://www.reddit.com/r/bookclub/))
-</div>
-<div class="grid">
-<h4>acronym key</h4>
-
-DNF - did not finish
-TBR - to be read
-</div>
-</div>
+{% include "partials/bookkey.njk" %}
 
 {% include "partials/logbook.liquid" %}
+
+## previous years
+
+<!-- - [2023](/logs/books/2023) -->
+- [2022](/logs/books/2022)
+- [2021](/logs/books/2021)
