@@ -68,6 +68,12 @@ module.exports = function (eleventyConfig) {
     return `<aside class="${type}">${message}</aside>`;
   });
 
+  // COLLECTIONS
+
+  eleventyConfig.addCollection("books", function (collection) {
+    return collection.getFilteredByTag("books").reverse();
+  });
+
   // PASSTHROUGH
 
   eleventyConfig.addPassthroughCopy("./src/assets/css");

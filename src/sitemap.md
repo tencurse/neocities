@@ -17,6 +17,9 @@ parent: /
 
 - [about](/about)
 - [media log](/logs)
+  - [movies](/logs/movies)
+  - [books](/logs/books)
+  - [bass](/logs/bass)
 - blog archive - work in progress :~)
 
 ## the website
@@ -27,5 +30,6 @@ parent: /
 
 ## resources
 
-- [main resources page](/resources)
-- [web development](/resources/dev)
+- [main page](/resources)
+  - [palestine](/resources/palestine)
+  - [web development](/resources/dev)

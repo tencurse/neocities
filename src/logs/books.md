@@ -16,6 +16,10 @@ parent: /logs
 </div>
 <p></p>
 
-work in progress :~)
+{% lucide "heart" %} - favourite
+{% lucide "refresh-cw" %} - reread
+{% lucide "users-round" %} - book club
+
+{% include "partials/logbook.liquid" %}
 
 <!-- go to [bookbug](/bookbug) page -->

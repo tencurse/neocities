@@ -1,0 +1,7 @@
+{
+  "layout": "bookpage.liquid",
+  "permalink": "/logs/books/{{ book-title | slugify }}/",
+  "tags": "books",
+  "title": "books",
+  "parent": "/logs/books"
+}

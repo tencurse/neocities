@@ -473,6 +473,12 @@ nav li:hover a {
   width: 100%;
 }
 
+.log.booklist {
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(160px, 1fr) );
+  gap: 1rem;
+}
+
 .log-entry {
   display: flex;
   flex-wrap: wrap;
@@ -481,23 +487,37 @@ nav li:hover a {
   align-items: center;
 }
 
+.log-book {
+  padding: 0 0 1rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
 .log-entry:not(:first-child) {
   margin: 0;
 }
 
-.log-entry:not(:last-child) {
+.log-entry:not(:last-child):not(.log-book) {
   border-bottom: 1px solid var(--background-selection);
 }
 
-.log-date {
+.log-entry:not(.log-book) .log-date {
   order: 2;
+  padding: 0;
+  margin-top: 3px;
 }
 
 .log-rating {
   order: 3;
 }
 
-.log-icon {
+img.log-cover {
+  /* max-width: 250px; */
+  height: 250px;
+  margin: 1em auto;
+}
+
+.log-entry:not(.log-book) .log-icon {
   order: 4;
 }
 
@@ -511,29 +531,75 @@ nav li:hover a {
 }
 
 @media only screen and (min-width: 500px) {
-  .log-date {
+  .log-entry:not(.log-book) .log-date {
     flex-basis: 20%;
     order: initial;
     font-size: inherit;
+    margin-top: 0;
   }
 
-  .log-entry {
+  .log-entry:not(.log-book) {
     flex-wrap: nowrap;
     align-items: flex-start;
   }
 
-  .log-title {
+  .log-entry:not(.log-book) .log-title {
     flex-basis: 58%;
   }
 
-  .log-icon {
+  .log-entry:not(.log-book) .log-icon{
     flex-basis: 7%;
     order: 3;
   }
 
-  .log-rating {
+  .log-entry:not(.log-book) .log-rating {
     flex-basis: 15%;
     text-align: right;
+  }
+}
+
+/* BOOK LOG */
+.entry-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  column-gap: 1rem;
+}
+.entry-details {
+  display: flex;
+  column-gap: 1rem;
+}
+.entry-details h3 {
+  margin: 1em 0;
+}
+h2.entry-title {
+  margin: 1rem 0;
+  padding: 2px 0.5em;
+  width: max-content;
+  max-width: 100%;
+  word-wrap: break-word;
+  min-height: 1.25em;
+  height: max-content;
+  line-height: 1.25em;
+}
+img.entry-cover {
+  display: inline;
+  max-width: 200px;
+  margin: 0 auto;
+  height: 100%;
+  align-self: center;
+}
+.entry-date {
+  margin-inline-end: 2rem;
+  display: inline-block;
+}
+
+@media (max-width: 665px) {
+  .entry-details {
+    flex-direction: column;
+  }
+  img.entry-cover {
+    width: 200px;
   }
 }
 

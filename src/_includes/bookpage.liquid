@@ -1,0 +1,28 @@
+---
+layout: bookbase.njk
+---
+
+<section class="entry-container">
+  <h2 class="entry-title">{{ book-title }}</h2>
+  <div class="entry-details">
+    <img class="entry-cover" src="{{ cover }}" alt="{{ book-title }} by {{ author }}">
+    <div>
+      <h3>details</h3>
+      <p class="entry-author"><strong>author: </strong>{{ author }}</p>
+      <p><strong>published: </strong>{{yearPublished}}</p>
+      <p class="entry-date-group"><span class="entry-date"><strong>date started:</strong> {{ dateStarted | toUTC
+          }}</span><span class="entry-date"><strong>date finished:</strong> {{ date | toUTC }}</span></p>
+      <p class="entry-icon-group"><span class="entry-rating">{% renderStar rating %}</span> <span class="entry-icon">{%
+          if
+          bookBug %}{% lucide "bug" %}{% endif %} {% if bookClub %}{% lucide "users-round" %}{% endif %} {% if reread
+          %}{%
+          lucide "refresh-cw" %}{% endif %} {% if favourite %}{% lucide "heart" %}{% endif %}</span></p>
+      <p class="entry-genre-group">{% for gen in genre %} <span class="entry-genre">{{ gen }} {% if gen != genre.last
+          %}·{% endif %}{% endfor %}</span></p>
+      {% if contentWarning %}<p><strong>content warnings:</strong> {% for cw in contentWarning %} {{ cw }}{% if cw !=
+        contentWarning.last %}, {% endif %}{% endfor %}</p>{% endif %}
+    </div>
+  </div>
+
+  {{ content }}
+</section>

@@ -13,5 +13,5 @@ parent: /
 </pre>
 
 - [movies](/logs/movies)
-- [books](/logs/books) - work in progress :~)
+- [books](/logs/books)
 - [bass](/logs/bass)

@@ -1,0 +1,11 @@
+<li class="log-book">
+    <img class="log-cover" src="{{ book.data.cover }}" alt="{{ book.data.book-title }} by {{ book.data.author }}">
+    <span class="log-title"><em><a href="{{ book.url }}">{{ book.data.book-title }}</a></em> <span class="log-dir">by {{
+            book.data.author }}</span></span>
+    <span class="log-date">{{ book.data.date | toUTC }}</span>
+    <span><span class="log-rating">{% renderStar
+            book.data.rating %}</span> <span class="log-icon">{% if book.data.reread %}{% lucide "refresh-cw" %}{% endif
+            %} {%
+            if book.data.favourite %}{% lucide "heart" %}{% endif %}</span> {%if book.data.bookBug %}{% lucide "bug"
+        %}{% endif %} {% if book.data.bookClub %}{% lucide "users-round" %}{% endif %}</span>
+</li>
