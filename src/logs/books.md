@@ -4,6 +4,8 @@ layout: base.njk
 parent: /logs
 ---
 
+<p></p>
+
 <div class="grid">
 <span class="label">bookwyrm</span>
 <span><a href="https://bookwyrm.social/user/karma">karma</a></span>

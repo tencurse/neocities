@@ -15,14 +15,19 @@ feel free to copy-paste my code, but if you do, please take the time to learn wh
 here are resources i used in development:
 
 - [tokyo night](https://github.com/folke/tokyonight.nvim) - colour scheme for the website
-- [deploy-to-neocities](https://deploy-to-neocities.neocities.org/) - github workflow to automatically deploy your changes to neocities after a push
-- [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
-- [mmoment.js](https://momentjs.com/) - javascript library for easy date formatting
+- [deploy-to-neocities](https://deploy-to-neocities.neocities.org/) - github workflow to automatically deploy your changes to neocities
+- [moment.js](https://momentjs.com/) - javascript library for easy date formatting
+- [transfonter.org](https://transfonter.org/) - online @font-face generator
 
 fonts used:
 
 - [anonymous pro](https://fonts.google.com/specimen/Anonymous+Pro)
 - [ms pgothic](https://eng.m.fontke.com/font/10400069/download/) - for ascii art
+
+art credit:
+
+- [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
+- [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - free palestine buttons created by rosemary + more resources
 
 11ty plugins used:
 
