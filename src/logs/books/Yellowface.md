@@ -10,6 +10,7 @@ date: 2023-07-10
 status: Read
 rating: 4
 cover: "/assets/img/yellowface.jpg"
+hasReview: true
 ---
 
 ### review

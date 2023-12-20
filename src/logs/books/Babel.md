@@ -10,6 +10,7 @@ dateFinished: 2023-12-10
 status: DNF
 cover: "/assets/img/babel.jpg"
 bookClub: true
+hasReview: true
 ---
 
 ### review

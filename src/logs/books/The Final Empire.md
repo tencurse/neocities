@@ -11,9 +11,7 @@ status: Read
 rating: 4
 cover: "/assets/img/mistborn.jpg"
 reread: true
-series: The Mistborn Saga
-series-no: 1
-series-total: 3
+hasReview: true
 ---
 
 ### review

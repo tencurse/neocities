@@ -12,6 +12,7 @@ rating: 5
 cover: "/assets/img/im-glad-my-mom-died.jpg"
 favourite: true
 status: "Read"
+hasReview: true
 ---
 
 ### review

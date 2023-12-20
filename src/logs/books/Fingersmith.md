@@ -11,6 +11,7 @@ status: Read
 rating: 4.5
 cover: "/assets/img/fingersmith.jpg"
 favourite: true
+hasReview: true
 ---
 
 ### review

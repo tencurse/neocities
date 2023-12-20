@@ -10,6 +10,7 @@ date: 2023-05-02
 status: Read
 rating: 4
 cover: "/assets/img/world-war-z.png"
+hasReview: true
 ---
 
 ### review

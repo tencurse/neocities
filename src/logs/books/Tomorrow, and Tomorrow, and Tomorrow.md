@@ -10,6 +10,7 @@ date: 2023-01-23
 status: Read
 rating: 1
 cover: "/assets/img/tomorrow3x.jpg"
+hasReview: true
 ---
 
 ### review

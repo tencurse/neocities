@@ -10,6 +10,7 @@ date: 2023-04-15
 status: Read
 rating: 4.5
 cover: "/assets/img/the-cruel-prince.jpg"
+hasReview: true
 ---
 
 ### review

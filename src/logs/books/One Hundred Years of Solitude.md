@@ -10,6 +10,7 @@ date: 2023-01-09
 status: DNF
 cover: "/assets/img/100-years.jpg"
 bookClub: true
+hasReview: true
 ---
 
 ### review
