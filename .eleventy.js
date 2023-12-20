@@ -69,7 +69,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPairedShortcode("spoiler", (content) => {
-    return `<span class="spoiler" onclick="revealSpoiler(this)">${content}</span>`;
+    return `<span class="spoiler">${content}</span>`;
   })
 
   // COLLECTIONS
