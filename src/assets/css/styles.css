@@ -515,6 +515,7 @@ img.log-cover {
   /* max-width: 250px; */
   height: 250px;
   margin: 1em auto;
+  box-shadow: 8px 8px var(--color-black);
 }
 
 .log-entry:not(.log-book) .log-icon {
@@ -588,6 +589,7 @@ img.entry-cover {
   margin: 0 auto;
   height: 100%;
   align-self: center;
+  box-shadow: 8px 8px var(--color-black);
 }
 .entry-date {
   margin-inline-end: 2rem;
