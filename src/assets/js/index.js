@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
       revealSpoiler(this);
     })
 
-    spoiler.addEventListener('touchend', function() {
+    spoiler.addEventListener('touchend', function(evemt) {
       event.preventDefault();
       revealSpoiler(this);
     })
