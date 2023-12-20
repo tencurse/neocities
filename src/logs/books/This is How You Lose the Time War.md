@@ -8,7 +8,7 @@ edition: ebook
 dateStarted: 2021-10-09
 date: 2021-11-09
 status: Read
-rating: 3
+rating: 5
 cover: "/assets/img/time-war.jpg"
 hasReview: true
 favourite: true
