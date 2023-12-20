@@ -138,7 +138,7 @@ h4 {
 }
 
 .grid span.label {
-  margin-top:0;
+  margin-top: 0;
   padding: 0 2em 0 0;
   cursor: default;
   background: var(--background-blue);
@@ -259,7 +259,7 @@ h3 a {
 h1 a svg {
   color: var(--color-primary);
   filter: drop-shadow(3px 3px var(--background-primary));
-  margin-top:-12px;
+  margin-top: -12px;
 }
 
 h1 {
@@ -496,7 +496,7 @@ nav li:hover a {
 
 .log.booklist {
   display: grid;
-  grid-template-columns: repeat( auto-fit, minmax(160px, 1fr) );
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 1rem;
 }
 
@@ -569,7 +569,7 @@ img.log-cover {
     flex-basis: 58%;
   }
 
-  .log-entry:not(.log-book) .log-icon{
+  .log-entry:not(.log-book) .log-icon {
     flex-basis: 7%;
     order: 3;
   }
@@ -644,6 +644,23 @@ span.revealed {
   img.entry-cover {
     width: 200px;
   }
+}
+
+/* 88X31 BUTTON OUTLINKS */
+
+.outlink-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.outlink {
+  width: 88px;
+}
+
+.outlink-group .outlink:hover,
+.outlink-group .outlink:active {
+  transform: scale(0.95);
 }
 
 /* ALERTS/ADMONITION/ASIDES */
