@@ -29,7 +29,7 @@ thanks for visiting and take care!
 
 <div class="grid">
 <span class="label">reading</span>
-<span><em>the traitor baru cormorant</em> by seth dickinson</span>
+<span><em><a href="/logs/books/the-monster-baru-cormorant">the monster baru cormorant</a></em> by seth dickinson</span>
 <span class="label">watching</span>
 <span>house m.d., season 5</span>
 <span class="label">playing</span>
