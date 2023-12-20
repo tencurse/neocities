@@ -11,8 +11,8 @@ layout: bookbase.njk
       <p class="entry-author"><strong>author: </strong>{{ author }}</p>
       <p><strong>published: </strong>{{yearPublished}}</p>
       <p class="entry-date-group"><span class="entry-date"><strong>date started:</strong> {{ dateStarted | toUTC
-          }}</span><span class="entry-date"><strong>date finished:</strong> {{ date | toUTC }}</span></p>
-      <p class="entry-icon-group"><span class="entry-rating">{% renderStar rating %}</span> <span class="entry-icon">{%
+          }}</span><span class="entry-date"><strong>date finished:</strong> {% if status == "Read"%}{{ date | toUTC }}{% else %}{{ status }}{% endif %}</span></p>
+      <p class="entry-icon-group">{% if rating %}<span class="entry-rating">{% renderStar rating %}</span>{% endif %} <span class="entry-icon">{%
           if
           bookBug %}{% lucide "bug" %}{% endif %} {% if bookClub %}{% lucide "users-round" %}{% endif %} {% if reread
           %}{%

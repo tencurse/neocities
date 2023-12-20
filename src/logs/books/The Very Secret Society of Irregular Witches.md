@@ -10,4 +10,5 @@ date: 2023-03-21
 status: Read
 rating: 3.5
 cover: "/assets/img/the-very-secret-society.jpg"
+bookClub: true
 ---

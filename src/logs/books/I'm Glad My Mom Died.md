@@ -11,6 +11,7 @@ date: 2023-01-04
 rating: 5
 cover: "/assets/img/im-glad-my-mom-died.jpg"
 favourite: true
+status: "Read"
 ---
 
 ### review
