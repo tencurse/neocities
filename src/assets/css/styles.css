@@ -126,6 +126,11 @@ h4 {
   word-wrap: break-word;
   text-transform: lowercase;
   min-height: 24px;
+  margin: -2px 0 0 0;
+}
+
+.grid .grid span {
+  margin: -4px 0 0 0;
 }
 
 .grid span p {
@@ -133,6 +138,7 @@ h4 {
 }
 
 .grid span.label {
+  margin-top:0;
   padding: 0 2em 0 0;
   cursor: default;
   background: var(--background-blue);
@@ -174,7 +180,8 @@ a[href^="https://"]::after
 
 a[href^="localhost:8080"]::after,
 a[href^="https://10kph.neocities.org"]::after,
-section.webring a::after {
+section.webring a::after,
+a.outlink::after {
   display: none !important;
 }
 
@@ -568,7 +575,7 @@ img.log-cover {
 }
 .entry-details {
   display: flex;
-  column-gap: 1rem;
+  column-gap: 2rem;
 }
 .entry-details h3 {
   margin: 1em 0;
