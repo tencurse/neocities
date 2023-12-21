@@ -6,7 +6,7 @@ yearPublished: 2022
 genre: ["fantasy", "historical fiction"]
 edition: ebook
 dateStarted: 2023-03-17
-dateFinished: 2023-12-10
+date: 2023-12-10
 status: DNF
 cover: "/assets/img/babel.jpg"
 bookClub: true
