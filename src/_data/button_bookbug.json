@@ -63,11 +63,15 @@
     "title": "devils.gay",
     "img": "/assets/img/devils.gif",
     "url": "https://devils.gay/etc/bookbug"
-  }
-  ,
+  },
   {
     "title": "the0bserver.neocities.org",
     "img": "https://i.imgur.com/nrWeEzY.png",
     "url": "https://the0bserver.neocities.org/bookbug"
+  },
+  {
+    "title": "kengo.neocities.org",
+    "img": "/assets/img/kengosite1.png",
+    "url": "https://kengo.neocities.org/bookbug"
   }
 ]
