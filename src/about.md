@@ -38,7 +38,11 @@ parent: /
 
 hello! i’m ten. i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???).
 
-i made this site to exercise my coding and design skills (mostly my design skills), and also as a way to offer a piece of myself out into the world wide web. you can [find more info about this site here](/site-info). [making websites are cool, my friend.](/resources/dev)
+i made this site to exercise my coding and design skills (mostly my design skills), and also as a way to offer a piece of myself out into the world wide web.
+
+you can [find more info about this site here](/site-info). [making websites are cool, my friend.](/resources/dev)
+
+also check out my [media log](/logs) and [uses](/uses) (wip) page!
 
 if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials below :-)
 
