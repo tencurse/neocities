@@ -5,6 +5,14 @@
 {% if movies23 %}
 <h2>2023</h2>
 
+<div class="grid two-col-flex">
+  <div class="grid">
+    <span class="label">total</span>
+    <span>50 movies</span>
+  </div>
+</div>
+<p></p>
+
 <ul class="log">
   {% for movie in movies23 %}
   {% assign directors = movie.Directors %}
