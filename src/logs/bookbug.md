@@ -19,7 +19,7 @@ parent: /logs
 ## 2024 reads
 
 <div class="grid normal-case">
-<span class="label">january</span> <span><a href="/logs/books/convenience-store-woman">Convenience Store Woman</span>
+<span class="label">january</span> <span><a href="/logs/books/convenience-store-woman">Convenience Store Woman</a></span>
 </div>
 
 <p></p>
