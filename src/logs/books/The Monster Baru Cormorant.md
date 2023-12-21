@@ -10,6 +10,7 @@ date: 2023-12-20
 status: Read
 rating: 4.5
 cover: "/assets/img/the-monster-baru-cormorant.jpg"
+hasReview: true
 ---
 
 ### the masquerade trilogy
