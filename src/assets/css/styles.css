@@ -414,7 +414,8 @@ nav a::before {
 
 nav li:active,
 h1 a:active svg,
-nav li:hover {
+nav li:hover,
+h1 a:hover svg {
   transform: scale(0.95);
 }
 
