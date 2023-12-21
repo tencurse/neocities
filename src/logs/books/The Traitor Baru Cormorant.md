@@ -12,6 +12,7 @@ rating: 4
 cover: "/assets/img/the-traitor-baru-cormorant.jpg"
 hasReview: true
 favourite: true
+contentWarning: ["homophobia"]
 ---
 
 ### the masquerade trilogy

@@ -5,7 +5,7 @@ author: Jennette McCurdy
 yearPublished: 2022
 genre: ["nonfiction", "memoir"]
 edition: ebook
-contentWarning: ["alcoholism", "addiction", "eating disorder", "child abuse", "mental illness", "emotional abuse"]
+contentWarning: ["alcoholism", "addiction", "eating disorder", "child abuse", "emotional abuse"]
 dateStarted: 2022-12-31
 date: 2023-01-04
 rating: 5
