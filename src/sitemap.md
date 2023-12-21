@@ -45,7 +45,7 @@ parent: /
 <ul class="link-list">
 <li><a href="/resources" class="button">{% lucide "atom" %}resources</a></li>
 <ul>
-<li><a href="/resourcse/palestine" class="button">{% lucide "heart-handshake" %}palestine</a></li>
+<li><a href="/resources/palestine" class="button">{% lucide "heart-handshake" %}palestine</a></li>
 <li><a href="/resources/dev" class="button">{% lucide "terminal-square" %}web development</a></li>
 </ul>
 </ul>
