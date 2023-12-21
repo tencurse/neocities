@@ -469,11 +469,14 @@ nav li:hover a {
     width: 100px;
   }
 
-  h1.button,
-  h2,
-  h3,
   nav a.button {
     padding: 2px 1em 2px 0.5em;
+  }
+
+  h1.button,
+  h2,
+  h3 {
+    padding: 2px 1em 1.35em 0.5em;
   }
 }
 
