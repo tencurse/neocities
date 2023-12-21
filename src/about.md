@@ -58,6 +58,8 @@ if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials be
 <span><a href="https://twitter.com/10kph" rel="me">@10kph</a></span>
 <span class="label">fediverse</span>
 <span><a rel="me" href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
+<span class="label">fic archive</span>
+<span><a rel="me" href="https://symmetras.neocities.org/">symmetras</a> (NSFW warning)</span>
 </div>
 </div>
 <p></p>
