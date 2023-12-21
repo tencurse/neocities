@@ -4,8 +4,6 @@ layout: base.njk
 parent: /logs
 ---
 
-<p></p>
-
 <div class="grid two-col-flex">
 <div class="grid">
 <span class="label">letterboxd</span>

@@ -4,7 +4,6 @@ layout: base.njk
 parent: /logs
 ---
 
-<p></p>
 
 <div class="grid two-col-flex">
 <div class="grid">
