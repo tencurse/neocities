@@ -1,7 +1,7 @@
 ---
 title: logs/bookbug
 layout: base.njk
-parent: /logs
+parent: /logs/books
 ---
 
 [bookbug](https://bookbug.neocities.org/) is an online book club created by [vashti](https://vashti.neocities.org/) and [maple](https://maplebear.neocities.org/)!
