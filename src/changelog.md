@@ -9,6 +9,6 @@ parent: /
 ## 2023
 
 <div class="grid">
-{% for update in updates23 %}<span class="label">{{ update.date | toUTC }}</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
+{% for update in updates23 %}<span class="label">{{ update.date | toUTC }} &nbsp;</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
 </div>
 {% endif %}

@@ -47,7 +47,7 @@ last updated: dec 2023
 {% assign update = updates | first %}
 
 <div class="grid">
-<span class="label">{{ update.date | toUTC }}</span>
+<span class="label">{{ update.date | toUTC }} &nbsp;</span>
 <span>{{ update.update | renderUsingMarkdown }}</span>
 </div>
 <p></p>
