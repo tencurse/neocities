@@ -55,11 +55,13 @@ html {
   color: var(--color-primary);
   scrollbar-width: thin;
   scrollbar-color: var(--color-primary) var(--background-primary);
+  box-sizing: border-box;
 }
 
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 ::-webkit-scrollbar {
@@ -106,7 +108,7 @@ h2,
 h3,
 h4 {
   box-shadow: 8px 8px var(--color-black);
-  padding: 2px 2.5em 2px 0.5em;
+  padding: 2px 2.5em 1.35em 0.5em;
   cursor: pointer;
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
@@ -142,8 +144,7 @@ h4 {
   padding: 0 2em 0 0;
   cursor: default;
   background: var(--background-blue);
-  flex-shrink: 1;
-  min-width: 140px;
+  min-width: 150px;
   height: 24px;
   width: max-content;
 }
@@ -412,7 +413,8 @@ nav a::before {
 }
 
 nav li:active,
-h1 a:active svg {
+h1 a:active svg,
+nav li:hover {
   transform: scale(0.95);
 }
 
@@ -615,6 +617,9 @@ img.entry-cover {
 .entry-container .grid span {
   text-transform: none;
 }
+.entry-container .grid span.label {
+  min-width: 160px;
+}
 .entry-genre {
   color: var(--color-blue);
 }
@@ -724,4 +729,65 @@ aside.success strong {
   aside.start {
     margin-top: 7.5rem;
   }
+}
+
+/* FANCY LINK LIST */
+ul.link-list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+ul.link-list li {
+  margin: 0;
+  list-style-type: none;
+  width: 100%;
+  padding-inline-start: 0;
+}
+
+ul.link-list a {
+  text-decoration: none;
+  color: var(--background-primary);
+  background: var(--color-green);
+  display: inline-block;
+  padding-block-start: 0.5rem;
+  padding-block-end: 0.5rem;
+  padding-inline-end: 0;
+  width: 100%;
+}
+
+ul.link-list a.bg-blue {
+  background: var(--color-blue);
+}
+
+ul.link-list li a.button:hover,
+ul.link-list li a.button:active {
+  transform: scale(0.99);
+}
+
+ul.link-list li svg {
+  margin-inline-start: 1rem;
+  margin-inline-end: 1rem;
+  margin-block-start: -2px;
+}
+
+ul.link-list ul {
+  width:100%;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+ul.link-list ul a {
+  background: var(--color-teal);
+}
+
+ul.link-list ul ul a {
+  background: var(--color-blue);
+}
+
+ul.link-list ul ul ul a {
+  background: var(--color-purple);
 }

@@ -40,6 +40,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
 - [csslayouts.io](https://csslayout.io/) – Pre–made CSS layouts for common web components
 - [Responsive Templates (w3.css)](https://www.w3schools.com/w3css/w3css_templates.asp) – Free responsive CSS templates from ol’ reliable W3 Schools
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks’ comprehensive guide to Flexbox layout
 - [Codrops Playground](https://tympanus.net/codrops/category/playground/) – Demos of some cool web designs and animations
 - [SmolCSS](https://smolcss.dev/) – minimal snippets for modern CSS layouts and components
 
@@ -52,6 +53,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Randoma11y](https://randoma11y.com) – Generate accessible colour schemes
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
+- [HTML5 Please](https://html5please.com/) - Check browser compatibility for HTML5, CSS3, etc features
 
 ## code editors
 

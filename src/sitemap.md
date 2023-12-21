@@ -15,23 +15,37 @@ parent: /
 
 ## the webmaster
 
-- [about](/about)
-- [media log](/logs)
-  - [movies](/logs/movies)
-  - [books](/logs/books)
-    - [2023](/logs/books/2023)
-    - [2022](/logs/books/2022)
-    - [2021](/logs/books/2021)
-  - [bass](/logs/bass)
+<ul class="link-list">
+<li><a href="/about" class="button">{% lucide "user-round" %}about</a></li>
+<ul>
+<li><a href="/logs" class="button">{% lucide "scroll-text" %}logs</a></li>
+<ul>
+<li><a href="/logs/movies" class="button">{% lucide "film" %}movies</a></li>
+<li><a href="/logs/books" class="button">{% lucide "library-big" %}books</a></li>
+<ul>
+<li><a href="/logs/bookbug" class="button">{% lucide "bug" %}bookbug</a></li>
+</ul>
+<li><a href="/logs/bass" class="button">{% lucide "guitar" %}bass</a></li>
+</ul>
+</ul>
+<li><a href="/uses" class="button">{% lucide "wrench" %}uses</a></li>
+</ul>
 
 ## the website
 
-- [site info](/site-info)
-- [changelog](/changelog)
-- [style guide](/styleguide)
+<ul class="link-list">
+<li><a href="/site-info" class="button bg-blue">{% lucide "ruler" %}site_info</a></li>
+<li><a href="/links" class="button bg-blue">{% lucide "link" %}outlinks</a></li>
+<li><a href="/changelog" class="button bg-blue">{% lucide "history" %}changelog</a></li>
+<li><a href="/styleguide" class="button bg-blue">{% lucide "palette" %}style_guide</a></li>
+</ul>
 
 ## resources
 
-- [main page](/resources)
-  - [palestine](/resources/palestine)
-  - [web development](/resources/dev)
+<ul class="link-list">
+<li><a href="/resources" class="button">{% lucide "atom" %}resources</a></li>
+<ul>
+<li><a href="/resourcse/palestine" class="button">{% lucide "heart-handshake" %}palestine</a></li>
+<li><a href="/resources/dev" class="button">{% lucide "terminal-square" %}web development</a></li>
+</ul>
+</ul>

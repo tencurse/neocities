@@ -26,8 +26,8 @@ parent: /
 <span>25+</span>
 </div>
 <div class="grid">
-<span class="label">national</span>
-<span>fil-can</span>
+<span class="label">country</span>
+<span>[PH, CA]</span>
 <span class="label">language</span>
 <span>[EN, TL]</span>
 <span class="label">mbti</span>
@@ -38,7 +38,7 @@ parent: /
 
 hello! i’m ten. i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???).
 
-i made this site to exercise my coding and design skills (mostly my design skills), and also as a way to offer a piece of myself out into the world wide web. you can find more info about this site [here](/site-info). [making websites are cool, my friend.](/resources/dev)
+i made this site to exercise my coding and design skills (mostly my design skills), and also as a way to offer a piece of myself out into the world wide web. you can [find more info about this site here](/site-info). [making websites are cool, my friend.](/resources/dev)
 
 if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials below :-)
 
@@ -56,18 +56,25 @@ if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials be
 <span><a rel="me" href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
 </div>
 </div>
+<p></p>
+
+here are some link buttons to my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
+
+![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png)
+
+[see other cool sites here](/links)
 
 ## favourites
 
 <div class="grid">
-<span class="label">video games</span>
+<span class="label">games</span>
 <span>dragon age: origins, baldur’s gate 3, fire emblem: awakening, most fantasy RPGs, really</span>
 <span class="label">movies</span>
 <span>pacific rim (2013), the nice guys (2016), the handmaiden (2016), howl’s moving castle (2004)</span>
 <span class="label">books</span>
-<span><em>this is how you lose the time war</em> by amar el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson</span>
+<span><em>this is how you lose the time war</em> by amar el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</span>
 <span class="label">music</span>
-<span>mitski, metric, arctic monkeys, sir chloe, florence + the machine</span>
-<span class="label">television</span>
+<span>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</span>
+<span class="label">tv</span>
 <span>fleabag, the good place, marvel’s daredevil, sense8</span>
 </div>

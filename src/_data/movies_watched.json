@@ -1,5 +1,16 @@
 [
   {
+    "Title": "Palm Springs",
+    "Directors": ["Max Barbakow"],
+    "Rating": 4.5,
+    "Genres": ["Romance", "Science-Fiction", "Comedy"],
+    "Year": 2013,
+    "DateWatched": "2023-12-19",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
     "Title": "Pacific Rim",
     "Directors": ["Guillermo del Toro"],
     "Rating": 5,
