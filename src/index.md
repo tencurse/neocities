@@ -35,14 +35,14 @@ thanks for visiting and take care!
 <span class="label">playing</span>
 <span>baldur’s gate 3</span>
 <span class="label">listening</span>
-<span><em>obsession</em> by sir chloe</span>
+<span><em>cat & mouse</em> by blackswan</span>
 </div>
 
 <p></p>
 
 last updated: dec 2023
 
-## site updates
+## updates
 
 <div class="grid">
 {% for update in updates limit:4 %}<span class="label">{{ update.date | toUTC }} &nbsp;</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
