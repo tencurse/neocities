@@ -44,11 +44,8 @@ last updated: dec 2023
 
 ## site updates
 
-{% assign update = updates | first %}
-
 <div class="grid">
-<span class="label">{{ update.date | toUTC }} &nbsp;</span>
-<span>{{ update.update | renderUsingMarkdown }}</span>
+{% for update in updates limit:4 %}<span class="label">{{ update.date | toUTC }} &nbsp;</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
 </div>
 <p></p>
 
