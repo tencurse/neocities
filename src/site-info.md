@@ -47,6 +47,6 @@ previous iterations of the website are saved through archive.org. current iterat
 
 ## licence
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](tp://creativecommons.org/licenses/by-nc-sa/4.0/){rel=license}.
 
 this means you can modify and redistribute the source code, as long as 1) it is not for commercial use, and 2) you distribute it under the same or similar license.

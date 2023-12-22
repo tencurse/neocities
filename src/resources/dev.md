@@ -14,6 +14,7 @@ parent: /resources
 
 - **[The Odin Project](https://www.theodinproject.com/)** – The ultimate web development online course. It’s free and extensive. Teaches the basics of the basics. Highly recommend!
   - The biggest hurdle here is that it asks you to dual–boot Linux if you’re on Windows. You can [install WSL instead](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview), but it’s not officially supported by the Project’s community.
+- [Interneting is Hard](https://internetingishard.netlify.app/) - web development tutorials with visual aids for the visual learner and interactive examples for the hands-on learner
 - **[Create a static site using 11ty and deploy to neocities](https://flamedfury.com/guides/11ty-homepage-neocities/)** – The holy grail tutorial that helped me so I never have to use `<iframe>`s for navigation menus, and now you don’t have to, too.
   - [Whiona's 11ty Neocities workflow](https://whiona.weblog.lol/2023/10/my-neocities-workflow:-using-eleventy-and-the-cli-to-speed-up-development) - [Whiona](https://whiona.me) also has a great writeup that may be easier to follow for beginners/non-coders
 - [The Modern JavaScript Tutorial](https://javascript.info/) – Great for both beginners and advanced users, though some of it may be _too_ advanced.
@@ -41,6 +42,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [csslayouts.io](https://csslayout.io/) – Pre–made CSS layouts for common web components
 - [Responsive Templates (w3.css)](https://www.w3schools.com/w3css/w3css_templates.asp) – Free responsive CSS templates from ol’ reliable W3 Schools
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks’ comprehensive guide to Flexbox layout
+- [Flexbox Tutorial](https://internetingishard.netlify.app/html-and-css/flexbox/) - tutorial on flexbox from Interneting is Hard
 - [Codrops Playground](https://tympanus.net/codrops/category/playground/) – Demos of some cool web designs and animations
 - [SmolCSS](https://smolcss.dev/) – minimal snippets for modern CSS layouts and components
 
@@ -54,6 +56,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
 - [HTML5 Please](https://html5please.com/) - Check browser compatibility for HTML5, CSS3, etc features
+- [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
 
 ## code editors
 

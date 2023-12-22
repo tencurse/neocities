@@ -6,15 +6,11 @@ parent: /logs/books
 
 [bookbug](https://bookbug.neocities.org/) is an online book club created by [vashti](https://vashti.neocities.org/) and [maple](https://maplebear.neocities.org/)!
 
-<div class="outlink-group">
-<a href="https://bookbug.neocities.org/" class="outlink" title="bookbug.neocities.org"><img src="https://i.imgur.com/YdMxqsC.gif" alt="Bookbug"></a>
-</div>
+[![Bookbug](https://i.imgur.com/YdMxqsC.gif)](https://bookbug.neocities.org/){.outlink} {.outlink-group}
 
 ## members
 
-<div class="outlink-group">
-{% for button in button_bookbug %}<a href="{{ button.url }}" class="outlink" title="{{ button.title }}"><img src="{{ button.img }}" alt="{{ button.title }}"></a>{% endfor %}
-</div>
+{% for button in button_bookbug %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
 
 ## 2024 reads
 

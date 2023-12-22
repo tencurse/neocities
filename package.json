@@ -15,6 +15,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@grimlink/eleventy-plugin-lucide-icons": "^2.0.0",
+    "markdown-it-attrs": "^4.1.6",
     "moment": "^2.29.4"
   }
 }

@@ -8,8 +8,6 @@ work in progress :~)
 
 inspired by [uses.tech](https://uses.tech/)!
 
-i don't endorse any of these products btw... it's just a list of tools i use. what may work for me may not work for you 👍🏼
-
 ## coding
 
 - vs code

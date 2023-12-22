@@ -10,9 +10,7 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
  
 ## personal sites
 
-<div class="outlink-group">
-{% for button in button_wall %}<a href="{{ button.url }}" class="outlink" title="{{ button.title }}"><img src="{{ button.img }}" alt="{{ button.title }}"></a>{% endfor %}
-</div>
+{% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
 
 <p></p>
 
@@ -26,6 +24,7 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
+- [Gwern.net](https://gwern.net/)
 - [a book like foo](https://abooklike.foo/)
 
 i'm still in progress of adding more links here :~)

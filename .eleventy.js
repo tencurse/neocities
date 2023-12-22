@@ -1,4 +1,5 @@
 const markdownIt = require("markdown-it");
+const markdownItAttrs = require('markdown-it-attrs')
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
@@ -10,7 +11,8 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(mdOptions));
+  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs)
+  eleventyConfig.setLibrary("md", markdownLib);
 
   // PLUGINS
 
