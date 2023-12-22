@@ -23,13 +23,13 @@ here’s a [map](/sitemap), go forth and explore!
 
 thanks for visiting and take care!
 
-[<img src="assets/img/standwith.png" alt="Resources for Palestinian liberation">](/resources/palestine) click the button on the left or go to [this page](/resources/palestine) for more information and resources and what you can do to help.
+[![Resources for Palestine](/assets/img/standwith.png)](/resources/palestine) click the button on the left or go to [this page](/resources/palestine) for more information and resources and what you can do to help.
 
 ## currently
 
 <div class="grid">
 <span class="label">reading</span>
-<span><em>kiss her once for me</em> by alison cochrun</span>
+<span><em><a href="/logs/books/kiss-her-once-for-me">kiss her once for me</a></em> by alison cochrun</span>
 <span class="label">watching</span>
 <span>house m.d., season 5</span>
 <span class="label">playing</span>
