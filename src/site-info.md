@@ -8,7 +8,7 @@ parent: /
 
 this mobile-friendly site is made with [11ty](https://www.11ty.dev/docs/getting-started/) using [vs code](https://code.visualstudio.com/) for firefox browsers. see the source code on [github](https://github.com/tencurse/neocities).
 
-feel free to copy-paste my code, but if you do, please take the time to learn what you are copy-pasting. arm yourself with knowledge!
+feel free to copy-paste my code, but if you do, please take the time to learn what you are copy-pasting. arm yourself with knowledge! (this should go without saying, but don't actually copy the written content.)
 
 ## site credits
 
@@ -49,4 +49,4 @@ previous iterations of the website are saved through archive.org. current iterat
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](tp://creativecommons.org/licenses/by-nc-sa/4.0/){rel=license}.
 
-this means you can modify and redistribute the source code, as long as 1) it is not for commercial use, and 2) you distribute it under the same or similar license.
+this means you can modify and redistribute the source code (NOT the written content), as long as 1) it is not for commercial use, and 2) you distribute it under the same or similar license.
