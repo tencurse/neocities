@@ -17,7 +17,7 @@ parent: /logs
 
 ## favourites
 
-<ul class="log booklist">
+<ul class="log booklist film">
 <li class="log-book">
 <img class="log-cover" src="/assets/img/pacific-rim.jpg" alt="Pacific Rim (2013) dir. Guillermo del Toro">
 <span class="log-title"><em>Pacific Rim (2013)</em> <span class="log-dir">dir. Guillermo del Toro</span></span>
