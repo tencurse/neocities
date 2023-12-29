@@ -6,7 +6,7 @@ parent: /
 
 > are you telling me a queer coded this?
 
-this mobile-friendly site is made with [11ty](https://www.11ty.dev/docs/getting-started/) using [vs code](https://code.visualstudio.com/) for firefox browsers. see the source code on [github](https://github.com/tencurse/neocities).
+this [mobile-friendly site](https://kalechips.net/responsive/index) is made with [11ty](https://www.11ty.dev/docs/getting-started/) using [vs code](https://code.visualstudio.com/) for firefox browsers. see the source code on [github](https://github.com/tencurse/neocities).
 
 feel free to copy-paste my code, but if you do, please take the time to learn what you are copy-pasting. arm yourself with knowledge! (this should go without saying, but don't actually copy the written content.)
 
