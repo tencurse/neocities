@@ -1,5 +1,25 @@
 [
   {
+    "Title": "Saltburn",
+    "Directors": ["Emerald Fennell"],
+    "Rating": 4,
+    "Genres": ["Comedy", "Drama", "Thriller"],
+    "Year": 2023,
+    "DateWatched": "2023-12-27",
+    "YearWatched": 2023
+  },
+  {
+    "Title": "Ace Attorney",
+    "Directors": ["Takashi Miike"],
+    "Rating": 4.5,
+    "Genres": ["Drama", "Mystery", "Crime"],
+    "Year": 2012,
+    "DateWatched": "2023-12-24",
+    "Rewatch": true,
+    "Favourite": true,
+    "YearWatched": 2023
+  },
+  {
     "Title": "Palm Springs",
     "Directors": ["Max Barbakow"],
     "Rating": 4.5,
