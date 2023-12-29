@@ -13,7 +13,7 @@ bookClub: true
 
 ## schedule
 
-- jan 07 - ch. 01 through ch. 07
+- jan 03 - ch. 01 through ch. 07
 - jan 10 - ch. 08 through ch. 14
 - jan 17 - ch. 15 through ch. 24
 - jan 24 - ch. 25 through ch. 33
