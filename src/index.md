@@ -35,7 +35,7 @@ thanks for visiting and take care!
 <span class="label">playing</span>
 <span>baldur’s gate 3</span>
 <span class="label">listening</span>
-<span><em>cat & mouse</em> by blackswan</span>
+<span><em>the deal</em> by mitski</span>
 </div>
 
 <p></p>
