@@ -27,6 +27,7 @@ parent: /
 </ul>
 <li><a href="/logs/bass" class="button">{% lucide "guitar" %}bass</a></li>
 </ul>
+<li><a href="/shrines" class="button">{% lucide "sparkles" %}shrines</a></li>
 </ul>
 <li><a href="/uses" class="button">{% lucide "wrench" %}uses</a></li>
 </ul>

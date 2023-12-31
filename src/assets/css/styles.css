@@ -765,6 +765,13 @@ ul.link-list li {
   padding-inline-start: 0;
 }
 
+ul.link-list a#wyll {
+  background-image: url(/assets/img/wyll-bg02.png);
+  background-repeat: repeat;
+  border: 1px solid #f2e6e6;
+  color: #f2e6e6;
+}
+
 ul.link-list a {
   text-decoration: none;
   color: var(--background-primary);
