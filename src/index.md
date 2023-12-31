@@ -25,6 +25,13 @@ thanks for visiting and take care!
 
 [![Resources for Palestine](/assets/img/standwith.png)](/resources/palestine) click the button on the left or go to [this page](/resources/palestine) for more information and resources and what you can do to help.
 
+<p></p>
+
+<div class="grid">
+<span class="label">featured page&nbsp;&nbsp;</span>
+<span><a href="/shrines/wyll">wyll ravengard shrine</a> / <a href="/logs/bookbug">bookbug club</a></span>
+</div>
+
 ## currently
 
 <div class="grid">
