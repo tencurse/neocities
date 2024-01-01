@@ -1,5 +1,15 @@
 [
   {
+    "Title": "Bottoms",
+    "Directors": ["Emma Seligman"],
+    "Rating": 4,
+    "Genres": ["Comedy"],
+    "Year": 2023,
+    "DateWatched": "2023-12-31",
+    "YearWatched": 2023,
+    "Favourite": true
+  },
+  {
     "Title": "Saltburn",
     "Directors": ["Emerald Fennell"],
     "Rating": 4,
