@@ -6,6 +6,7 @@ yearPublished: 2016
 genre: ["contemporary fiction"]
 edition: ebook
 dateStarted: 2024-01-01
+date: 2024-01-01
 status: TBR
 cover: "/assets/img/convenience-store-woman.jpg"
 bookBug: true

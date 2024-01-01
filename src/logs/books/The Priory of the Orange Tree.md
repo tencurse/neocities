@@ -6,6 +6,7 @@ yearPublished: 2019
 genre: ["fantasy", "lgbt"]
 edition: ebook
 dateStarted: 2023-12-29
+date: 2023-12-29
 status: In Progress
 cover: "/assets/img/priory-orange-tree.jpg"
 bookClub: true
