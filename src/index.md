@@ -42,12 +42,12 @@ thanks for visiting and take care!
 <span class="label">playing</span>
 <span>baldur’s gate 3</span>
 <span class="label">listening</span>
-<span><em>the deal</em> by mitski</span>
+<span><em>my love mine all mine</em> by mitski</span>
 </div>
 
 <p></p>
 
-last updated: dec 2023
+last updated: jan 2024
 
 ## updates
 
