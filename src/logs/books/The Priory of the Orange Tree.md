@@ -5,8 +5,8 @@ author: Samantha Shannon
 yearPublished: 2019
 genre: ["fantasy", "lgbt"]
 edition: ebook
-dateStarted: 2024-01-03
-status: TBR
+dateStarted: 2023-12-29
+status: In Progress
 cover: "/assets/img/priory-orange-tree.jpg"
 bookClub: true
 ---

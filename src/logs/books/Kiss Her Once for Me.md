@@ -1,5 +1,5 @@
 ---
-yearRead: 2023
+yearRead: 2024
 book-title: Kiss Her Once for Me
 author: Alison Cochrun
 yearPublished: 2022
