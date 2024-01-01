@@ -17,7 +17,6 @@ parent: /
 
 <ul class="link-list">
 <li><a href="/about" class="button">{% lucide "user-round" %}about</a></li>
-<ul>
 <li><a href="/logs" class="button">{% lucide "scroll-text" %}logs</a></li>
 <ul>
 <li><a href="/logs/movies" class="button">{% lucide "film" %}movies</a></li>
@@ -28,7 +27,6 @@ parent: /
 <li><a href="/logs/bass" class="button">{% lucide "guitar" %}bass</a></li>
 </ul>
 <li><a href="/shrines" class="button">{% lucide "sparkles" %}shrines</a></li>
-</ul>
 <li><a href="/uses" class="button">{% lucide "wrench" %}uses</a></li>
 </ul>
 
