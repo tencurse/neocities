@@ -9,6 +9,7 @@ dateStarted: 2023-12-20
 date: 2024-01-01
 status: DNF
 cover: "/assets/img/kiss-her-once-for-me.jpg"
+hasReview: true
 ---
 
 ## review
