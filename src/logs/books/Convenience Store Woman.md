@@ -10,6 +10,7 @@ date: 2024-01-01
 status: Read
 cover: "/assets/img/convenience-store-woman.jpg"
 bookBug: true
+rating: 4
 ---
 
 ## review
