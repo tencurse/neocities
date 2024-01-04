@@ -2,6 +2,7 @@
 title: about
 layout: base.njk
 parent: /
+date: git Last Modified
 ---
 
 <pre class="ascii">
@@ -11,6 +12,12 @@ parent: /
 　 　 　 ＼/ 　  　  /　 旦
 　　　　　　￣￣￣
 </pre>
+
+<p></p>
+
+<div class="grid">
+<span class="label">updated</span><span>{{ page.date | toUTC }}</span>
+</div>
 
 ## basics
 

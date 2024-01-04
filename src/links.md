@@ -2,7 +2,14 @@
 title: links
 layout: base.njk
 parent: /
+date: git Last Modified
 ---
+
+<div class="grid">
+<span class="label">updated</span><span>{{ page.date | toUTC }}</span>
+</div>
+
+<p></p>
 
 here are some buttons for my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
