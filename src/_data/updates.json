@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-04",
+    "update": "joined fediverse webring, added update date on some pages"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-02",
     "update": "[new book](/logs/books/annihilation) in the book log, moved the 2023 book log to [its own page](/logs/books/2023)"
   },
