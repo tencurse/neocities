@@ -25,6 +25,7 @@ date: git Last Modified
 
 ## fun stuff
 
+- [torrenting tutorial](https://easyussr.neocities.org/torrenting) (autoplay warning) - comprehensive guide to safely torrenting and everything in between
 - [r/unixporn](https://www.reddit.com/r/unixporn/) – one of the biggest things that got me to dual–boot Linux. so much pretty customization while still retaining usability (…in some cases).
   - [lemmy.world/unixporn](https://lemmy.world/c/unixporn)
   - [lemmy.ml/unixporn](https://lemmy.ml/c/unixporn)
