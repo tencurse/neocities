@@ -43,13 +43,15 @@ date: git Last Modified
 </div>
 <p></p>
 
-hello! i’m ten. i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???).
+hello! i’m ten. i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). born and raised in manila, philippines, now living in bc, canada.
 
 i made [this site](/site-info) to exercise my coding and design skills, and also as a way to offer a piece of myself out into the world wide web. [making websites are cool, my friend.](/resources/dev)
 
 also check out my [media log](/logs), [shrines](/shrines) and [uses](/uses) (wip) page!
 
 if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials below :-)
+
+![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 
 ## socials
 
