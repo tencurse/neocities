@@ -30,11 +30,6 @@
     "url": "https://manyface.neocities.org/bookbug"
   },
   {
-    "title": "daughterofbilitis.neocities.org",
-    "img": "/assets/img/daughterofbilitis.png",
-    "url": "https://daughterofbilitis.neocities.org/secrets/bookbug/bookbug"
-  },
-  {
     "title": "trinityexe.neocities.org",
     "img": "/assets/img/trinity.png",
     "url": "https://trinityexe.neocities.org/bookbug"
@@ -62,7 +57,7 @@
   {
     "title": "devils.gay",
     "img": "/assets/img/devils.gif",
-    "url": "https://devils.gay/etc/bookbug"
+    "url": "https://devils.gay/media/bookbug"
   },
   {
     "title": "the0bserver.neocities.org",
@@ -78,5 +73,20 @@
     "title": "neoaspect.neocities.org",
     "img": "/assets/img/neosbutton.jpg",
     "url": "https://neoaspect.neocities.org/bookbug"
+  },
+  {
+    "title": "scarecrowkid.net",
+    "img": "/assets/img/scarecrowkid.gif",
+    "url": "https://scarecrowkid.net/library/books/bookbug"
+  },
+  {
+    "title": "strawberryreverie.neocities.org",
+    "img": "/assets/img/virtualdreamland.png",
+    "url": "https://strawberryreverie.neocities.org/media/bookbug"
+  },
+  {
+    "title": "godza.neocities.org",
+    "img": "https://i.imgur.com/3oCNVXS.jpg",
+    "url": "https://godza.neocities.org/bookbug"
   }
 ]
