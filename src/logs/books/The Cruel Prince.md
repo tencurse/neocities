@@ -4,7 +4,7 @@ book-title: The Cruel Prince
 author: Holly Black
 yearPublished: 2018
 genre: ["fantasy", "young adult", "romance"]
-edition: ebook
+edition: physical - library
 dateStarted: 2023-04-12
 date: 2023-04-15
 status: Read

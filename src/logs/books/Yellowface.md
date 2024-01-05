@@ -4,7 +4,7 @@ book-title: Yellowface
 author: R.F. Kuang
 yearPublished: 2023
 genre: ["contemporary fiction", "thriller", "mystery"]
-edition: ebook
+edition: physical - library
 dateStarted: 2023-07-01
 date: 2023-07-10
 status: Read

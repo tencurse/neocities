@@ -4,7 +4,7 @@ book-title: My Lesbian Experience With Loneliness
 author: Kabi Nagata
 yearPublished: 2016
 genre: ["lgbt", "nonfiction", "memoir"]
-edition: ebook
+edition: physical - library
 dateStarted: 2023-07-31
 date: 2023-07-31
 status: Read

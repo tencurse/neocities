@@ -15,6 +15,7 @@ layout: bookbase.njk
           <span class="label">date start</span> <span>{{ dateStarted | toUTC }}</span>
           <span class="label">date read</span> <span>{% if status == "Read"%}{{ date | toUTC }}{%
             else %}{{ status }}{% endif %}</span>
+          <span class="label">edition</span> <span>{{ edition }}</span>
         </div>
       </div>
       <p class="entry-icon-group">{% if rating %}<span class="entry-rating">{% renderStar rating %}</span>{% endif %}
@@ -25,8 +26,9 @@ layout: bookbase.njk
           %}{%
           lucide "refresh-cw" %}{% endif %} {% if favourite %}{% lucide "heart" %}{% endif %}</span>
       </p>
-      <p class="entry-genre-group">{% for gen in genre %} <span class="entry-genre">{{ gen }}</span> {% if gen != genre.last
-          %}{% lucide "dot" %}{% endif %}{% endfor %}</p>
+      <p class="entry-genre-group">{% for gen in genre %} <span class="entry-genre">{{ gen }}</span> {% if gen !=
+        genre.last
+        %}{% lucide "dot" %}{% endif %}{% endfor %}</p>
       {% if contentWarning %}<p><strong>content warnings:</strong> {% for cw in contentWarning %} {{ cw }}{% if cw !=
         contentWarning.last %}, {% endif %}{% endfor %}</p>{% endif %}
     </div>
@@ -34,3 +36,11 @@ layout: bookbase.njk
 </section>
 
 {{ content }}
+
+<!--<section>
+  <div class="grid two-col-flex">
+    <div class="grid">
+      <span class="label">updated</span><span>{{ page.date | toUTC }}</span>
+    </div>
+  </div>
+</section>-->

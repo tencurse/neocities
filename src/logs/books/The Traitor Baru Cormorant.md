@@ -4,7 +4,7 @@ book-title: The Traitor Baru Cormorant
 author: Seth Dickinson
 yearPublished: 2015
 genre: ["fantasy", "lgbt", "science fiction"]
-edition: ebook
+edition: ebook, physical - library
 dateStarted: 2022-01-10
 date: 2022-05-25
 status: Read
