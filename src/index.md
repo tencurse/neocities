@@ -15,6 +15,8 @@ layout: base.njk
 
 <p></p>
 
+![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
+
 hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
 
 i made this site to share little pieces of myself--my interests, my thoughts, my projects, etc. i hope you have fun, learn something new, or both!
@@ -31,6 +33,8 @@ thanks for visiting and take care!
 <span class="label">featured page&nbsp;&nbsp;</span>
 <span><a href="/shrines/wyll">wyll ravengard shrine</a> / <a href="/logs/bookbug">bookbug club</a></span>
 </div>
+
+<p></p>
 
 ## currently
 
