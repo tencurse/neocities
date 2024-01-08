@@ -2,14 +2,7 @@
 title: site_info
 layout: base.njk
 parent: /
-date: git Last Modified
 ---
-
-<div class="grid">
-<span class="label">updated</span><span>{{ page.date | toUTC }}</span>
-</div>
-
-<p></p>
 
 > are you telling me a queer coded this?
 

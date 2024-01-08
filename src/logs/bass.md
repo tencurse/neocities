@@ -2,14 +2,7 @@
 title: logs/bass
 layout: base.njk
 parent: /logs
-date: git Last Modified
 ---
-
-<div class="grid">
-<span class="label">updated</span><span>{{ page.date | toUTC }}</span>
-</div>
-
-<p></p>
 
 i’m an amateur self-taught bassist!! i don’t play in a band, i only play as a personal hobby.
 
