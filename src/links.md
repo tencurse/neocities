@@ -24,6 +24,10 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 - [the digital diarist](https://thedigitaldiarist.ca/)
 - [irene's house](https://ireneshouse.neocities.org/)
 - [kph](https://kph.neocities.org/)
+- [sweetfish](https://sweetfish.site/)
+- [noelle.dev](https://noelle.dev/)
+
+browse random sites [here](https://search.marginalia.nu/explore/random)
 
 ## etc
 
@@ -33,6 +37,8 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
   - [strange websites](https://strange.website/)
 - [Gwern.net](https://gwern.net/)
 - [a book like foo](https://abooklike.foo/)
+- [tentacrafts](https://tentacrafts.neocities.org/)
+- [nohello](https://nohello.net/en/)
 
 i'm still in progress of adding more links here :~)
 
