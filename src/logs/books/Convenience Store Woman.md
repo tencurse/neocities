@@ -11,6 +11,7 @@ status: Read
 cover: "/assets/img/convenience-store-woman.jpg"
 bookBug: true
 rating: 4
+hasReview: true
 ---
 
 ## review
