@@ -80,7 +80,7 @@ here are some link buttons to my site! i couldn’t decide which one i liked so 
 <span class="label">movies</span>
 <span>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</span>
 <span class="label">books</span>
-<span><em>this is how you lose the time war</em> by amar el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</span>
+<span><em>this is how you lose the time war</em> by amal el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</span>
 <span class="label">music</span>
 <span>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</span>
 <span class="label">tv</span>
