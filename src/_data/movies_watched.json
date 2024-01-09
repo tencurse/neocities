@@ -1,5 +1,16 @@
 [
   {
+    "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "Directors": ["Francis Lawrence"],
+    "Rating": 4,
+    "Genres": ["Romance", "Drama", "Action"],
+    "Year": 2023,
+    "DateWatched": "2024-01-07",
+    "Favourite": true,
+    "YearWatched": 2024,
+    "Rewatch": true
+  },
+  {
     "Title": "Bottoms",
     "Directors": ["Emma Seligman"],
     "Rating": 4,
