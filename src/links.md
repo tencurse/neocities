@@ -14,13 +14,9 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 
 <p></p>
 
-- [the digital diarist](https://thedigitaldiarist.ca/)
-- [irene's house](https://ireneshouse.neocities.org/)
-- [kph](https://kph.neocities.org/)
-- [sweetfish](https://sweetfish.site/)
-- [noelle.dev](https://noelle.dev/)
+if you have a button, let me know via email 10kph@proton.me
 
-browse random sites [here](https://search.marginalia.nu/explore/random)
+browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
 
 ## etc
 

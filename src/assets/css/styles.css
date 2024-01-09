@@ -688,6 +688,18 @@ span.revealed {
 
 .outlink {
   width: 88px;
+  font-size: 0.6rem;
+  word-wrap: break-word;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  display: grid;
+  place-content: center;
+  grid-template-columns: 88px;
+}
+
+a:has(img[src=""]) {
+  border: 1px dashed;
 }
 
 .outlink-group .outlink:hover,
