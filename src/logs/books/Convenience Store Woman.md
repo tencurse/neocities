@@ -26,9 +26,9 @@ However, she does not do well outside of the convenience store. Keiko stitches t
 
 > […] I felt reassured by the expression on Mrs. Izumi and Sugawara’s faces: Good, I pulled off being a “person.”
 
-Though, I think Keiko is right when she said: “Infecting each other like this is how we maintain ourselves as human is what I think.” This *is* true on some levels. Sometimes, we adopt other people’s mannerisms subconsciously. Sometimes, we still listen to that band our friend recommended us years ago, even if we’ve long since stopped talking. If we go further with this line of thought, then we’re all just ships of Theseus, made up of other people’s mannerisms and likes and dislikes, and these social connections to other people is what makes us human.
+Though, I think Keiko is right when she said: *“Infecting each other like this is how we maintain ourselves as human is what I think.”* This \*is\* true on some levels. Sometimes, we adopt other people’s mannerisms subconsciously. Sometimes, we still listen to that band our friend recommended us years ago, even if we’ve long since stopped talking. If we go further with this line of thought, then we’re all just ships of Theseus, made up of other people’s mannerisms and likes and dislikes, and these social connections to other people is what makes us human.
 
-I also find it interesting how Murata draws a parallel between her and Shiraha, another person who is deemed an outcast of Japanese society. Shiraha gets fired shortly after being hired as a convenience store worker because of his stalking behaviour and general… unpleasantness. Keiko then thinks that “if [she] ever became a foreign object, [she’d] no doubt be eliminated in the same way.”
+I also find it interesting how Murata draws a parallel between her and Shiraha, another person who is deemed an outcast of Japanese society. Shiraha gets fired shortly after being hired as a convenience store worker because of his stalking behaviour and general… unpleasantness. Keiko then thinks that *“if [she] ever became a foreign object, [she’d] no doubt be eliminated in the same way.”*
 
 > Oh, I thought absently. I’ve become a foreign object.
 
@@ -42,6 +42,6 @@ On the path of trying to be normal, Keiko quits her job, partly to find a “bet
 
 (In fact, I had the same thought when she quit her job. Why not just work at a different convenience store, one where the coworkers don’t know her and her personal life? It turns out, that’s what was going to happen, anyway.)
 
-All in all, this was a fun read! I finished it all in one day. At first, I was not sold, because it didn’t seem like anything was going to happen, like a typical “slice of life” story. But as it went on, it didn’t matter to me. I got into the rhythm of Keiko’s life and her several masks she put on to be normal. At times, I found myself relating *too* much to Keiko, which might be something I should look into, but let’s be honest, I probably won’t, lol.
+All in all, this was a fun read! I finished it all in one day. At first, I was not sold, because it didn’t seem like anything was going to happen, like a typical “slice of life” story. But as it went on, it didn’t matter to me. I got into the rhythm of Keiko’s life and her several masks she put on to be normal. At times, I found myself relating \*too\* much to Keiko, which might be something I should look into, but let’s be honest, I probably won’t, lol.
 
 I also found out from other [bookbugs’](/logs/bookbug) reviews (and literally just googling it) that the novel’s original title is *コンビニ人間* , literally, *Convenience Store Human*. I feel that this title suits the novel better because as “absurd” as it sounds, it tells the reader what kind of story to expect with that as the title, and it’s also what Keiko sees herself as—not a woman, but a convenience store human.

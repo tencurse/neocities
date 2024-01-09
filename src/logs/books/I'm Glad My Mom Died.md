@@ -19,7 +19,7 @@ hasReview: true
 
 Hoo, boy. Where do I start?
 
-This has been a tough read for me, mostly because of the content. From the title alone, I knew some of the  stuff would resonate with me. And, well, it did. Seeing her words written down reflecting my own experience with my mother has been... a  little bit stressful, if I'm gonna be honest. Obviously, *my* experience can't compare to hers, and my god, is it vastly different.
+This has been a tough read for me, mostly because of the content. From the title alone, I knew some of the  stuff would resonate with me. And, well, it did. Seeing her words written down reflecting my own experience with my mother has been... a  little bit stressful, if I'm gonna be honest. Obviously, \*my\* experience can't compare to hers, and my god, is it vastly different.
 
 Mothers, though. There's a paragraph right at the end about how it is universal  to think of mothers as angels, etc. etc., and while yes, mothers do a  lot for their children, and yes, the experience of motherhood can't compare to anything else, there's really no excuse for them to vicariously live through their children because of the things they did  or didn't do beforehand. (And because they're mothers, more often than  not, they get off the hook for doing terrible things. That's purely  anecdotal, so don't quote me on that.)
 
