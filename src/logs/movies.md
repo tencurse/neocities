@@ -37,3 +37,6 @@ parent: /logs
 </ul>
 
 {% include 'partials/logmovie.liquid' %}
+
+## previous years
+- [2023](/logs/movies/2023)
