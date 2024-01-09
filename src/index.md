@@ -13,17 +13,13 @@ layout: base.njk
 　 Ｃ(＿ｱ
 </pre>
 
-<p></p>
+> hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
 
-![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
-
-hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
-
-i made this site to share little pieces of myself--my interests, my thoughts, my projects, etc. i hope you have fun, learn something new, or both!
+i made this site to share little pieces of myself—my [interests](/logs), my thoughts, my projects, etc. i hope you have fun, learn something new, or both!
 
 here’s a [map](/sitemap), go forth and explore!
 
-thanks for visiting and take care!
+thanks for visiting and take care {% lucide "heart" %}
 
 [![Resources for Palestine](/assets/img/standwith.png)](/resources/palestine) click the button on the left or go to [this page](/resources/palestine) for more information and resources and what you can do to help.
 
@@ -33,8 +29,6 @@ thanks for visiting and take care!
 <span class="label">featured page&nbsp;&nbsp;</span>
 <span><a href="/shrines/wyll">wyll ravengard shrine</a> / <a href="/logs/bookbug">bookbug club</a></span>
 </div>
-
-<p></p>
 
 ## currently
 
