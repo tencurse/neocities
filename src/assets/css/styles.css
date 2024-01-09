@@ -295,7 +295,7 @@ p {
   margin: 0.5rem 0;
 }
 
-p:last-child {
+p:last-child:not(blockquote > p) {
   margin: 0.5rem 0 1rem 0;
 }
 
@@ -348,6 +348,8 @@ blockquote {
   font-size: 1em;
   font-style: italic;
   margin-left: 25px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 blockquote p:first-of-type::before {
