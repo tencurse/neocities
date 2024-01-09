@@ -88,5 +88,15 @@
     "title": "godza.neocities.org",
     "img": "https://i.imgur.com/3oCNVXS.jpg",
     "url": "https://godza.neocities.org/bookbug"
+  },
+  {
+    "title": "helioasaltar.neocities.org",
+    "img": "/assets/img/helios.jpg",
+    "url": "https://helioasaltar.neocities.org/bookbug"
+  },
+  {
+    "title": "lazybones.neocities.org",
+    "img": "/assets/img/lazybones.png",
+    "url": "https://lazybones.neocities.org/bookbug"
   }
 ]
