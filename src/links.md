@@ -32,6 +32,7 @@ browse random sites [here](https://search.marginalia.nu/explore/random)
 - [a book like foo](https://abooklike.foo/)
 - [tentacrafts](https://tentacrafts.neocities.org/)
 - [nohello](https://nohello.net/en/)
+- [old book illustrations](https://www.oldbookillustrations.com/)
 
 i'm still in progress of adding more links here :~)
 
