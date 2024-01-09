@@ -135,7 +135,8 @@ h4 {
   margin: -4px 0 0 0;
 }
 
-.grid span p {
+.grid span p,
+.grid span p:last-child {
   margin: -2px 0 0 0;
 }
 
