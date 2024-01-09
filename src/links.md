@@ -14,7 +14,7 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 
 <p></p>
 
-if you have a button, let me know via email 10kph@proton.me
+if you've updated your site button, let me know via email 10kph@proton.me
 
 browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
 
