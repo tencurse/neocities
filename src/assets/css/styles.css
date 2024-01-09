@@ -49,7 +49,7 @@
 /* BASE */
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   scroll-behavior: smooth;
   background-color: var(--background-primary);
   color: var(--color-primary);
@@ -81,11 +81,11 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
-  font-family: "Anonymous Pro", "Inconsolata", "Lucida Sans Unicode",
+  font-family: "Go Mono for Powerline","PT Mono","Anonymous Pro", "Inconsolata", "Lucida Sans Unicode",
     "Courier New", Courier, monospace;
   counter-reset: sidenote-counter;
   box-sizing: border-box;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 article {
@@ -295,7 +295,7 @@ p {
   margin: 0.5rem 0;
 }
 
-p:last-child {
+p:last-child:not(blockquote > p) {
   margin: 0.5rem 0 1rem 0;
 }
 
@@ -316,6 +316,7 @@ strong {
 i,
 em {
   color: var(--color-purple);
+  font-family: "Libre Baskerville", serif;
 }
 
 code,
@@ -345,22 +346,12 @@ ul li {
 }
 
 blockquote {
-  font-size: 1em;
+  font-size: 1.1em;
   font-style: italic;
-  margin-left: 25px;
-}
-
-blockquote p:first-of-type::before {
-  content: ">";
-  display: block;
-  position: absolute;
-  left: -25px;
-  color: var(--color-yellow);
-  font-style: normal;
-}
-
-blockquote p {
-  position: relative;
+  font-family: "Libre Baskerville", serif;
+  margin: 1rem;
+  color: #aaa;
+  text-align: center;
 }
 
 mark {
