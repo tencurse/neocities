@@ -1,5 +1,5 @@
 ---
-title: media_log
+title: logs
 layout: base.njk
 parent: /
 ---
