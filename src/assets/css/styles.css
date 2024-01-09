@@ -349,16 +349,10 @@ ul li {
 blockquote {
   font-size: 1.1em;
   font-style: italic;
-  margin-left: 25px;
-}
-
-blockquote p:first-of-type::before {
-  content: ">";
-  display: block;
-  position: absolute;
-  left: -25px;
-  color: var(--color-yellow);
-  font-style: normal;
+  margin: 1rem;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  color: #aaa;
 }
 
 blockquote p {
