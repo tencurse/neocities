@@ -352,7 +352,7 @@ blockquote {
   margin: 1rem;
   font-family: "Libre Baskerville", serif;
   text-align: center;
-  color: #aaa;
+  color: var(--color-gray);
 }
 
 blockquote p {
