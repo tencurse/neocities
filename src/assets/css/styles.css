@@ -48,26 +48,8 @@
 
 @font-face {
   font-family: "Go Mono";
-  src: url("assets/fonts/GoMono-Bold.woff2") format("woff2"),
-    url("assets/fonts/GoMono-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Go Mono";
-  src: url("assets/fonts/GoMono.woff2") format("woff2"),
-    url("assets/fonts/GoMono.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Go Mono";
-  src: url("assets/fonts/GoMono-Italic.woff2") format("woff2"),
-    url("assets/fonts/GoMono-Italic.woff") format("woff");
+  src: url("/assets/fonts/GoMono-Italic.woff2") format("woff2"),
+    url("/assets/fonts/GoMono-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -75,17 +57,35 @@
 
 @font-face {
   font-family: "Go Mono";
-  src: url("assets/fonts/GoMono-BoldItalic.woff2") format("woff2"),
-    url("assets/fonts/GoMono-BoldItalic.woff") format("woff");
+  src: url("/assets/fonts/GoMono-Regular.woff2") format("woff2"),
+    url("/assets/fonts/GoMono-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Go Mono";
+  src: url("/assets/fonts/GoMono-BoldItalic.woff2") format("woff2"),
+    url("/assets/fonts/GoMono-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Go Mono";
+  src: url("/assets/fonts/GoMono-Bold.woff2") format("woff2"),
+    url("/assets/fonts/GoMono-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Libre Baskerville";
-  src: url("assets/fonts/LibreBaskerville-Italic.woff2") format("woff2"),
-    url("assets/fonts/LibreBaskerville-Italic.woff") format("woff");
+  src: url("/assets/fonts/LibreBaskerville-Italic.woff2") format("woff2"),
+    url("/assets/fonts/LibreBaskerville-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -247,6 +247,10 @@ a.outlink::after {
   justify-content: center;
   gap: 1em;
   flex-wrap: wrap;
+}
+
+.webring a {
+  text-decoration: none;
 }
 
 div#neossg,
