@@ -37,6 +37,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 ## css
 
 - **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
+- [Vanilla CSS](https://vanillacss.com/) - a minimal baseline stylesheet
 - [Specialized CSS frameworks](https://github.com/troxler/awesome-css-frameworks#specialized) – Cool CSS stylesheets/libraries! Some of these emulate interfaces (Windows 98, XP, 7, BIOS / MS–DOS, NES, etc.)
 - **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
 - [csslayouts.io](https://csslayout.io/) – Pre–made CSS layouts for common web components
