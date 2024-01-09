@@ -395,10 +395,11 @@ svg {
 nav ul {
   list-style-type: none;
   display: flex;
-  gap: 1rem;
+  column-gap: 1.25rem;
+  row-gap: 1rem;
   margin: 2rem 0;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: left;
   padding-inline-start: 0;
 }
 
