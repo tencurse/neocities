@@ -138,5 +138,35 @@
     "title": "solflo.neocities.org",
     "img": "/assets/img/solflo.png",
     "url": "https://solflo.neocities.org/"
+  },
+  {
+    "title": "cidoku.net",
+    "img": "/assets/img/cidokunet.gif",
+    "url": "https://cidoku.net/"
+  },
+  {
+    "title": "the digital diarist",
+    "img": "",
+    "url": "https://thedigitaldiarist.ca/"
+  },
+  {
+    "title": "irene's house",
+    "img": "",
+    "url": "https://ireneshouse.neocities.org/"
+  },
+  {
+    "title": "kph",
+    "img": "",
+    "url": "https://kph.neocities.org/"
+  },
+  {
+    "title": "sweetfish",
+    "img": "",
+    "url": "https://sweetfish.site/"
+  },
+  {
+    "title": "noelle",
+    "img": "",
+    "url": "https://noelle.dev/"
   }
 ]
