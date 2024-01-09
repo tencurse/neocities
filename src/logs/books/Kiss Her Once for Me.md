@@ -18,4 +18,4 @@ hasReview: true
 
 I wanted to read something happy and light-hearted after a long and heavy epic fantasy, which I knew a contemporary romance novel would be perfect for. When it was good, it was really good and I enjoyed the premise. But what ultimately turned me off were the modern references that I found way too cringey to continue. It’s a shame because I heard good reviews about it and I really wanted to give the book—and the genre as a whole—a chance.
 
-I guess these types of novels just aren’t for me, then. \*shrug\*
+I guess these types of novels just aren’t for me, then. [shrug]
