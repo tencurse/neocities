@@ -250,7 +250,7 @@ h4 {
   margin: 1em 0;
   cursor: default;
   width: max-content;
-  height: 1.25em;
+  height: 1.75em;
 }
 
 h1 a,
@@ -712,7 +712,7 @@ aside em {
 }
 
 aside p {
-  margin: 0;
+  margin: 0.5rem 0!important;
 }
 
 aside.danger {
