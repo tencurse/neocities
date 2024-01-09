@@ -19,7 +19,6 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 - [kph](https://kph.neocities.org/)
 - [sweetfish](https://sweetfish.site/)
 - [noelle.dev](https://noelle.dev/)
-- [solflo](https://solflo.neocities.org/)
 
 browse random sites [here](https://search.marginalia.nu/explore/random)
 
