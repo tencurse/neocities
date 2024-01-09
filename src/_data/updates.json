@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-09",
+    "update": "created placeholder buttons for button-less sites in the [outlinks](/links) page"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-08",
     "update": "moved 2023 movie log to [its own page](/logs/movies/2023)"
   },

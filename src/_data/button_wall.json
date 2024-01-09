@@ -30,6 +30,11 @@
     "url": "https://solaria.neocities.org/"
   },
   {
+    "title": "the digital diarist",
+    "img": "",
+    "url": "https://thedigitaldiarist.ca/"
+  },
+  {
     "title": "kalechips.net",
     "img": "/assets/img/kalechips.png",
     "url": "https://kalechips.net/"
@@ -60,6 +65,11 @@
     "url": "https://levant.neocities.org/"
   },
   {
+    "title": "kph",
+    "img": "",
+    "url": "https://kph.neocities.org/"
+  },
+  {
     "title": "fawnie.neocities.org",
     "img": "/assets/img/fawnie.gif",
     "url": "https://fawnie.neocities.org/"
@@ -78,6 +88,11 @@
     "title": "patentghost.neocities.org",
     "img": "/assets/img/patentghost.png",
     "url": "https://patentghost.neocities.org/"
+  },
+  {
+    "title": "irene’s house",
+    "img": "",
+    "url": "https://ireneshouse.neocities.org/"
   },
   {
     "title": "infini.neocities.org",
@@ -125,9 +140,19 @@
     "url": "https://doqmeat.neocities.org/"
   },
   {
+    "title": "sweetfish",
+    "img": "",
+    "url": "https://sweetfish.site/"
+  },
+  {
     "title": "inaka.moe",
     "img": "/assets/img/inaka_c.gif",
     "url": "https://inaka.moe/"
+  },
+  {
+    "title": "noelle",
+    "img": "",
+    "url": "https://noelle.dev/"
   },
   {
     "title": "likehome.neocities.org",
@@ -143,30 +168,5 @@
     "title": "cidoku.net",
     "img": "/assets/img/cidokunet.gif",
     "url": "https://cidoku.net/"
-  },
-  {
-    "title": "the digital diarist",
-    "img": "",
-    "url": "https://thedigitaldiarist.ca/"
-  },
-  {
-    "title": "irene's house",
-    "img": "",
-    "url": "https://ireneshouse.neocities.org/"
-  },
-  {
-    "title": "kph",
-    "img": "",
-    "url": "https://kph.neocities.org/"
-  },
-  {
-    "title": "sweetfish",
-    "img": "",
-    "url": "https://sweetfish.site/"
-  },
-  {
-    "title": "noelle",
-    "img": "",
-    "url": "https://noelle.dev/"
   }
 ]
