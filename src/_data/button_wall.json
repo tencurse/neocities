@@ -168,5 +168,15 @@
     "title": "cidoku.net",
     "img": "/assets/img/cidokunet.gif",
     "url": "https://cidoku.net/"
+  },
+  {
+    "title": "lastsunrise.art",
+    "img": "/assets/img/lastsunrise.gif",
+    "url": "https://lastsunrise.art/"
+  },
+  {
+    "title": "coils.neocities.org",
+    "img": "/assets/img/coils2.png",
+    "url": "https://coils.neocities.org/"
   }
 ]
