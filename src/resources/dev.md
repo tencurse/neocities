@@ -75,6 +75,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 ## etc
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
 - [URL encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [Old School PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
 
 ## code editors
 
