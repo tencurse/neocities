@@ -34,10 +34,10 @@ parent: /
 
 - [Disco Elysium digital artbook](https://archive.org/details/discoelysiumartbook/) - available for free on archive.org
 - [Undertale bad time simulator](https://jcw87.github.io/c2-sans-fight/)
-- [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play pinball on your browser
-- [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3ds is surprisingly easy
+- [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play 3D pinball on your browser
+- [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3DS is surprisingly easy
 - [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of rom sites by obspogon
-- [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by idrelle games
+- [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
 
 ## music
 
