@@ -40,8 +40,9 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
 - [Vanilla CSS](https://vanillacss.com/) - a minimal baseline stylesheet
 - [Specialized CSS frameworks](https://github.com/troxler/awesome-css-frameworks#specialized) – Cool CSS stylesheets/libraries! Some of these emulate interfaces (Windows 98, XP, 7, BIOS / MS–DOS, NES, etc.)
+  - Personal pick: [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
-- [csslayouts.io](https://csslayout.io/) – Pre–made CSS layouts for common web components
+- [CSS Layout collection](https://phuoc.ng/collection/css-layout/) – Pre–made CSS layouts for common web components
 - [Responsive Templates (w3.css)](https://www.w3schools.com/w3css/w3css_templates.asp) – Free responsive CSS templates from ol’ reliable W3 Schools
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks’ comprehensive guide to Flexbox layout
 - [Flexbox Tutorial](https://internetingishard.netlify.app/html-and-css/flexbox/) - tutorial on flexbox from Interneting is Hard
@@ -53,6 +54,8 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 
 ## html
 - [&what;](https://www.amp-what.com/unicode/search/%2F%26%5Cw%2F) - HTML entities unicode characters
+- [URL encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [Broken Link Checker](https://www.deadlinkchecker.com/website-dead-link-checker.asp) - scans your website for any dead links
 
 ## javascript
 - [Animate on scroll](https://michalsnik.github.io/aos/)
@@ -72,10 +75,16 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
 - [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
 
-## etc
+## typography
+- [Go Mono](https://go.dev/blog/go-fonts) - main typeface used in this site
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
-- [URL encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [Redaction](https://www.redaction.us/) - free serif typeface inspired by *The Redaction*
+- [UNCUT.wtf](https://uncut.wtf/) - a collection of free fonts
 - [Old School PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
+  - Personal pick: [Cordata PPC-400](https://int10h.org/oldschool-pc-fonts/fontlist/font?cordata_ppc-400)
+- [Velvetyne](https://velvetyne.fr/) - free and open source fonts
+- [Cava’s Pixel Resources](https://caveras.net/) - video game pixel fonts
+- [Pixel Font Gallery](https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/) - pixel fonts created from [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)
 
 ## code editors
 
