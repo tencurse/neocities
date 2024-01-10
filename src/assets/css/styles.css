@@ -240,6 +240,10 @@ a.outlink::after {
   display: none !important;
 }
 
+a {
+  text-decoration-style: dotted;
+}
+
 /* WEBRINGS */
 
 .webring {
@@ -730,6 +734,7 @@ span.revealed {
 
 .outlink {
   width: 88px;
+  height: 31px;
   font-size: 0.6rem;
   word-wrap: break-word;
   line-height: 1;
@@ -741,7 +746,7 @@ span.revealed {
 }
 
 a:has(img[src=""]) {
-  border: 1px dashed;
+  border: 1px dotted;
 }
 
 .outlink-group .outlink:hover,
