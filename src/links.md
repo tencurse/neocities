@@ -20,6 +20,7 @@ browse more random sites in the [marginalia](https://search.marginalia.nu/explor
 
 ## etc
 
+- [crouton.net](http://crouton.net/)
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)

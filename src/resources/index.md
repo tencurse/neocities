@@ -24,6 +24,9 @@ parent: /
 - [pixel planet generator](https://deep-fold.itch.io/pixel-planet-generator)
 - [pixel space background generator](https://deep-fold.itch.io/space-background-generator)
 - [icons from various interfaces](https://guidebookgallery.org/icons/components)
+- [Dither it!](https://ditherit.com/) - image dithering tool
+- [Dither Me This](https://doodad.dev/dither-me-this/) - another image dithering tool
+- [Dithermark](https://app.dithermark.com) - yet another image dithering tool
 
 ## tech
 
@@ -36,8 +39,11 @@ parent: /
 - [Undertale bad time simulator](https://jcw87.github.io/c2-sans-fight/)
 - [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play 3D pinball on your browser
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3DS is surprisingly easy
-- [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of rom sites by obspogon
+  - [hShop](https://hshop.erista.me/) - 3DS eShop alternative
+- [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of ROM sites by obspogon
+- [Ace Attorney Investigations 2: Prosecutor’s Path](https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451/) - English translation of Ace Attorney Investigations 2
 - [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
+- [The Death Generator](https://deathgenerator.com/#gallery) - generate fake video game screenshots
 
 ## music
 
