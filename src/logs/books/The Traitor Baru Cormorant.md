@@ -18,7 +18,7 @@ contentWarning: ["homophobia"]
 ### the masquerade trilogy
 
 1. *The Traitor Baru Cormorant* (you are here)
-2. [The Monster Baru Cormorant](/logs/books/the-monster-baru-cormorant)
+2. *[The Monster Baru Cormorant](/logs/books/the-monster-baru-cormorant)*
 3. *The Tyrant Baru Cormorant* - TBR
 
 ### review
