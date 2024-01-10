@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-10",
+    "update": "organized my [resources](/resources) and [web dev resources](/resources/dev) page by category. added a bunch more links from my bookmarks"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-09",
     "update": "created placeholder buttons for button-less sites in the [outlinks](/links) page. changed font families across the website :) see [site info](/site-info) for more details"
   },
@@ -97,7 +102,7 @@
   {
     "year": 2023,
     "date": "2023-06-05",
-    "update": "Changed arrow symbol for external links, added filter format for numbers (word count), removed wave text animation (it's not working in Chromium browsers for some reason!?!?!)"
+    "update": "Changed arrow symbol for external links, added filter format for numbers (word count), removed wave text animation (it’s not working in Chromium browsers for some reason!?!?!)"
   },
   {
     "year": 2023,
@@ -127,7 +132,7 @@
   {
     "year": 2023,
     "date": "2023-05-28",
-    "update": "First ever site layout overhaul into one column... I like it but I'm not sure if it'll stick 🤔 Stay tuned!"
+    "update": "First ever site layout overhaul into one column... I like it but I’m not sure if it’ll stick 🤔 Stay tuned!"
   },
   {
     "year": 2023,
@@ -187,7 +192,7 @@
   {
     "year": 2023,
     "date": "2023-04-26",
-    "update": "Built the website layout from scratch! It's still barebones but I added some info on how I built it."
+    "update": "Built the website layout from scratch! It’s still barebones but I added some info on how I built it."
   },
   {
     "year": 2023,

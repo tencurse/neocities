@@ -8,6 +8,7 @@ parent: /resources
 
 - [eSIMs for Gaza](https://www.gazaesims.com/) - instructions and FAQs on donating eSIMs for Gaza
 - [BDS targeted boycott list](https://bdsmovement.net/get-involved/what-to-boycott) - list of brands to boycott + check for the [BDS org in your country](https://bdsmovement.net/get-involved/join-a-bds-campaign) for country-specific boycott list
+- [No Tech for Apartheid](https://www.notechforapartheid.com/)
 - [Palestine 101](https://decolonizepalestine.com/introduction-to-palestine/) - introduction to Palestinian history
 - [Al-Nakba documentary on Al-Jazeera](https://www.aljazeera.com/program/featured-documentaries/2013/5/29/al-nakba/) - a web documentary series on the 1948 Al-Nakba in Palestine
 

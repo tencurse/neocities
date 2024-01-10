@@ -20,15 +20,10 @@ browse more random sites in the [marginalia](https://search.marginalia.nu/explor
 
 ## etc
 
-- [the literary bisexual](https://theliterarybisexual.neocities.org/)
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
 - [Gwern.net](https://gwern.net/)
-- [a book like foo](https://abooklike.foo/)
-- [tentacrafts](https://tentacrafts.neocities.org/)
-- [nohello](https://nohello.net/en/)
-- [old book illustrations](https://www.oldbookillustrations.com/)
 
 i’m still in progress of adding more links here :~)
 

@@ -16,7 +16,7 @@ parent: /resources
   - The biggest hurdle here is that it asks you to dual–boot Linux if you’re on Windows. You can [install WSL instead](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview), but it’s not officially supported by the Project’s community.
 - [Interneting is Hard](https://internetingishard.netlify.app/) - web development tutorials with visual aids for the visual learner and interactive examples for the hands-on learner
 - **[Create a static site using 11ty and deploy to neocities](https://flamedfury.com/guides/11ty-homepage-neocities/)** – The holy grail tutorial that helped me so I never have to use `<iframe>`s for navigation menus, and now you don’t have to, too.
-  - [Whiona's 11ty Neocities workflow](https://whiona.weblog.lol/2023/10/my-neocities-workflow:-using-eleventy-and-the-cli-to-speed-up-development) - [Whiona](https://whiona.me) also has a great writeup that may be easier to follow for beginners/non-coders
+  - [Whiona’s 11ty Neocities workflow](https://whiona.weblog.lol/2023/10/my-neocities-workflow:-using-eleventy-and-the-cli-to-speed-up-development) - [Whiona](https://whiona.me) also has a great writeup that may be easier to follow for beginners/non-coders
 - [The Modern JavaScript Tutorial](https://javascript.info/) – Great for both beginners and advanced users, though some of it may be _too_ advanced.
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) – CSS Tricks tutorial on implementing dark mode on your website
   - [Simple dark mode with CSS variables](https://lukelowrey.com/css-variable-theme-switcher/) – A quick and easy tutorial on implementing dark mode if you don’t have time for the fundamentals
@@ -33,6 +33,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Git commit message conventions](https://cbea.ms/git-commit/#seven-rules) – a blog post on writing better commit messages
   - [Atomic commits](https://www.freshconsulting.com/insights/blog/atomic-commits/) – a blog post on keeping commits related to one change only, a.k.a. atomic
 - **[deploy-to-neocities](https://deploy-to-neocities.neocities.org/)** – Quick setup to automatically deploy your changes to Neocities using a GitHub workflow
+- [Gitmoji](https://gitmoji.dev/) - emoji guide for commit messages (just for fun!)
 
 ## css
 
@@ -46,6 +47,16 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Flexbox Tutorial](https://internetingishard.netlify.app/html-and-css/flexbox/) - tutorial on flexbox from Interneting is Hard
 - [Codrops Playground](https://tympanus.net/codrops/category/playground/) – Demos of some cool web designs and animations
 - [SmolCSS](https://smolcss.dev/) – minimal snippets for modern CSS layouts and components
+- [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
+- [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
+- [`aspect-ratio`](https://jakearchibald.com/2022/img-aspect-ratio/) - Avoiding `<img>` layout shifts: aspect-ratio vs width & height attributes
+
+## html
+- [&what;](https://www.amp-what.com/unicode/search/%2F%26%5Cw%2F) - HTML entities unicode characters
+
+## javascript
+- [Animate on scroll](https://michalsnik.github.io/aos/)
+- [Plyr](https://plyr.io/#audio) - a simple, accessible and customisable media player
 
 ## accessibility
 
@@ -53,11 +64,17 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [A Field Guide to Accessibility](https://theultimatemotherfuckingwebsite.com/)
 - [WAVE Web Accessibility Tool](https://wave.webaim.org/) – This scans your website for any accessibility problems and how to fix them
 - [WebAIM’s Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check your text/background colour contrast
+- [Colour Contract Checker](https://colourcontrast.cc/)
 - [Randoma11y](https://randoma11y.com) – Generate accessible colour schemes
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
 - [HTML5 Please](https://html5please.com/) - Check browser compatibility for HTML5, CSS3, etc features
 - [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
+- [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
+
+## etc
+- [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
+- [URL encoder for SVG](https://yoksel.github.io/url-encoder/)
 
 ## code editors
 
