@@ -23,6 +23,8 @@ contentWarning: ["homophobia"]
 
 ### review
 
+> Baru saw in the city what she felt in herself. The two-faced allegiances, the fearful monitoring of self and surroundings, the whimpering need to please somehow kneeling alongside marrow-deep defiance. One eye set on a future of glittering wealthy subservience, the other turned to a receding and irretrievable freedom.
+
 **Update:** 4/5
 
 I've been thinking about this book lately and I feel like the {% spoiler %}downer ending{% endspoiler%} actually fits the character. I don't necessarily like it and I would enjoy a {% spoiler %}happy ending{% endspoiler %} more, but if it did happen, it would not make sense for the  character and her motivations. And with this first installment of a  trilogy, it just means that her character arc isn't done yet {% spoiler %}(and maybe she would get her happy ending in the end, but I don't know that yet). (<- delusional???){% endspoiler %}

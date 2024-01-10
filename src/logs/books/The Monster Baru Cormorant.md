@@ -22,6 +22,10 @@ favourite: true
 
 ### review
 
+> The living had a responsibility to the dead. A responsibility to honor their successes, and to make right the wrongs done against them. It was as true for a mother of dead sons as an admiral of dead sailors.
+>
+> And that was that. She could choose not to do it, of course. But a choice not to do the right thing had a name, and that name was evil.
+
 I liked this way more than the first book. I liked reading about Baru grappling with {% spoiler %}her grief{% endspoiler %} and justifying the terrible things she does in the name of {% spoiler %}her dead lover{% endspoiler %}. Because what is {% spoiler %}Hu's sacrifice{% endspoiler %} worth if Baru fails? So, Baru has to do it. She has to. (No, she doesn't.)
 
 I love the way Baru lives in her own head for most of the time that she forgets--and learns--that connections to other people are important. That these connections are real and tangible; it can give and kill life, it can start and end wars.
