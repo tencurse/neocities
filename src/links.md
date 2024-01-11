@@ -10,7 +10,7 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
  
 ## personal sites
 
-{% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{target="_blank"}{% endfor %} {.outlink-group}
+{% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
 
 <p></p>
 

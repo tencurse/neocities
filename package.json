@@ -17,5 +17,8 @@
     "@grimlink/eleventy-plugin-lucide-icons": "^2.0.0",
     "markdown-it-attrs": "^4.1.6",
     "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@sardine/eleventy-plugin-external-links": "^1.4.0"
   }
 }
