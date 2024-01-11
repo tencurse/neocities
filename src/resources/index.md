@@ -37,6 +37,7 @@ parent: /
 - [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play 3D pinball on your browser
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3DS is surprisingly easy
   - [hShop](https://hshop.erista.me/) - 3DS eShop alternative
+  - [Theme Plaza](https://themeplaza.art/themes) - spice up your 3DS with nice themes
 - [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of ROM sites by obspogon
 - [Ace Attorney Investigations 2: Prosecutor’s Path](https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451/) - English fan translation of Ace Attorney Investigations 2
 - [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
