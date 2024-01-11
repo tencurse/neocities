@@ -28,15 +28,11 @@ parent: /
 - [Dither Me This](https://doodad.dev/dither-me-this/) - another image dithering tool
 - [Dithermark](https://app.dithermark.com) - yet another image dithering tool
 
-## tech
-
-- [torrenting tutorial](https://easyussr.neocities.org/torrenting) (autoplay warning) - comprehensive guide to safely torrenting and everything in between
-- [terminal colour schemes](https://gogh-co.github.io/Gogh/) – install terminal colour schemes in one command. i mostly use this as reference when picking out colour schemes for websites/IDEs
-
 ## video games
 
-- [Disco Elysium digital artbook](https://archive.org/details/discoelysiumartbook/) - available for free on archive.org
-- [Undertale bad time simulator](https://jcw87.github.io/c2-sans-fight/)
+- [Disco Elysium digital artbook](https://archive.org/details/discoelysiumartbook/) - available for free on archive dot org
+- *Sacred and Terrible Air* by Robert Kurvitz [PDF](https://drive.google.com/file/d/10hNiOLPy_xGX5VSnNp0fTx6aU5NHPhBX/view?usp=drivesdk) | [EPUB](https://drive.google.com/file/d/1XjBapU74VKRoC9BYk1lwhG8HeveQpVvS/view?usp=drivesdk) - English fan translation of *Püha ja õudne lõhn*, written by the creator of Disco Elysium, translated by [Group Ibex](https://www.reddit.com/r/DiscoElysium/comments/13e4tle/sacred_and_terrible_air_püha_ja_õudne_lõhn_full/?utm_source=share&utm_medium=web2x&context=3)
+- [Undertale bad time simulator](https://jcw87.github.io/c2-sans-fight/) - fight Sans on your browser
 - [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play 3D pinball on your browser
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3DS is surprisingly easy
   - [hShop](https://hshop.erista.me/) - 3DS eShop alternative
@@ -59,6 +55,12 @@ parent: /
 - [How to Make a Zine](https://www.rookiemag.com/2012/05/how-to-make-a-zine/)
 - [The Anarchist Library](https://theanarchistlibrary.org/special/index)
 - [Anna’s Archive](https://annas-archive.org/)
+
+## tech
+
+- [torrenting tutorial](https://easyussr.neocities.org/torrenting) (autoplay warning) - comprehensive guide to safely torrenting and everything in between
+- [terminal colour schemes](https://gogh-co.github.io/Gogh/) – install terminal colour schemes in one command. i mostly use this as reference when picking out colour schemes for websites/IDEs
+
 
 ## language learning
 
