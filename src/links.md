@@ -10,13 +10,13 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
  
 ## personal sites
 
-{% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
+{% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{target="_blank"}{% endfor %} {.outlink-group}
 
 <p></p>
 
-if you’ve updated your site button, let me know via email 10kph@proton.me
+<button class="button" id="randomLink">i’m feeling lucky {% lucide "mouse-pointer-click" %}</button>
 
-browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
+if you’ve updated your site button, have a new one, or you want to get your site removed from above, let me know via email [10kph (at) proton (dot) me](mailto:10kph@proton.me)
 
 ## etc
 
@@ -28,4 +28,6 @@ browse more random sites in the [marginalia](https://search.marginalia.nu/explor
 
 i’m still in progress of adding more links here :~)
 
-in the mean time, [find more sites here](/resources)
+in the mean time, find more fun and cool sites in my [resources page](/resources)
+
+or browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
