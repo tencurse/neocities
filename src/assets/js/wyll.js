@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function getRandom(array) {
-  const randomIndex = Math.floor(Math.random() * array.length);
-  return array[randomIndex];
+  const randomIndex = Math.floor(Math.random() * array.length + 1);
+  return array[randomIndex % array.length];
 }
 
 const quotes = [
