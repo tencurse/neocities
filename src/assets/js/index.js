@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const link = sites[index % sites.length].href;
 
-      window.open(link, "_blank");
+      window.open(link, "_blank", "noopener");
     });
   }
 });
