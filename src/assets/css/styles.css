@@ -373,8 +373,7 @@ a:visited {
 }
 
 a:hover {
-  color: var(--background-primary);
-  background-color: var(--color-yellow);
+  color: var(--color-green);
 }
 
 b,
@@ -490,7 +489,7 @@ h1 a:hover svg {
 }
 
 nav li:hover a {
-  background: var(--color-yellow);
+  background: var(--background-green);
 }
 
 /* ASCII */
