@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-13",
+    "update": "updated background colour of placeholder site buttons in the [outlinks](/links) page"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-11",
     "update": "added button in [outlinks](/links) page to take you to a random site!"
   },
