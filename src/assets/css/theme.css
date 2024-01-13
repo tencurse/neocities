@@ -55,6 +55,10 @@
     --background-yellow: rgba(224, 175, 104, 0.2);
     --background-green: rgba(158, 206, 106, 0.2);
     --background-blue: rgba(122, 162, 247, 0.2);
+    --background-blue2: #7aa2f7;
+    --background-violet: #ca79b3;
+    --background-teal: #16a085;
+    --background-purple: #9d7cd8;
 
     --color-black: #0b0b11;
     --color-white: #dfdede;
@@ -140,6 +144,10 @@ html[data-theme="dark"] {
   --background-yellow: rgba(224, 175, 104, 0.2);
   --background-green: rgba(158, 206, 106, 0.2);
   --background-blue: rgba(122, 162, 247, 0.2);
+  --background-blue2: #7aa2f7;
+  --background-violet: #ca79b3;
+  --background-teal: #16a085;
+  --background-purple: #9d7cd8;
 
   --color-black: #0b0b11;
   --color-white: #dfdede;
