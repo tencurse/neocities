@@ -36,6 +36,7 @@ art credit:
 
 - [syntax highlighting](https://www.11ty.dev/docs/plugins/syntaxhighlight/) - prismjs syntax highlighting
 - [lucide icons](https://github.com/GrimLink/eleventy-plugin-lucide-icons) - enables shortcodes for lucide icons
+- [external links](https://www.npmjs.com/package/@sardine/eleventy-plugin-external-links) - make external links safer
 
 find more web dev resources [here](/resources/dev)!
 

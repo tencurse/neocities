@@ -4,7 +4,7 @@ layout: base.njk
 parent: /
 ---
 
-here are some buttons for my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
+here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png) 
  
@@ -14,9 +14,9 @@ here are some buttons for my site! i couldn’t decide which one i liked so just
 
 <p></p>
 
-if you’ve updated your site button, let me know via email 10kph@proton.me
+<button class="button" id="randomLink">i’m feeling lucky {% lucide "mouse-pointer-click" %}</button>
 
-browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
+if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph (at) proton (dot) me](mailto:10kph@proton.me)
 
 ## etc
 
@@ -28,4 +28,6 @@ browse more random sites in the [marginalia](https://search.marginalia.nu/explor
 
 i’m still in progress of adding more links here :~)
 
-in the mean time, [find more sites here](/resources)
+in the mean time, find more fun and cool sites in my [resources page](/resources)
+
+or browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)

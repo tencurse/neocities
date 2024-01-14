@@ -3,6 +3,7 @@ const markdownItAttrs = require('markdown-it-attrs')
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
+const safeLinks = require('@sardine/eleventy-plugin-external-links');
 
 module.exports = function (eleventyConfig) {
   let mdOptions = {
@@ -32,6 +33,8 @@ module.exports = function (eleventyConfig) {
     "width": 16,
     "height": 16
   });
+
+  eleventyConfig.addPlugin(safeLinks);
 
   // FILTERS
 

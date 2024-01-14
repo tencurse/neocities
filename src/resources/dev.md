@@ -20,6 +20,7 @@ parent: /resources
 - [The Modern JavaScript Tutorial](https://javascript.info/) – Great for both beginners and advanced users, though some of it may be _too_ advanced.
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) – CSS Tricks tutorial on implementing dark mode on your website
   - [Simple dark mode with CSS variables](https://lukelowrey.com/css-variable-theme-switcher/) – A quick and easy tutorial on implementing dark mode if you don’t have time for the fundamentals
+- [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/) - a tutorial on making your images responsive
 
 ## git
 
@@ -67,12 +68,11 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [A Field Guide to Accessibility](https://theultimatemotherfuckingwebsite.com/)
 - [WAVE Web Accessibility Tool](https://wave.webaim.org/) – This scans your website for any accessibility problems and how to fix them
 - [WebAIM’s Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check your text/background colour contrast
-- [Colour Contract Checker](https://colourcontrast.cc/)
+- [Colour Contrast Checker](https://colourcontrast.cc/) - a more visual tool to checking colour contrast
 - [Randoma11y](https://randoma11y.com) – Generate accessible colour schemes
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
 - [HTML5 Please](https://html5please.com/) - Check browser compatibility for HTML5, CSS3, etc features
-- [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/)
 - [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
 
 ## typography

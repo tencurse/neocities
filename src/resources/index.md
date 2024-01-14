@@ -37,6 +37,7 @@ parent: /
 - [3D Pinball](https://alula.github.io/SpaceCadetPinball/) - play 3D pinball on your browser
 - [3DS Hacks Guide](https://3ds.hacks.guide/) - modding a 3DS is surprisingly easy
   - [hShop](https://hshop.erista.me/) - 3DS eShop alternative
+  - [Theme Plaza](https://themeplaza.art/themes) - spice up your 3DS with nice themes
 - [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of ROM sites by obspogon
 - [Ace Attorney Investigations 2: Prosecutor’s Path](https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451/) - English fan translation of Ace Attorney Investigations 2
 - [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
@@ -49,9 +50,9 @@ parent: /
 
 ## books
 
+- [Weird Fiction and fiction that happens to be weird](https://figcat.com/lists/weird-fiction-and-fiction-that-happens-to-be-weird/) - a list of weird fiction books curated by [figcat](https://figcat.com/)! the website is full of other great lists for comics, literature, and RPGs so check it out
 - [a book like foo](https://abooklike.foo/) - get book recommendations based on three given books
 - [Beat the Backlist Reading Challenge](https://austinedecker.com/beat-the-backlist/)
-- [Weird Fiction and fiction that happens to be weird](https://figcat.com/lists/weird-fiction-and-fiction-that-happens-to-be-weird/)
 - [The Literary Bisexual](https://theliterarybisexual.neocities.org/)
 - [How to Make a Zine](https://www.rookiemag.com/2012/05/how-to-make-a-zine/)
 - [The Anarchist Library](https://theanarchistlibrary.org/special/index)

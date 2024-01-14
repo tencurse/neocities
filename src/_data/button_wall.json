@@ -16,7 +16,7 @@
   },
   {
     "title": "seafare.neocities.org",
-    "img": "https://i.imgur.com/WAFA65o.png",
+    "img": "https://i.imgur.com/nQw2n4Z.png",
     "url": "https://seafare.neocities.org/"
   },
   {
@@ -150,7 +150,7 @@
     "url": "https://inaka.moe/"
   },
   {
-    "title": "noelle",
+    "title": "noelle.dev",
     "img": "",
     "url": "https://noelle.dev/"
   },
@@ -190,8 +190,8 @@
     "url": "https://sheep.horse/"
   },
   {
-    "title": "figcat",
-    "img": "",
+    "title": "figcat.com",
+    "img": "/assets/img/figcat.png",
     "url": "https://figcat.com/"
   },
   {
@@ -203,5 +203,25 @@
     "title": "iwillneverbehappy.neocities.org",
     "img": "/assets/img/iwnbh.gif",
     "url": "https://iwillneverbehappy.neocities.org/"
+  },
+  {
+    "title": "flamedfury",
+    "img": "",
+    "url": "https://flamedfury.com/"
+  },
+  {
+    "title": "obspogon",
+    "img": "",
+    "url": "https://obspogon.neocities.org/"
+  },
+  {
+    "title": "emeowly.gay",
+    "img": "/assets/img/emeowly.gif",
+    "url": "https://emeowly.gay/"
+  },
+  {
+    "title": "maya.land",
+    "img": "/assets/img/mayaland.png",
+    "url": "https://maya.land/"
   }
 ]

@@ -160,6 +160,21 @@ h4 {
   user-select: none; /* Standard syntax */
 }
 
+button.button {
+  outline: 0;
+  border: 0;
+  background-color: var(--color-purple);
+  color: var(--background-primary);
+  padding: 0.75em 2em 0.25em 0.5em;
+  font-family: "Go Mono", monospace;
+  font-size: 0.9rem;
+}
+
+button.button:hover,
+button.button:active {
+  transform: scale(0.98);
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr 4fr;
@@ -273,7 +288,6 @@ div#neossg tr td {
 
 div#linuxring {
   padding: 0;
-  width: 100%;
 }
 
 div#linuxring table {
@@ -735,18 +749,33 @@ span.revealed {
 .outlink {
   width: 88px;
   height: 31px;
-  font-size: 0.6rem;
+  font-size: 0.5rem;
+  text-transform: uppercase;
   word-wrap: break-word;
-  line-height: 1;
+  line-height: 1.1;
   text-align: center;
-  text-decoration: none;
+  text-decoration-style: dotted;
   display: grid;
   place-content: center;
   grid-template-columns: 88px;
+  font-weight: bold;
 }
 
-a:has(img[src=""]) {
-  border: 1px dotted;
+a.outlink:has(img[src=""]) {
+  border: 1px dotted var(--background-primary);
+  color: var(--background-primary);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n) {
+  background-color: var(--background-blue2);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n + 1) {
+  background-color: var(--background-violet);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n + 2) {
+  background-color: var(--background-blue2);
 }
 
 .outlink-group .outlink:hover,
