@@ -775,7 +775,7 @@ a.outlink:has(img[src=""]):nth-child(3n + 1) {
 }
 
 a.outlink:has(img[src=""]):nth-child(3n + 2) {
-  background-color: var(--background-blue2);
+  background-color: var(--background-purple);
 }
 
 .outlink-group .outlink:hover,

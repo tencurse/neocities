@@ -185,11 +185,6 @@
     "url": "https://errormine.neocities.org/"
   },
   {
-    "title": "sheep.horse",
-    "img": "",
-    "url": "https://sheep.horse/"
-  },
-  {
     "title": "figcat.com",
     "img": "/assets/img/figcat.png",
     "url": "https://figcat.com/"
@@ -223,5 +218,10 @@
     "title": "maya.land",
     "img": "/assets/img/mayaland.png",
     "url": "https://maya.land/"
+  },
+  {
+    "title": "pagemelt",
+    "img": "",
+    "url": "https://pagemelt.neocities.org/"
   }
 ]
