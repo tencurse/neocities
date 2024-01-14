@@ -10,6 +10,12 @@ this [mobile-friendly site](https://kalechips.net/responsive/index) is made with
 
 feel free to copy-paste my code, but if you do, please take the time to learn what you are copy-pasting. arm yourself with knowledge! (this should go without saying, but don't actually copy the written content.)
 
+## what is 10kph?
+
+there’s no profound meaning to the username, i’m afraid. the `10` stands for my name, ten. the `k` stands for my real name’s first initial, and `ph` is to denote my country, philippines. i came up with it because i wanted a short tumblr url with numbers and letters. that’s it!
+
+it can also mean “10 kilometers per hour”, if you want. a friend had an art prompt of favourite character + username, and so for me, he drew fanart of franziska von karma (my favourite character) driving 10 kilometers per hour and getting ticketed for driving slowly, lol. sadly i lost the copy of the artwork so you’ll just have to imagine it.
+
 ## site credits
 
 here are resources i used in development:
