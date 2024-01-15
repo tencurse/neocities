@@ -22,4 +22,4 @@ practice protest safety when attending!
 
 ## etc
 
-- [Palestine buttons + resources by rosemary](https://hillhouse.neocities.org/journal/notes/palestine) - art credit for the button i used in the home page
+- [Palestine buttons + resources by rosemary](https://hillhouse.neocities.org/journal/notes/palestine) - more buttons/blinkies/stamps to show your support, and more links to resources
