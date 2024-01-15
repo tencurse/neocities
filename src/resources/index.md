@@ -67,8 +67,3 @@ parent: /
 ## language learning
 
 - [Learn Japanese: A Ridiculously Detailed Guide](https://www.tofugu.com/learn-japanese/)
-
-## digital gardens
-
-- [digital gardeners](https://github.com/MaggieAppleton/digital-gardeners) – a curated list of digital gardening tools and resources
-- [Rui Vieira](https://ruivieira.dev/)
