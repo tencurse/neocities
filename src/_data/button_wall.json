@@ -223,5 +223,15 @@
     "title": "pagemelt",
     "img": "",
     "url": "https://pagemelt.neocities.org/"
+  },
+  {
+    "title": "gardenofmadeline.neocities.org",
+    "img": "/assets/img/gardenofmadeline.gif",
+    "url": "https://gardenofmadeline.neocities.org/"
+  },
+  {
+    "title": "cyberangel.club",
+    "img": "/assets/img/cyberangel.webp",
+    "url": "https://cyberangel.club/"
   }
 ]
