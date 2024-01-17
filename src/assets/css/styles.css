@@ -126,11 +126,12 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
-  font-family: "Go Mono", "PT Mono", "Anonymous Pro", "Inconsolata",
+  font-family: "CommitMonoLig","Go Mono", "PT Mono", "Anonymous Pro", "Inconsolata",
     "Lucida Sans Unicode", "Courier New", Courier, monospace;
   counter-reset: sidenote-counter;
   box-sizing: border-box;
   line-height: 1.75;
+  letter-spacing: -0.5px;
 }
 
 article {
@@ -166,7 +167,7 @@ button.button {
   background-color: var(--color-purple);
   color: var(--background-primary);
   padding: 0.75em 2em 0.25em 0.5em;
-  font-family: "Go Mono", monospace;
+  font-family: "CommitMonoLig","Go Mono", monospace;
   font-size: 0.9rem;
 }
 
@@ -385,6 +386,7 @@ i,
 em {
   color: var(--color-purple);
   font-family: "Libre Baskerville", serif;
+  letter-spacing: 0;
 }
 
 code,
@@ -420,6 +422,7 @@ blockquote {
   font-family: "Libre Baskerville", serif;
   text-align: center;
   color: var(--color-teal);
+  letter-spacing: 0;
 }
 
 blockquote p {
@@ -749,7 +752,7 @@ span.revealed {
 .outlink {
   width: 88px;
   height: 31px;
-  font-size: 0.5rem;
+  font-size: 0.55rem;
   text-transform: uppercase;
   word-wrap: break-word;
   line-height: 1.1;
@@ -758,7 +761,6 @@ span.revealed {
   display: grid;
   place-content: center;
   grid-template-columns: 88px;
-  font-weight: bold;
 }
 
 a.outlink:has(img[src=""]) {
