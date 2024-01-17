@@ -21,8 +21,10 @@ if you’ve updated your site button, have a new one (or you already have a site
 ## digital gardens
 
 - [digital gardeners](https://github.com/MaggieAppleton/digital-gardeners) – a curated list of digital gardening tools and resources
-- [Rui Vieira](https://ruivieira.dev/)
+- [Gwern.net](https://gwern.net/)
+- [maya.land](https://maya.land)
 - [PhotoGabble](https://photogabble.co.uk/)
+- [Rui Vieira](https://ruivieira.dev/)
 
 ## etc
 
@@ -30,7 +32,6 @@ if you’ve updated your site button, have a new one (or you already have a site
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
-- [Gwern.net](https://gwern.net/)
 
 i’m still in progress of adding more links here :~)
 
