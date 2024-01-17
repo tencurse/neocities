@@ -474,6 +474,8 @@ nav a.button {
   text-decoration: none;
   background: var(--background-yellow);
   text-transform: lowercase;
+  display: inline-block;
+  line-height: 1.25;
 }
 
 nav a::before {
@@ -481,14 +483,14 @@ nav a::before {
   padding-inline-end: 10px;
 }
 
-nav li:active,
+nav a:active,
 h1 a:active svg,
-nav li:hover,
+nav a:hover,
 h1 a:hover svg {
   transform: scale(0.95);
 }
 
-nav li:hover a {
+nav a:hover {
   background: var(--background-green);
 }
 
