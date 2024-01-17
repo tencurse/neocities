@@ -27,6 +27,7 @@ parent: /
 - [Dither it!](https://ditherit.com/) - image dithering tool
 - [Dither Me This](https://doodad.dev/dither-me-this/) - another image dithering tool
 - [Dithermark](https://app.dithermark.com) - yet another image dithering tool
+- [Windows 98 Icon Viewer](https://win98icons.alexmeub.com/) - a gallery of Windows 98 icons
 
 ## video games
 
