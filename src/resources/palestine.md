@@ -20,6 +20,9 @@ practice protest safety when attending!
 
 ## historical context
 
+- [Palestine 101](https://decolonizepalestine.com/introduction-to-palestine/) - introduction to Palestinian history
+- [Al-Nakba documentary on Al-Jazeera](https://www.aljazeera.com/program/featured-documentaries/2013/5/29/al-nakba/) - a web documentary series on the 1948 Al-Nakba in Palestine
+
 ## etc
 
 - [Palestine buttons + resources by rosemary](https://hillhouse.neocities.org/journal/notes/palestine) - more buttons/blinkies/stamps to show your support, and more links to resources
