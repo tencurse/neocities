@@ -54,4 +54,4 @@ last updated: jan 2024
 </div>
 <p></p>
 
-[see more updates →](/changelog)
+[see more updates ->](/changelog)
