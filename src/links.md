@@ -16,7 +16,7 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 
 <button class="button" id="randomLink">i’m feeling lucky {% lucide "mouse-pointer-click" %}</button>
 
-if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph (at) proton (dot) me](mailto:10kph@proton.me)
+if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph@proton.me](mailto:10kph@proton.me) :~)
 
 ## digital gardens
 
