@@ -22,7 +22,7 @@ here are resources i used in development:
 
 fonts used:
 
-- [go mono](https://go.dev/blog/go-fonts) - main font
+- [commit mono](https://commitmono.com/) - main font
 - [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - *italic text*
 - [ms pgothic](https://eng.m.fontke.com/font/10400069/download/) - for ascii art
 

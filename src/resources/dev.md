@@ -76,7 +76,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
 
 ## typography
-- [Go Mono](https://go.dev/blog/go-fonts) - main typeface used in this site
+- [Go Mono](https://go.dev/blog/go-fonts) - typeface designed for the Go programming language
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
 - [Redaction](https://www.redaction.us/) - free serif typeface inspired by *The Redaction*
 - [Commit Mono](https://commitmono.com/) - neat customizable monospace font
