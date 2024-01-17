@@ -126,8 +126,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
-  font-family: "CommitMonoLig","Go Mono", "PT Mono", "Anonymous Pro", "Inconsolata",
-    "Lucida Sans Unicode", "Courier New", Courier, monospace;
+  font-family: "CommitMonoLig", "Inconsolata", "Lucida Sans Unicode",
+    "Courier New", Courier, monospace;
   counter-reset: sidenote-counter;
   box-sizing: border-box;
   line-height: 1.75;
@@ -167,7 +167,7 @@ button.button {
   background-color: var(--color-purple);
   color: var(--background-primary);
   padding: 0.75em 2em 0.25em 0.5em;
-  font-family: "CommitMonoLig","Go Mono", monospace;
+  font-family: "CommitMonoLig", "Go Mono", monospace;
   font-size: 0.9rem;
 }
 
