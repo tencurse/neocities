@@ -22,13 +22,13 @@ here are resources i used in development:
 
 fonts used:
 
-- [go mono](https://go.dev/blog/go-fonts) - main font
+- [commit mono](https://commitmono.com/) - main font
 - [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - *italic text*
 - [ms pgothic](https://eng.m.fontke.com/font/10400069/download/) - for ascii art
 
 art credit:
 
-- [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
+- [2ch <span lang="ja">のかわいい AA/顔文字まとめ</span>](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
 - [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - button credit
 - [fool lovers](https://www.foollovers.com/) - button template and favicon credit
 

@@ -44,7 +44,7 @@ i made [this site](/site-info) to exercise my coding and design skills, and also
 
 also check out my [media log](/logs), [shrines](/shrines) and [uses](/uses) (wip) page!
 
-if you’d like to chat, hit me up at [10kph (at) proton (dot) me](mailto:10kph@proton.me) or at any of my socials below :-)
+if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) or at any of my socials below :-)
 
 ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 

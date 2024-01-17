@@ -1,42 +1,6 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: "Anonymous Pro";
-  src: url("/assets/fonts/AnonymousPro-Italic.woff2") format("woff2"),
-    url("/assets/fonts/AnonymousPro-Italic.woff") format("woff");
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Anonymous Pro";
-  src: url("/assets/fonts/AnonymousPro-Regular.woff2") format("woff2"),
-    url("/assets/fonts/AnonymousPro-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Anonymous Pro";
-  src: url("/assets/fonts/AnonymousPro-BoldItalic.woff2") format("woff2"),
-    url("/assets/fonts/AnonymousPro-BoldItalic.woff") format("woff");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Anonymous Pro";
-  src: url("/assets/fonts/AnonymousPro-Bold.woff2") format("woff2"),
-    url("/assets/fonts/AnonymousPro-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "MS PGothic";
   src: local("MS PGothic"), local("MS-PGothic"),
     url("/assets/fonts/MS-PGothic.woff2") format("woff2"),
@@ -47,37 +11,55 @@
 }
 
 @font-face {
-  font-family: "Go Mono";
-  src: url("/assets/fonts/GoMono-Italic.woff2") format("woff2"),
-    url("/assets/fonts/GoMono-Italic.woff") format("woff");
-  font-weight: normal;
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-BoldItalic.woff2") format("woff2"),
+    url("assets/fonts/CommitMonoLig-BoldItalic.woff") format("woff");
+  font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Go Mono";
-  src: url("/assets/fonts/GoMono-Regular.woff2") format("woff2"),
-    url("/assets/fonts/GoMono-Regular.woff") format("woff");
-  font-weight: normal;
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-Bold.woff2") format("woff2"),
+    url("assets/fonts/CommitMonoLig-Bold.woff") format("woff");
+  font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Go Mono";
-  src: url("/assets/fonts/GoMono-BoldItalic.woff2") format("woff2"),
-    url("/assets/fonts/GoMono-BoldItalic.woff") format("woff");
-  font-weight: bold;
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-300Italic.woff2") format("woff2"),
+    url("/assets/fonts/CommitMonoLig-300Italic.woff") format("woff");
+  font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Go Mono";
-  src: url("/assets/fonts/GoMono-Bold.woff2") format("woff2"),
-    url("/assets/fonts/GoMono-Bold.woff") format("woff");
-  font-weight: bold;
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-300Regular.woff2") format("woff2"),
+    url("/assets/fonts/CommitMonoLig-300Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-500Italic.woff2") format("woff2"),
+    url("/assets/fonts/CommitMonoLig-500Italic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CommitMonoLig";
+  src: url("/assets/fonts/CommitMonoLig-500Regular.woff2") format("woff2"),
+    url("/assets/fonts/CommitMonoLig-500Regular.woff") format("woff");
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
@@ -122,15 +104,20 @@ html {
   background: var(--background-selection);
 }
 
+:lang(ja) {
+  font-family: "M Plus Rounded 1c";
+}
+
 body {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
-  font-family: "Go Mono", "PT Mono", "Anonymous Pro", "Inconsolata",
-    "Lucida Sans Unicode", "Courier New", Courier, monospace;
+  font-family: "CommitMonoLig", "Lucida Sans Unicode",
+    "Courier New", Courier, monospace;
   counter-reset: sidenote-counter;
   box-sizing: border-box;
   line-height: 1.75;
+  letter-spacing: -0.5px;
 }
 
 article {
@@ -160,14 +147,20 @@ h4 {
   user-select: none; /* Standard syntax */
 }
 
+a.button,
+button.button {
+  font-weight: 500;
+}
+
 button.button {
   outline: 0;
   border: 0;
   background-color: var(--color-purple);
   color: var(--background-primary);
   padding: 0.75em 2em 0.25em 0.5em;
-  font-family: "Go Mono", monospace;
-  font-size: 0.9rem;
+  font-family: "CommitMonoLig", monospace;
+  font-size: 1rem;
+  letter-spacing: -1px;
 }
 
 button.button:hover,
@@ -208,6 +201,7 @@ button.button:active {
   min-width: 150px;
   height: 24px;
   width: max-content;
+  font-weight: 500;
 }
 
 .grid h4 {
@@ -317,7 +311,7 @@ h4 {
   margin: 1em 0;
   cursor: default;
   width: max-content;
-  height: 1.75em;
+  height: 1.65em;
 }
 
 h1 a,
@@ -385,11 +379,12 @@ i,
 em {
   color: var(--color-purple);
   font-family: "Libre Baskerville", serif;
+  letter-spacing: 0;
 }
 
 code,
-pre > code {
-  font-size: 1rem;
+pre > code, pre {
+  font-size: 0.9em;
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;
 }
@@ -420,6 +415,7 @@ blockquote {
   font-family: "Libre Baskerville", serif;
   text-align: center;
   color: var(--color-teal);
+  letter-spacing: 0;
 }
 
 blockquote p {
@@ -501,6 +497,7 @@ nav a:hover {
   font-family: "MS PGothic", "MS Gothic", monospace;
   line-height: 1;
   padding: 1em;
+  font-size: 1rem;
 }
 
 /* MEDIA QUERY */
@@ -751,7 +748,7 @@ span.revealed {
 .outlink {
   width: 88px;
   height: 31px;
-  font-size: 0.5rem;
+  font-size: 0.55rem;
   text-transform: uppercase;
   word-wrap: break-word;
   line-height: 1.1;
@@ -760,7 +757,6 @@ span.revealed {
   display: grid;
   place-content: center;
   grid-template-columns: 88px;
-  font-weight: bold;
 }
 
 a.outlink:has(img[src=""]) {
