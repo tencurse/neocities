@@ -1,9 +1,9 @@
 const markdownIt = require("markdown-it");
-const markdownItAttrs = require('markdown-it-attrs')
+const markdownItAttrs = require("markdown-it-attrs");
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
-const safeLinks = require('@sardine/eleventy-plugin-external-links');
+const safeLinks = require("@sardine/eleventy-plugin-external-links");
 
 module.exports = function (eleventyConfig) {
   let mdOptions = {
@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   };
 
-  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs)
+  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLib);
 
   // PLUGINS
@@ -30,8 +30,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(lucideIcons, {
-    "width": 16,
-    "height": 16
+    width: 16,
+    height: 16,
   });
 
   eleventyConfig.addPlugin(safeLinks);
@@ -39,7 +39,7 @@ module.exports = function (eleventyConfig) {
   // FILTERS
 
   const mdRender = new markdownIt();
-  eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
+  eleventyConfig.addFilter("renderUsingMarkdown", function (rawString) {
     return mdRender.render(rawString);
   });
 
@@ -75,7 +75,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPairedShortcode("spoiler", (content) => {
     return `<span class="spoiler">${content}</span>`;
-  })
+  });
 
   // COLLECTIONS
 

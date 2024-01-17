@@ -185,11 +185,6 @@
     "url": "https://errormine.neocities.org/"
   },
   {
-    "title": "sheep.horse",
-    "img": "",
-    "url": "https://sheep.horse/"
-  },
-  {
     "title": "figcat.com",
     "img": "/assets/img/figcat.png",
     "url": "https://figcat.com/"
@@ -205,8 +200,8 @@
     "url": "https://iwillneverbehappy.neocities.org/"
   },
   {
-    "title": "flamedfury",
-    "img": "",
+    "title": "flamedfury.com",
+    "img": "/assets/img/flamedfury.gif",
     "url": "https://flamedfury.com/"
   },
   {
@@ -223,5 +218,30 @@
     "title": "maya.land",
     "img": "/assets/img/mayaland.png",
     "url": "https://maya.land/"
+  },
+  {
+    "title": "pagemelt",
+    "img": "",
+    "url": "https://pagemelt.neocities.org/"
+  },
+  {
+    "title": "gardenofmadeline.neocities.org",
+    "img": "/assets/img/gardenofmadeline.gif",
+    "url": "https://gardenofmadeline.neocities.org/"
+  },
+  {
+    "title": "cyberangel.club",
+    "img": "/assets/img/cyberangel.webp",
+    "url": "https://cyberangel.club/"
+  },
+  {
+    "title": "icecreampizzer.art",
+    "img": "/assets/img/icecreampizzer.png",
+    "url": "https://icecreampizzer.art/"
+  },
+  {
+    "title": "cujo.casa",
+    "img": "",
+    "url": "https://cujo.casa/"
   }
 ]

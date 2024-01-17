@@ -79,7 +79,9 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Go Mono](https://go.dev/blog/go-fonts) - main typeface used in this site
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
 - [Redaction](https://www.redaction.us/) - free serif typeface inspired by *The Redaction*
+- [Commit Mono](https://commitmono.com/) - beautiful customizable monospace font
 - [UNCUT.wtf](https://uncut.wtf/) - a collection of free fonts
+- [Asterism Fonts](https://www.asterism-m.com/font/) - a collection of cute Japanese fonts
 - [Old School PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
   - Personal pick: [Cordata PPC-400](https://int10h.org/oldschool-pc-fonts/fontlist/font?cordata_ppc-400)
 - [Velvetyne](https://velvetyne.fr/) - free and open source fonts

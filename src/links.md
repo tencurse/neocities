@@ -18,13 +18,20 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 
 if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph (at) proton (dot) me](mailto:10kph@proton.me)
 
+## digital gardens
+
+- [digital gardeners](https://github.com/MaggieAppleton/digital-gardeners) – a curated list of digital gardening tools and resources
+- [Gwern.net](https://gwern.net/)
+- [maya.land](https://maya.land)
+- [PhotoGabble](https://photogabble.co.uk/)
+- [Rui Vieira](https://ruivieira.dev/)
+
 ## etc
 
 - [crouton.net](http://crouton.net/)
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
-- [Gwern.net](https://gwern.net/)
 
 i’m still in progress of adding more links here :~)
 
