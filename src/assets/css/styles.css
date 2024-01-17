@@ -379,8 +379,8 @@ em {
 }
 
 code,
-pre > code {
-  font-size: 1rem;
+pre > code, pre {
+  font-size: 0.9em;
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;
 }
@@ -493,6 +493,7 @@ nav a:hover {
   font-family: "MS PGothic", "MS Gothic", monospace;
   line-height: 1;
   padding: 1em;
+  font-size: 1rem;
 }
 
 /* MEDIA QUERY */
