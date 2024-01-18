@@ -45,7 +45,6 @@
 html,
 * {
   scroll-behavior: smooth;
-  scrollbar-width: thin;
   scrollbar-color: var(--accent-2) var(--white);
   box-sizing: border-box;
   max-width: 100%;
@@ -59,7 +58,6 @@ section.accent {
 }
 
 ::-webkit-scrollbar {
-  width: 8px;
   background: var(--white);
 }
 
