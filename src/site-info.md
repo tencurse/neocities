@@ -22,8 +22,8 @@ here are resources i used in development:
 
 fonts used:
 
-- [commit mono](https://commitmono.com/) - main font
-- [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - *italic text*
+- [commit mono](https://commitmono.com/) - main font, customized with ligatures <= => and alt *italics*
+- [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - blockquote text
 - [ms pgothic](https://eng.m.fontke.com/font/10400069/download/) - for ascii art
 
 art credit:
