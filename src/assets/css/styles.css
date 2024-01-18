@@ -755,6 +755,7 @@ span.revealed {
   display: grid;
   place-content: center;
   grid-template-columns: 88px;
+  font-weight: 500;
 }
 
 a.outlink:has(img[src=""]) {
