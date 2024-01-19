@@ -483,8 +483,9 @@ p.blog-subtitle {
   font-size: 0.9em;
 }
 
-.blog-title, .blog-subtitle {
-  line-height:1;
+.blog-title,
+.blog-subtitle {
+  line-height: 1;
 }
 
 p.blog-date {
@@ -511,7 +512,8 @@ p.blog-date {
 
 /* NAVIGATION */
 
-nav ul {
+nav ul,
+section.footer {
   list-style-type: none;
   display: flex;
   column-gap: 1.25rem;
@@ -527,29 +529,22 @@ nav li {
   padding-inline-start: 0;
 }
 
-nav a.button {
-  padding: 1px 2em 1px 0;
+nav a.button,
+section.footer a.button {
+  padding: 0 1ch;
   text-decoration: none;
   background: var(--background-yellow);
   text-transform: lowercase;
   display: inline-block;
-  line-height: 1.25;
+  line-height: 1.3;
+  box-shadow: none;
 }
 
-nav a::before {
-  content: "■";
-  padding-inline-end: 10px;
-}
-
-nav a:active,
-h1 a:active svg,
 nav a:hover,
-h1 a:hover svg {
-  transform: scale(0.95);
-}
-
-nav a:hover {
-  background: var(--background-green);
+section.footer a:hover {
+  background: var(--color-yellow);
+  color: var(--background-primary);
+  font-weight: bold;
 }
 
 ul.breadcrumb-list {
@@ -564,7 +559,39 @@ li.breadcrumb-item {
 }
 
 li.breadcrumb-item:not(:first-of-type)::before {
-  content: '/ '
+  content: "-> ";
+  font-weight: bold;
+}
+
+li.breadcrumb-item a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 1ch;
+  display: inline-block;
+  line-height: 1.3;
+  color: var(--color-primary);
+}
+
+li.breadcrumb-item:nth-child(odd) a {
+  background-color: var(--background-blue);
+  color: var(--color-blue);
+}
+
+li.breadcrumb-item:nth-child(odd) a:hover {
+  background-color: var(--color-blue);
+}
+
+li.breadcrumb-item:nth-child(even) a {
+  background-color: var(--background-purple2);
+  color: var(--color-purple);
+}
+
+li.breadcrumb-item:nth-child(even) a:hover {
+  background-color: var(--color-purple);
+}
+
+li.breadcrumb-item a:hover {
+  color: var(--background-primary);
 }
 
 /* ASCII */
@@ -586,6 +613,8 @@ li.breadcrumb-item:not(:first-of-type)::before {
 
   nav ul {
     justify-content: left;
+    gap: 1rem;
+    row-gap: 0.5rem;
   }
 
   article {
@@ -614,11 +643,7 @@ li.breadcrumb-item:not(:first-of-type)::before {
     width: 100px;
   }
 
-  nav a.button {
-    padding: 2px 1em 2px 0.5em;
-  }
-
-  h1.button,
+  h1.button:not(.entry-title),
   h2,
   h3 {
     padding: 2px 1em 1.35em 0.5em;
@@ -753,8 +778,9 @@ img.log-cover {
 .entry-details h3 {
   margin: 1em 0;
 }
-h2.entry-title {
-  margin: 1rem 0;
+.entry-title {
+  font-size: 1.4em;
+  margin: 0 0 0.5rem;
   padding: 2px 0.5em;
   width: max-content;
   max-width: 100%;
@@ -988,4 +1014,11 @@ ul.link-list ul ul a {
 
 ul.link-list ul ul ul a {
   background: var(--color-purple);
+}
+
+/* FOOTNOTES */
+sup.footnote-ref a:focus,
+.footnote-item:target {
+  outline: thin dotted;
+  outline-offset: 2px;
 }
