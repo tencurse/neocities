@@ -1,7 +1,8 @@
 ---
 title: resources
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: resources
 ---
 
 ## important

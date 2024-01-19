@@ -1,6 +1,8 @@
 ---
 title: home
 layout: base.njk
+eleventyNavigation:
+  key: home
 ---
 
 <pre class="ascii">
@@ -47,7 +49,7 @@ thanks for visiting and take care {% lucide "heart" %}
 
 last updated: jan 2024
 
-## updates
+## changelog
 
 <div class="grid">
 {% for update in updates limit:4 %}<span class="label">{{ update.date | toUTC }} &nbsp;</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}

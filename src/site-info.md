@@ -1,7 +1,8 @@
 ---
 title: site_info
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: site_info
 ---
 
 > are you telling me a queer coded this?

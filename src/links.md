@@ -1,7 +1,8 @@
 ---
 title: links
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: links
 ---
 
 here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!

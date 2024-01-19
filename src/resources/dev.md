@@ -1,7 +1,9 @@
 ---
 layout: base.njk
-title: resources/dev
-parent: /resources
+title: dev
+eleventyNavigation:
+  key: dev
+  parent: resources
 ---
 
 ## documentation

@@ -1,7 +1,8 @@
 ---
 title: changelog
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: changelog
 ---
 
 {% assign updates24 = updates | where: "year", 2024 %}

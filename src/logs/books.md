@@ -1,7 +1,9 @@
 ---
-title: logs/books
+title: books
 layout: base.njk
-parent: /logs
+eleventyNavigation:
+  key: books
+  parent: logs
 ---
 
 

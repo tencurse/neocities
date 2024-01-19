@@ -1,7 +1,9 @@
 ---
-title: logs/movies
+title: movies
 layout: base.njk
-parent: /logs
+eleventyNavigation:
+  key: movies
+  parent: logs
 ---
 
 <div class="grid two-col-flex">

@@ -4,6 +4,9 @@
   "tags": "books",
   "title": "books",
   "eleventyComputed": {
-    "parent": "/logs/books/{% if yearRead != 2024 %}{{ yearRead }}{% endif %}"
+    "eleventyNavigation": {
+      "key": "{{ book-title | slugify }}",
+      "parent": "books"
+    }
   }
 }

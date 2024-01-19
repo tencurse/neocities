@@ -1,7 +1,8 @@
 ---
 title: about
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: about
 ---
 
 <pre class="ascii">
