@@ -37,7 +37,7 @@
   {% if page.url == '/links/' %}<script src="/assets/js/index.js"></script>{% endif %}
 </head>
 
-<body>
+<body id="top">
   {% include "partials/navigation.njk" %}
   <main>
     <article>
@@ -45,9 +45,12 @@
       {{ content | safe }}
     </article>
   </main>
-  {% if page.url == '/' %}
-  <footer>{% include "partials/webrings.njk" %}</footer>
-  {% endif %}
+  <footer>{% if page.url == '/' %}{% include "partials/webrings.njk" %}{% endif %}
+    <section>
+      <br>
+      {% include "partials/footer.njk" %}
+    </section>
+  </footer>
 </body>
 
 </html>
