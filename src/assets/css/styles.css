@@ -99,7 +99,8 @@ html {
 }
 
 ::selection {
-  background: var(--background-selection);
+  background: var(--color-blue);
+  color: var(--background-primary);
 }
 
 :lang(ja) {
@@ -110,8 +111,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px;
-  font-family: "CommitMonoLig", "Lucida Sans Unicode",
-    "Courier New", Courier, monospace;
+  font-family: "CommitMonoLig", "Lucida Sans Unicode", "Courier New", Courier,
+    monospace;
   counter-reset: sidenote-counter;
   box-sizing: border-box;
   line-height: 1.75;
@@ -379,7 +380,8 @@ em {
 }
 
 code,
-pre > code, pre {
+pre > code,
+pre {
   font-size: 0.9em;
   line-height: 1.42;
   -webkit-text-size-adjust: 100%;
