@@ -1,10 +1,17 @@
+const { UserConfig } = require("@11ty/eleventy/src/UserConfig");
+
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
 const safeLinks = require("@sardine/eleventy-plugin-external-links");
+const navigation = require("@11ty/eleventy-navigation");
 
+/**
+ * @param {UserConfig} eleventyConfig
+ * @returns {void}
+ */
 module.exports = function (eleventyConfig) {
   let mdOptions = {
     html: true,
@@ -35,6 +42,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(safeLinks);
+
+  eleventyConfig.addPlugin(navigation);
 
   // FILTERS
 
