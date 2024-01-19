@@ -445,6 +445,10 @@ svg {
   margin-block-start: -2px;
 }
 
+rt {
+  font-size: 0.7em;
+}
+
 /* NAVIGATION */
 
 nav ul {
