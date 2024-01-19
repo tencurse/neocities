@@ -1,3 +1,5 @@
-<h1 class="title button">/books/{{ yearRead }}
-  <a href="{{ parent }}">{% lucide "corner-right-up", { "size": "32", "stroke-width": "3" } %}</a>
-</h1>
+{% set navOptions = { "listClass": "breadcrumb-list", "listItemClass": "breadcrumb-item", "activeAnchorClass": "active", "activeKey": eleventyNavigation.key } %}
+
+{{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml(navOptions) | safe }}
+
+<h1 class="title button">/books/{{ yearRead }}</h1>
