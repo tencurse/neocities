@@ -32,6 +32,8 @@ if you’ve updated your site button, have a new one (or you already have a site
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
+- [Genderswap.fm](https://genderswap.fm/)
+- [deuxfleurs](https://deuxfleurs.fr/)
 
 i’m still in progress of adding more links here :~)
 
