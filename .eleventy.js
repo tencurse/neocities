@@ -77,6 +77,14 @@ module.exports = function (eleventyConfig) {
     return `<span class="spoiler">${content}</span>`;
   });
 
+  eleventyConfig.addShortcode("furi", (kanji, furi) => {
+    return `<ruby><rb>${kanji}</rb><rp>(</rp><rt>${furi}</rt><rp>)</rp></ruby>`
+  })
+
+  eleventyConfig.addPairedShortcode("lang", (content) => {
+    return `<span lang="ja">${content}</span>`;
+  })
+
   // COLLECTIONS
 
   eleventyConfig.addCollection("books", function (collection) {
