@@ -41,4 +41,7 @@ eleventyNavigation:
 {% include 'partials/logmovie.liquid' %}
 
 ## previous years
-- [2023](/logs/movies/2023)
+
+- [2023](/logs/movies/2023) {.breadcrumb-item}
+
+{.breadcrumb-list}

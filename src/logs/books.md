@@ -25,6 +25,8 @@ eleventyNavigation:
 
 ## previous years
 
-- [2023](/logs/books/2023)
-- [2022](/logs/books/2022)
-- [2021](/logs/books/2021)
+- [2023](/logs/books/2023) {.breadcrumb-item}
+- [2022](/logs/books/2022) {.breadcrumb-item}
+- [2021](/logs/books/2021) {.breadcrumb-item}
+
+{.breadcrumb-list}
