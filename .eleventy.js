@@ -2,6 +2,7 @@ const { UserConfig } = require("@11ty/eleventy/src/UserConfig");
 
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFootNotes = require("markdown-it-footnote");
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
@@ -19,7 +20,9 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   };
 
-  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs);
+  const markdownLib = markdownIt(mdOptions)
+    .use(markdownItAttrs)
+    .use(markdownItFootNotes);
   eleventyConfig.setLibrary("md", markdownLib);
 
   // PLUGINS
@@ -87,12 +90,12 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("furi", (kanji, furi) => {
-    return `<ruby><rb>${kanji}</rb><rp>(</rp><rt>${furi}</rt><rp>)</rp></ruby>`
-  })
+    return `<ruby><rb>${kanji}</rb><rp>(</rp><rt>${furi}</rt><rp>)</rp></ruby>`;
+  });
 
   eleventyConfig.addPairedShortcode("lang", (content) => {
     return `<span lang="ja">${content}</span>`;
-  })
+  });
 
   // COLLECTIONS
 
