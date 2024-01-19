@@ -2,8 +2,8 @@
   "layout": "bookpage.liquid",
   "permalink": "/logs/books/{{ book-title | slugify }}/",
   "tags": "books",
-  "title": "books",
   "eleventyComputed": {
+    "title": "{{ book-title }}",
     "eleventyNavigation": {
       "key": "{{ book-title | slugify }}",
       "parent": "books"
