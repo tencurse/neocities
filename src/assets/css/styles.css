@@ -773,6 +773,7 @@ img.log-cover {
   flex-wrap: wrap;
   flex-direction: column;
   column-gap: 1rem;
+  margin-block-start: 1rem;
 }
 .entry-details {
   display: flex;
@@ -791,12 +792,16 @@ img.log-cover {
   height: max-content;
   line-height: 1.25em;
 }
+
+.entry-details picture {
+  align-self: center;
+}
+
 img.entry-cover {
   display: inline;
   max-width: 200px;
   margin: 0 auto;
   height: 100%;
-  align-self: center;
   box-shadow: 8px 8px var(--color-black);
 }
 .entry-container .grid span {
