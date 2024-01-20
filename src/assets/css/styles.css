@@ -752,16 +752,16 @@ img.log-cover {
   }
 
   .log-entry:not(.log-book) .log-title {
-    flex-basis: 55%;
+    flex-basis: 51%;
   }
 
   .log-entry:not(.log-book) .log-icon {
-    flex-basis: 7%;
+    flex-basis: 9%;
     order: 3;
   }
 
   .log-entry:not(.log-book) .log-rating {
-    flex-basis: 15%;
+    flex-basis: 17%;
     text-align: right;
   }
 
@@ -1027,6 +1027,10 @@ ul.link-list ul ul ul a {
 }
 
 /* FOOTNOTES */
+section.footnotes, hr.footnotes-sep {
+  margin-block: 3rem;
+}
+
 sup.footnote-ref a:focus,
 .footnote-item:target {
   outline: thin dotted;
