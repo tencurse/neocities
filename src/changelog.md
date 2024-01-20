@@ -16,4 +16,6 @@ eleventyNavigation:
 
 ## previous years
 
-- [2023](/changelog/2023)
+- [2023](/changelog/2023) {.breadcrumb-item}
+
+{.breadcrumb-list}
