@@ -8,6 +8,7 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
 const safeLinks = require("@sardine/eleventy-plugin-external-links");
 const navigation = require("@11ty/eleventy-navigation");
+const rss = require("@11ty/eleventy-plugin-rss");
 
 const img = require("./eleventy.config.images");
 
@@ -53,6 +54,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(safeLinks);
 
   eleventyConfig.addPlugin(navigation);
+
+  eleventyConfig.addPlugin(rss);
 
   // FILTERS
 

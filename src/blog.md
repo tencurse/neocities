@@ -7,6 +7,8 @@ eleventyNavigation:
 
 welcome to my blog, where i talk to the void and use copious amounts of footnotes.
 
+subscribe to the [RSS {% lucide "rss" %}](/feed.xml) :-)
+
 {% if collections.posts %}
 {% assign posts = collections.posts | reverse %}
 
