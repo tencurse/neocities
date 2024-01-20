@@ -17,7 +17,7 @@ eleventyNavigation:
 
 > hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
 
-i made this site to share little pieces of myself—my [interests](/logs), my thoughts, my projects, etc. i hope you have fun, learn something new, or both!
+i made this site to share little pieces of myself—my [interests](/logs), my [thoughts](/blog), my projects, etc. i hope you have fun, learn something new, or both!
 
 here’s a [map](/sitemap), go forth and explore!
 
