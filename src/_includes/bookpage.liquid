@@ -2,9 +2,11 @@
 layout: bookbase.njk
 ---
 
+{% assign alt = title | append: " by " | append: author %}
+
 <section class="entry-container">
   <div class="entry-details">
-    <img class="entry-cover" src="{{ cover }}" alt="{{ book-title }} by {{ author }}">
+    {% image cover, alt, "entry-cover" %}
     <div>
       <h3>details</h3>
       <div class="grid two-col-flex">
