@@ -1,6 +1,6 @@
 ---
 yearRead: 2022
-book-title: The Traitor Baru Cormorant
+title: The Traitor Baru Cormorant
 author: Seth Dickinson
 yearPublished: 2015
 genre: ["fantasy", "lgbt", "science fiction"]
@@ -9,7 +9,7 @@ dateStarted: 2022-01-10
 date: 2022-05-25
 status: Read
 rating: 4
-cover: "/assets/img/the-traitor-baru-cormorant.jpg"
+cover: "/logs/books/covers/the-traitor-baru-cormorant.jpg"
 hasReview: true
 favourite: true
 contentWarning: ["homophobia"]

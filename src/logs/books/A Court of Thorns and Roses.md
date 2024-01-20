@@ -1,6 +1,6 @@
 ---
 yearRead: 2022
-book-title: A Court of Thorns and Roses
+title: A Court of Thorns and Roses
 author: Sarah J. Maas
 yearPublished: 2015
 genre: ["fantasy", "romance", "young adult"]
@@ -9,7 +9,7 @@ dateStarted: 2021-12-31
 date: 2022-01-08
 status: DNF
 rating: 2.5
-cover: "/assets/img/acotar.jpg"
+cover: "/logs/books/covers/acotar.jpg"
 hasReview: true
 ---
 

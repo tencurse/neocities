@@ -1,6 +1,6 @@
 ---
 yearRead: 2024
-book-title: Kiss Her Once for Me
+title: Kiss Her Once for Me
 author: Alison Cochrun
 yearPublished: 2022
 genre: ["romance", "lgbt", "contemporary fiction"]
@@ -8,7 +8,7 @@ edition: ebook
 dateStarted: 2023-12-20
 date: 2024-01-01
 status: DNF
-cover: "/assets/img/kiss-her-once-for-me.jpg"
+cover: "/logs/books/covers/kiss-her-once-for-me.jpg"
 hasReview: true
 ---
 

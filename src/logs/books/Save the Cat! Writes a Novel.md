@@ -1,6 +1,6 @@
 ---
 yearRead: 2021
-book-title: "Save the Cat! Writes a Novel"
+title: "Save the Cat! Writes a Novel"
 author: Jessica Brody
 yearPublished: 2018
 genre: ["nonfiction", "reference", "how to"]
@@ -9,7 +9,7 @@ dateStarted: 2021-11-13
 date: 2021-11-14
 status: Read
 rating: 4
-cover: "/assets/img/save-the-cat.jpg"
+cover: "/logs/books/covers/save-the-cat.jpg"
 hasReview: true
 ---
 

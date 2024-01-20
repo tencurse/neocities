@@ -1,6 +1,6 @@
 ---
 yearRead: 2024
-book-title: The Priory of the Orange Tree
+title: The Priory of the Orange Tree
 author: Samantha Shannon
 yearPublished: 2019
 genre: ["fantasy", "lgbt"]
@@ -8,7 +8,7 @@ edition: ebook
 dateStarted: 2023-12-29
 date: 2024-12-31
 status: In Progress
-cover: "/assets/img/priory-orange-tree.jpg"
+cover: "/logs/books/covers/priory-orange-tree.jpg"
 bookClub: true
 ---
 
