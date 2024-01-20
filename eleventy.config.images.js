@@ -23,28 +23,24 @@ function isFullUrl(url) {
 
 /**
  * @param {UserConfig} eleventyConfig
- * @returns {void}
+* @returns {void}
  */
 module.exports = function (eleventyConfig) {
   eleventyConfig.addAsyncShortcode(
     "image",
-    async function imageShortcode(src, alt, widths, sizes) {
+    async function imageShortcode(src, alt, css, widths, sizes) {
       let formats = ["webp", "auto"];
-      let input;
-
-      if (isFullUrl(src)) {
-        input = src;
-      } else {
-        input = relativeToInputPath(this.page.inputPath, src);
-      }
+      const input = "./src" + src;
 
       let metadata = await img(input, {
-        widths: widths || ["auto"],
+        widths: ["auto"],
         formats,
-        outputDir: path.join(eleventyConfig.dir.output, "img"),
+        outputDir: path.join(eleventyConfig.dir.output, "./assets/img"),
+        urlPath: "/assets/img/"
       });
 
       let imageAttributes = {
+        class: css,
         alt,
         sizes,
         loading: "lazy",
