@@ -9,6 +9,8 @@ const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
 const safeLinks = require("@sardine/eleventy-plugin-external-links");
 const navigation = require("@11ty/eleventy-navigation");
 
+const img = require("./eleventy.config.images");
+
 /**
  * @param {UserConfig} eleventyConfig
  * @returns {void}
@@ -24,6 +26,10 @@ module.exports = function (eleventyConfig) {
     .use(markdownItAttrs)
     .use(markdownItFootNotes);
   eleventyConfig.setLibrary("md", markdownLib);
+
+  eleventyConfig.addWatchTarget("src/**/*.{svg,webp,png,jpeg}");
+
+  eleventyConfig.addPlugin(img);
 
   // PLUGINS
 
