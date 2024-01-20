@@ -3,9 +3,9 @@
   "permalink": "/logs/books/{{ book-title | slugify }}/",
   "tags": "books",
   "eleventyComputed": {
-    "title": "{{ book-title }}",
+    "title": "{% if book-title %}{{ book-title }}{% else %}{{ title }}{% endif %}",
     "eleventyNavigation": {
-      "key": "{{ book-title | slugify }}",
+      "key": "{{ book-title or title | slugify }}",
       "parent": "books"
     }
   }
