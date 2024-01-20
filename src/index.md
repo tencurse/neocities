@@ -29,7 +29,7 @@ thanks for visiting and take care {% lucide "heart" %}
 
 <div class="grid">
 <span class="label">featured page&nbsp;&nbsp;</span>
-<span><a href="/shrines/wyll">wyll ravengard shrine</a> / <a href="/resources">resources</a> (updated!)</span>
+<span><a href="/resources">resources</a> (updated!) / <a href="/blog">blog</a> (it’s back!)</span>
 </div>
 
 ## currently
