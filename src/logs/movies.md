@@ -14,8 +14,14 @@ eleventyNavigation:
 </div>
 <p></p>
 
-{% lucide "heart" %} - favourite/liked it
-{% lucide "refresh-cw" %} - rewatch
+<div class="grid two-col-flex">
+  <div>
+    <h4>icon key</h4>
+
+    {% lucide "heart" %} - favourite
+    {% lucide "refresh-cw" %} - rewatch
+  </div>
+</div>
 
 ## favourites
 
