@@ -1,0 +1,13 @@
+---
+layout: bookbase.njk
+---
+
+<p>
+<div class="grid two-col-flex">
+  <span class="label">posted</span> <span>{{ date | toUTC }}</span>
+</div>
+</p>
+
+<section>
+  {{ content | safe }}
+</section>
