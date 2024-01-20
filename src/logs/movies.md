@@ -27,19 +27,19 @@ eleventyNavigation:
 
 <ul class="log booklist film">
 <li class="log-book">
-<img class="log-cover" src="/assets/img/pacific-rim.jpg" alt="Pacific Rim (2013) dir. Guillermo del Toro">
+{% image "/logs/movies/covers/pacific-rim.jpg", "Pacific Rim (2013) dir. Guillermo del Toro", "log-cover" %}
 <span class="log-title"><em>Pacific Rim (2013)</em> <span class="log-dir">dir. Guillermo del Toro</span></span>
 </li>
 <li class="log-book">
-<img class="log-cover" src="/assets/img/the-nice-guys.jpg" alt="The Nice Guys (2016) dir. Shane Black">
+{% image "/logs/movies/covers/the-nice-guys.jpg", "The Nice Guys (2016) dir. Shane Black", "log-cover" %}
 <span class="log-title"><em>The Nice Guys (2016)</em> <span class="log-dir">dir. Shane Black</span></span>
 </li>
 <li class="log-book">
-<img class="log-cover" src="/assets/img/the-handmaiden.jpg" alt="The Handmaiden (2016) dir. Park Chan-wook">
+{% image "/logs/movies/covers/the-handmaiden.jpg", "The Handmaiden (2016) dir. Park Chan-wook", "log-cover" %}
 <span class="log-title"><em>The Handmaiden (2016)</em> <span class="log-dir">dir. Park Chan-wook</span></span>
 </li>
 <li class="log-book">
-<img class="log-cover" src="/assets/img/perfect-blue.jpg" alt="Perfect Blue (1997) dir. Hayao Miyazaki">
+{% image "/logs/movies/covers/perfect-blue.jpg", "Perfect Blue (1997) dir. Hayao Miyazaki", "log-cover" %}
 <span class="log-title"><em>Perfect Blue (1997)</em> <span class="log-dir">dir. Satoshi Kon</span></span>
 </li>
 </ul>
