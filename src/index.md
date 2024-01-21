@@ -1,5 +1,5 @@
 ---
-title: home
+title: カルマ
 layout: base.njk
 eleventyNavigation:
   key: home
