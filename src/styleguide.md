@@ -1,5 +1,5 @@
 ---
-title: style_guide
+title: style guide
 layout: base.njk
 eleventyNavigation:
   key: style_guide
