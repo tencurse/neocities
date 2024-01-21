@@ -35,6 +35,11 @@
     "url": "https://trinityexe.neocities.org/bookbug"
   },
   {
+    "title": "daughterofbilitis.neocities.org",
+    "img": "/assets/img/daughterofbilitis.png",
+    "url": "https://daughterofbilitis.neocities.org/secrets/bookbug/bookbug"
+  },
+  {
     "title": "ribo.zone",
     "img": "https://i.imgur.com/8Sdv9es.gif",
     "url": "https://ribo.zone/bookbug"
@@ -108,5 +113,20 @@
     "title": "notprincehamlet.neocities.org",
     "img": "/assets/img/notprincehamlet.png",
     "url": "https://notprincehamlet.neocities.org/bookbug"
+  },
+  {
+    "title": "chrysanthemum.neocities.org",
+    "img": "/assets/img/chrysanthemum.png",
+    "url": "https://chrysanthemum.neocities.org/log/bookbug"
+  },
+  {
+    "title": "fairygore.neocities.org",
+    "img": "https://images4.imagebam.com/3c/fb/98/MER5AIT_o.png",
+    "url": "https://fairygore.neocities.org/bookbug"
+  },
+  {
+    "title": "pudo.neocities.org",
+    "img": "/assets/img/pudoweb.png",
+    "url": "https://pudo.neocities.org/bookbug"
   }
 ]

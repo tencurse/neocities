@@ -39,11 +39,13 @@ eleventyNavigation:
 </div>
 <p></p>
 
-hello! i’m ten. i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). born and raised in manila, philippines, now living in bc, canada.
+my name’s ten (yeah, like the number). i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). i was born and raised in manila, philippines, and i’m now living in bc, canada.
 
-i made [this site](/site-info) to exercise my coding and design skills, and also as a way to offer a piece of myself out into the world wide web. [making websites are cool, my friend.](/resources/dev)
+i made [this site](/site-info) to exercise my coding and design skills, and where i can code things for fun and not have to worry about being “professional” online, whatever the hell that means. [making websites](/resources/dev) is fun and cool, my friend.
 
-also check out my [media log](/logs), [shrines](/shrines) and [uses](/uses) (wip) page!
+my journey in becoming a webmaster started when i tinkered around tumblr themes and my own themes some ~10 years ago... but i didn’t actually make my _own_ website until may 2023 when i found about the small web. and now here we are! yayyy
+
+check out my [media log](/logs), [shrines](/shrines) and [uses](/uses) (wip) page!
 
 if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) or at any of my socials below :-)
 
@@ -61,8 +63,6 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 <span><a href="https://twitter.com/10kph" rel="me">@10kph</a></span>
 <span class="label">fediverse</span>
 <span><a rel="me" href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
-<span class="label">fic archive</span>
-<span><a rel="me" href="https://symmetras.neocities.org/">symmetras</a> (NSFW warning)</span>
 </div>
 </div>
 <p></p>

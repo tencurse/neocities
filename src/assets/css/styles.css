@@ -166,7 +166,7 @@ button.button {
   padding: 0.75em 2em 0.25em 0.5em;
   font-family: "CommitMonoLig", monospace;
   font-size: 1rem;
-  letter-spacing: -1px;
+  letter-spacing: -1.25px;
 }
 
 button.button:hover,
@@ -267,6 +267,7 @@ a {
   justify-content: center;
   gap: 1em;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .webring a {
@@ -336,6 +337,7 @@ h1 {
   background: var(--color-red);
   font-size: 1.8em;
   margin: 0 0 1.75em 0;
+  letter-spacing: -2px;
 }
 
 h1:not(.title) {
@@ -346,11 +348,13 @@ h2 {
   background: var(--color-yellow);
   font-size: 1.4em;
   margin: 2em 0 1.5em 0;
+  letter-spacing: -1.5px;
 }
 
 h3 {
   background: var(--color-green);
   margin: 1.5em 0;
+  letter-spacing: -1.5px;
 }
 
 h4 {
@@ -768,16 +772,16 @@ img.log-cover {
   }
 
   .log-entry:not(.log-book) .log-title {
-    flex-basis: 55%;
+    flex-basis: 51%;
   }
 
   .log-entry:not(.log-book) .log-icon {
-    flex-basis: 7%;
+    flex-basis: 9%;
     order: 3;
   }
 
   .log-entry:not(.log-book) .log-rating {
-    flex-basis: 15%;
+    flex-basis: 17%;
     text-align: right;
   }
 
@@ -1043,6 +1047,10 @@ ul.link-list ul ul ul a {
 }
 
 /* FOOTNOTES */
+section.footnotes, hr.footnotes-sep {
+  margin-block: 3rem;
+}
+
 sup.footnote-ref a:focus,
 .footnote-item:target {
   outline: thin dotted;
