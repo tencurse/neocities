@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="dark light" />
-  <title>ten@earth ~/books/{{ yearRead }}</title>
+  <title>ten@earth ~{{ title }}</title>
 
   <link rel="stylesheet" href="/assets/css/theme.css" />
   <link rel="stylesheet" href="/assets/css/prism.css" />
@@ -32,7 +32,7 @@
   <script src="/assets/js/index.js"></script>
 </head>
 
-<body>
+<body id="top">
   {% include "partials/navigation.njk" %}
   <main>
     <article>
@@ -40,6 +40,12 @@
       {{ content | safe }}
     </article>
   </main>
+  <footer>
+    <section>
+      <br>
+      {% include "partials/footer.njk" %}
+    </section>
+  </footer>
 </body>
 
 </html>

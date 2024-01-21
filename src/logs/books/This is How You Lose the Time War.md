@@ -1,6 +1,6 @@
 ---
 yearRead: 2021
-book-title: This is How You Lose the Time War
+title: This is How You Lose the Time War
 author: Amal El-Mohtar, Max Gladstone
 yearPublished: 2019
 genre: ["science fiction", "romance", "lgbt"]
@@ -9,7 +9,7 @@ dateStarted: 2021-10-09
 date: 2021-11-09
 status: Read
 rating: 5
-cover: "/assets/img/time-war.jpg"
+cover: "/logs/books/covers/time-war.jpg"
 hasReview: true
 favourite: true
 ---

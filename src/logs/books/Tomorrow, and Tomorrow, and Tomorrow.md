@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: Tomorrow, and Tomorrow, and Tomorrow
+title: Tomorrow, and Tomorrow, and Tomorrow
 author: Gabrielle Zevin
 yearPublished: 2022
 genre: ["contemporary fiction"]
@@ -9,7 +9,7 @@ dateStarted: 2023-01-09
 date: 2023-01-23
 status: Read
 rating: 1
-cover: "/assets/img/tomorrow3x.jpg"
+cover: "/logs/books/covers/tomorrow3x.jpg"
 hasReview: true
 ---
 

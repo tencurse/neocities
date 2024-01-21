@@ -1,6 +1,6 @@
 ---
 yearRead: 2021
-book-title: "Perfume: The Story of a Murderer"
+title: "Perfume: The Story of a Murderer"
 author: Patrick Süskind
 yearPublished: 1985
 genre: ["classics", "historical fiction", "horror"]
@@ -9,7 +9,7 @@ dateStarted: 2021-11-25
 date: 2021-12-04
 status: Read
 rating: 3
-cover: "/assets/img/perfume.jpg"
+cover: "/logs/books/covers/perfume.jpg"
 hasReview: true
 ---
 

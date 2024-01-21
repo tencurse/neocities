@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: palestine
-parent: /resources
+eleventyNavigation:
+  key: palestine
+  parent: resources
 ---
 
 ## remote actions

@@ -1,7 +1,8 @@
 ---
 title: site_info
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: site_info
 ---
 
 > are you telling me a queer coded this?
@@ -40,6 +41,9 @@ plugins used:
 - [lucide icons](https://github.com/GrimLink/eleventy-plugin-lucide-icons) - enables shortcodes for lucide icons
 - [external links](https://www.npmjs.com/package/@sardine/eleventy-plugin-external-links) - make external links safer
 - [markdown-it-attrs](https://www.npmjs.com/package/markdown-it-attrs) - plugin for [markdown-it](https://github.com/markdown-it/markdown-it)  to add classes and attributes to inline markdown
+- [navigation](https://www.11ty.dev/docs/plugins/navigation/) - hierarchical navigation and breadcrumbs
+- [image](https://www.11ty.dev/docs/plugins/image/) - automatically process and optimize images
+- [rss] - generate an RSS feed
 
 find more web dev resources [here](/resources/dev)!
 

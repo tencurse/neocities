@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: Fahrenheit 451
+title: Fahrenheit 451
 author: Ray Bradbury
 yearPublished: 1953
 genre: ["classics", "science fiction", "dystopia"]
@@ -9,5 +9,5 @@ dateStarted: 2023-01-24
 date: 2023-02-21
 status: Read
 rating: 4
-cover: "/assets/img/fahrenheit-451.jpg"
+cover: "/logs/books/covers/fahrenheit-451.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: "World War Z: An Oral History of the Zombie War"
+title: "World War Z: An Oral History of the Zombie War"
 author: Max Brooks
 yearPublished: 2006
 genre: ["horror","zombies","science fiction"]
@@ -9,7 +9,7 @@ dateStarted: 2023-02-21
 date: 2023-05-02
 status: Read
 rating: 4
-cover: "/assets/img/world-war-z.png"
+cover: "/logs/books/covers/world-war-z.png"
 hasReview: true
 ---
 

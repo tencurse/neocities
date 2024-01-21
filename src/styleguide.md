@@ -1,7 +1,8 @@
 ---
 title: style_guide
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: style_guide
 ---
 
 Based off of [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)

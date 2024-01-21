@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-20",
+    "update": "**v3.1**: added breadcrumbs above the title. a few design changes here and there. and most importantly, i brought back the [blog](/blog), which also has an [RSS feed](/feed.xml)!"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-19",
     "update": "create shortcodes to add furigana over kanji text. see it in action [here](/site-info)"
   },
@@ -92,7 +97,7 @@
   {
     "year": 2023,
     "date": "2023-12-17",
-    "update": "third website overhaul for this year lmaoooo. some new stuff here and there, temporarily removed blog archive from directory"
+    "update": "**v3.0**: third website overhaul for this year lmaoooo. some new stuff here and there, temporarily removed blog archive from directory"
   },
   {
     "year": 2023,
@@ -197,7 +202,7 @@
   {
     "year": 2023,
     "date": "2023-05-10",
-    "update": "Converted project to 11ty SSG, separated sections into their own pages"
+    "update": "**v2.0**: Converted project to 11ty SSG, separated sections into their own pages"
   },
   {
     "year": 2023,
@@ -217,7 +222,7 @@
   {
     "year": 2023,
     "date": "2023-04-26",
-    "update": "Built the website layout from scratch! It’s still barebones but I added some info on how I built it."
+    "update": "**v1.0**: Built the website layout from scratch! It’s still barebones but I added some info on how I built it."
   },
   {
     "year": 2023,

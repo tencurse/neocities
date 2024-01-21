@@ -1,7 +1,8 @@
 ---
 title: changelog
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: changelog
 ---
 
 {% assign updates24 = updates | where: "year", 2024 %}
@@ -15,4 +16,6 @@ parent: /
 
 ## previous years
 
-- [2023](/changelog/2023)
+- [2023](/changelog/2023) {.breadcrumb-item}
+
+{.breadcrumb-list}

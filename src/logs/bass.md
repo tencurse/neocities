@@ -1,7 +1,9 @@
 ---
-title: logs/bass
+title: bass
 layout: base.njk
-parent: /logs
+eleventyNavigation:
+  key: bass
+  parent: logs
 ---
 
 i’m an amateur self-taught bassist!! i don’t play in a band, i only play as a personal hobby.

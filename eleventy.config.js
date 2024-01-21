@@ -1,10 +1,21 @@
+const { UserConfig } = require("@11ty/eleventy/src/UserConfig");
+
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFootNotes = require("markdown-it-footnote");
 const moment = require("moment");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lucideIcons = require("@grimlink/eleventy-plugin-lucide-icons");
 const safeLinks = require("@sardine/eleventy-plugin-external-links");
+const navigation = require("@11ty/eleventy-navigation");
+const rss = require("@11ty/eleventy-plugin-rss");
 
+const img = require("./eleventy.config.images");
+
+/**
+ * @param {UserConfig} eleventyConfig
+ * @returns {void}
+ */
 module.exports = function (eleventyConfig) {
   let mdOptions = {
     html: true,
@@ -12,8 +23,14 @@ module.exports = function (eleventyConfig) {
     linkify: true,
   };
 
-  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs);
+  const markdownLib = markdownIt(mdOptions)
+    .use(markdownItAttrs)
+    .use(markdownItFootNotes);
   eleventyConfig.setLibrary("md", markdownLib);
+
+  eleventyConfig.addWatchTarget("src/**/*.{svg,webp,png,jpeg}");
+
+  eleventyConfig.addPlugin(img);
 
   // PLUGINS
 
@@ -35,6 +52,10 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(safeLinks);
+
+  eleventyConfig.addPlugin(navigation);
+
+  eleventyConfig.addPlugin(rss);
 
   // FILTERS
 
@@ -78,12 +99,12 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("furi", (kanji, furi) => {
-    return `<ruby><rb>${kanji}</rb><rp>(</rp><rt>${furi}</rt><rp>)</rp></ruby>`
-  })
+    return `<ruby><rb>${kanji}</rb><rp>(</rp><rt>${furi}</rt><rp>)</rp></ruby>`;
+  });
 
   eleventyConfig.addPairedShortcode("lang", (content) => {
     return `<span lang="ja">${content}</span>`;
-  })
+  });
 
   // COLLECTIONS
 

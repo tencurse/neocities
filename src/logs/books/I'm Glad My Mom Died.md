@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: I’m Glad My Mom Died
+title: I’m Glad My Mom Died
 author: Jennette McCurdy
 yearPublished: 2022
 genre: ["nonfiction", "memoir"]
@@ -9,7 +9,7 @@ contentWarning: ["alcoholism", "addiction", "eating disorder", "child abuse", "e
 dateStarted: 2022-12-31
 date: 2023-01-04
 rating: 5
-cover: "/assets/img/im-glad-my-mom-died.jpg"
+cover: "/logs/books/covers/im-glad-my-mom-died.jpg"
 favourite: true
 status: "Read"
 hasReview: true

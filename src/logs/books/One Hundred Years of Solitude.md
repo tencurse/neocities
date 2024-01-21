@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: One Hundred Years of Solitude
+title: One Hundred Years of Solitude
 author: Gabriel García Márquez
 yearPublished: 1967
 genre: ["magical realism", "fantasy", "historical fiction"]
@@ -8,7 +8,7 @@ edition: ebook
 dateStarted: 2023-01-03
 date: 2023-01-09
 status: DNF
-cover: "/assets/img/100-years.jpg"
+cover: "/logs/books/covers/100-years.jpg"
 bookClub: true
 hasReview: true
 ---
