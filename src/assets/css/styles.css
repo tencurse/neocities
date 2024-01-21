@@ -260,6 +260,7 @@ a {
   justify-content: center;
   gap: 1em;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .webring a {
