@@ -42,7 +42,7 @@ thanks for visiting and take care {% lucide "heart" %}
 <span class="label">playing</span>
 <span>baldur’s gate 3</span>
 <span class="label">listening</span>
-<span><em>murder on  the dance floor</em> by sophie ellis-bextor</span>
+<span><em>the deal</em> by mitski</span>
 </div>
 
 <p></p>
