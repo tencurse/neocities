@@ -18,6 +18,7 @@ eleventyNavigation:
 
 <div class="grid normal-case">
 <span class="label">january</span> <span><a href="/logs/books/convenience-store-woman">Convenience Store Woman</a></span>
+<span class="label">february</span> <span><a href="/logs/books/giovanni-s-room">Giovanni's Room</a></span>
 </div>
 
 <p></p>
