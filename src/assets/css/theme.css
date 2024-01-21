@@ -55,6 +55,7 @@
     --background-yellow: rgba(224, 175, 104, 0.2);
     --background-green: rgba(158, 206, 106, 0.2);
     --background-blue: rgba(122, 162, 247, 0.2);
+    --background-purple: rgba(157, 124, 216, 0.2);
     --background-blue2: #7aa2f7;
     --background-violet: #ca79b3;
     --background-teal: #16a085;
@@ -144,6 +145,7 @@ html[data-theme="dark"] {
   --background-yellow: rgba(224, 175, 104, 0.2);
   --background-green: rgba(158, 206, 106, 0.2);
   --background-blue: rgba(122, 162, 247, 0.2);
+  --background-purple2: rgba(157, 124, 216, 0.2);
   --background-blue2: #7aa2f7;
   --background-violet: #ca79b3;
   --background-teal: #16a085;

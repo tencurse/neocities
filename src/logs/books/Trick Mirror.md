@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: "Trick Mirror: Reflections on Self-Delusion"
+title: "Trick Mirror: Reflections on Self-Delusion"
 author: Jia Tolentino
 yearPublished: 2019
 genre: ["nonfiction","essays","feminism"]
@@ -10,5 +10,5 @@ date: 2023-04-11
 status: Read
 rating: 4
 contentWarning: ["rape"]
-cover: "/assets/img/trick-mirror.jpg"
+cover: "/logs/books/covers/trick-mirror.jpg"
 ---

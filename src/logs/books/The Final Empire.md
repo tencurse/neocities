@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: The Final Empire
+title: The Final Empire
 author: Brandon Sanderson
 yearPublished: 2006
 genre: ["fantasy"]
@@ -9,7 +9,7 @@ dateStarted: 2023-01-11
 date: 2023-02-11
 status: Read
 rating: 4
-cover: "/assets/img/mistborn.jpg"
+cover: "/logs/books/covers/mistborn.jpg"
 reread: true
 hasReview: true
 ---

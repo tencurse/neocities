@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: Yellowface
+title: Yellowface
 author: R.F. Kuang
 yearPublished: 2023
 genre: ["contemporary fiction", "thriller", "mystery"]
@@ -9,7 +9,7 @@ dateStarted: 2023-07-01
 date: 2023-07-10
 status: Read
 rating: 4
-cover: "/assets/img/yellowface.jpg"
+cover: "/logs/books/covers/yellowface.jpg"
 hasReview: true
 ---
 

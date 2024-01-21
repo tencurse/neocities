@@ -5,7 +5,7 @@ pre,
 kbd {
   background: var(--plain-backgroundColor);
   color: var(--plain-color);
-  font-family: "Anonymous Pro", "Inconsolata", 'Courier New', Courier, monospace;
+  font-family: "CommitMonoLig","Anonymous Pro", "Inconsolata", 'Courier New', Courier, monospace;
   direction: ltr;
   text-align: left;
   white-space: pre;
@@ -57,7 +57,7 @@ kbd {
   padding: 0.2em 0.3em;
   border-radius: 0.3em;
   white-space: normal;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 /* Print */

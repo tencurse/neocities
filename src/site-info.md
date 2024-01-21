@@ -1,7 +1,8 @@
 ---
 title: site_info
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: site_info
 ---
 
 > are you telling me a queer coded this?
@@ -25,24 +26,30 @@ here are resources i used in development:
 - [moment.js](https://momentjs.com/) - javascript library for easy date formatting
 - [transfonter.org](https://transfonter.org/) - online @font-face generator
 - [lucide.dev](https://lucide.dev/) - icons
+- [furigana maker](https://nihongodera.com/tools/furigana-maker) - tool to generate furigana HTML code
 
 fonts used:
 
-- [go mono](https://go.dev/blog/go-fonts) - main font
-- [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - *italic text*
+- [commit mono](https://commitmono.com/) - main font, customized with ligatures <= => and alt *italics*
+- [libre baskerville](https://fonts.google.com/specimen/Libre+Baskerville) - blockquote text
+- [m plus rounded 1c](https://fonts.google.com/specimen/M+PLUS+Rounded+1c) - font used for japanese characters ({% lang %}{% furi "日本語" "にほんご" %}{% endlang %})
 - [ms pgothic](https://eng.m.fontke.com/font/10400069/download/) - for ascii art
 
 art credit:
 
-- [2ch のかわいい AA/顔文字まとめ](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
+- [2ch {% lang %}のかわいい AA/{% furi "顔" "かお" %}{% furi "文字" "もじ" %}まとめ{% endlang %}](https://2ch-aa.blogspot.com/) - kaomoji / ascii art credit
 - [free palestine buttons](https://hillhouse.neocities.org/journal/notes/palestine) - button credit
 - [fool lovers](https://www.foollovers.com/) - button template and favicon credit
 
-11ty plugins used:
+plugins used:
 
 - [syntax highlighting](https://www.11ty.dev/docs/plugins/syntaxhighlight/) - prismjs syntax highlighting
 - [lucide icons](https://github.com/GrimLink/eleventy-plugin-lucide-icons) - enables shortcodes for lucide icons
 - [external links](https://www.npmjs.com/package/@sardine/eleventy-plugin-external-links) - make external links safer
+- [markdown-it-attrs](https://www.npmjs.com/package/markdown-it-attrs) - plugin for [markdown-it](https://github.com/markdown-it/markdown-it)  to add classes and attributes to inline markdown
+- [navigation](https://www.11ty.dev/docs/plugins/navigation/) - hierarchical navigation and breadcrumbs
+- [image](https://www.11ty.dev/docs/plugins/image/) - automatically process and optimize images
+- [rss] - generate an RSS feed
 
 find more web dev resources [here](/resources/dev)!
 

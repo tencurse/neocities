@@ -1,7 +1,9 @@
 ---
 layout: base.njk
 title: palestine
-parent: /resources
+eleventyNavigation:
+  key: palestine
+  parent: resources
 ---
 
 ## remote actions
@@ -19,6 +21,9 @@ practice protest safety when attending!
 - [Calendar of Resistance for Palestine](https://samidoun.net/2023/10/calendar-of-resistance-for-palestine-events-and-actions-around-the-world/) - worldwide protest dates
 
 ## historical context
+
+- [Palestine 101](https://decolonizepalestine.com/introduction-to-palestine/) - introduction to Palestinian history
+- [Al-Nakba documentary on Al-Jazeera](https://www.aljazeera.com/program/featured-documentaries/2013/5/29/al-nakba/) - a web documentary series on the 1948 Al-Nakba in Palestine
 
 ## etc
 

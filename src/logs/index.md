@@ -1,7 +1,8 @@
 ---
 title: logs
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: logs
 ---
 
 <pre class="ascii">

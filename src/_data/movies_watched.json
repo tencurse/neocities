@@ -1,5 +1,16 @@
 [
   {
+    "Title": "The Shape of Water",
+    "Directors": ["Guillermo del Toro"],
+    "Rating": 5,
+    "Genres": ["Romance", "Drama", "Fantasy"],
+    "Year": 2017,
+    "DateWatched": "2024-01-11",
+    "Favourite": true,
+    "YearWatched": 2024,
+    "Rewatch": true
+  },
+  {
     "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
     "Directors": ["Francis Lawrence"],
     "Rating": 4,

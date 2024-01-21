@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: Babel
+title: Babel
 author: R.F. Kuang
 yearPublished: 2022
 genre: ["fantasy", "historical fiction"]
@@ -8,7 +8,7 @@ edition: ebook
 dateStarted: 2023-03-17
 date: 2023-12-10
 status: DNF
-cover: "/assets/img/babel.jpg"
+cover: "/logs/books/covers/babel.jpg"
 bookClub: true
 hasReview: true
 ---

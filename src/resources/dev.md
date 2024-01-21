@@ -1,7 +1,9 @@
 ---
 layout: base.njk
-title: resources/dev
-parent: /resources
+title: dev
+eleventyNavigation:
+  key: dev
+  parent: resources
 ---
 
 ## documentation
@@ -15,11 +17,13 @@ parent: /resources
 - **[The Odin Project](https://www.theodinproject.com/)** – The ultimate web development online course. It’s free and extensive. Teaches the basics of the basics. Highly recommend!
   - The biggest hurdle here is that it asks you to dual–boot Linux if you’re on Windows. You can [install WSL instead](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview), but it’s not officially supported by the Project’s community.
 - [Interneting is Hard](https://internetingishard.netlify.app/) - web development tutorials with visual aids for the visual learner and interactive examples for the hands-on learner
+- [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - an interactive, step-by-step guide on making your own web page in 4 minutes
 - **[Create a static site using 11ty and deploy to neocities](https://flamedfury.com/guides/11ty-homepage-neocities/)** – The holy grail tutorial that helped me so I never have to use `<iframe>`s for navigation menus, and now you don’t have to, too.
   - [Whiona’s 11ty Neocities workflow](https://whiona.weblog.lol/2023/10/my-neocities-workflow:-using-eleventy-and-the-cli-to-speed-up-development) - [Whiona](https://whiona.me) also has a great writeup that may be easier to follow for beginners/non-coders
 - [The Modern JavaScript Tutorial](https://javascript.info/) – Great for both beginners and advanced users, though some of it may be _too_ advanced.
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) – CSS Tricks tutorial on implementing dark mode on your website
   - [Simple dark mode with CSS variables](https://lukelowrey.com/css-variable-theme-switcher/) – A quick and easy tutorial on implementing dark mode if you don’t have time for the fundamentals
+  - Bonus: [Theme Toggles](https://toggles.dev/) - free SVG animated theme toggle icons
 - [Responsive Images](https://internetingishard.netlify.app/html-and-css/responsive-images/) - a tutorial on making your images responsive
 
 ## git
@@ -39,7 +43,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 ## css
 
 - **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
-- [Vanilla CSS](https://vanillacss.com/) - a minimal baseline stylesheet
+- [Vanilla CSS](https://git.sr.ht/~bt/vanilla-css/tree/master/item/vanilla.css) - a minimal class-less baseline stylesheet
 - [Specialized CSS frameworks](https://github.com/troxler/awesome-css-frameworks#specialized) – Cool CSS stylesheets/libraries! Some of these emulate interfaces (Windows 98, XP, 7, BIOS / MS–DOS, NES, etc.)
   - Personal pick: [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
@@ -52,11 +56,16 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
 - [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 - [`aspect-ratio`](https://jakearchibald.com/2022/img-aspect-ratio/) - Avoiding `<img>` layout shifts: aspect-ratio vs width & height attributes
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [CSS Loaders](https://css-loaders.com/) - CSS-only loading animations
+- [A (more) moden CSS reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 
 ## html
 - [&what;](https://www.amp-what.com/unicode/search/%2F%26%5Cw%2F) - HTML entities unicode characters
 - [URL encoder for SVG](https://yoksel.github.io/url-encoder/)
 - [Broken Link Checker](https://www.deadlinkchecker.com/website-dead-link-checker.asp) - scans your website for any dead links
+- [LDRDS](https://uiball.com/ldrs/) - free open-source loaders and spinners, built with web components
 
 ## javascript
 - [Animate on scroll](https://michalsnik.github.io/aos/)
@@ -73,13 +82,14 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
 - [HTML5 Please](https://html5please.com/) - Check browser compatibility for HTML5, CSS3, etc features
-- [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
 
 ## typography
-- [Go Mono](https://go.dev/blog/go-fonts) - main typeface used in this site
+- [Go Mono](https://go.dev/blog/go-fonts) - typeface designed for the Go programming language
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
 - [Redaction](https://www.redaction.us/) - free serif typeface inspired by *The Redaction*
-- [Commit Mono](https://commitmono.com/) - beautiful customizable monospace font
+- [Commit Mono](https://commitmono.com/) - neat customizable monospace font
+- [JuliaMono Typeface](https://juliamono.netlify.app/) - free monospace font
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/) - free monospace font based on Comic Sans (but legible)
 - [UNCUT.wtf](https://uncut.wtf/) - a collection of free fonts
 - [Asterism Fonts](https://www.asterism-m.com/font/) - a collection of cute Japanese fonts
 - [Old School PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
@@ -87,6 +97,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Velvetyne](https://velvetyne.fr/) - free and open source fonts
 - [Cava’s Pixel Resources](https://caveras.net/) - video game pixel fonts
 - [Pixel Font Gallery](https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/) - pixel fonts created from [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)
+- [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
 
 ## code editors
 

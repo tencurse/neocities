@@ -1,9 +1,11 @@
 {
   "layout": "bookpage.liquid",
-  "permalink": "/logs/books/{{ book-title | slugify }}/",
+  "permalink": "/logs/books/{{ page.fileSlug | slugify }}/",
   "tags": "books",
-  "title": "books",
   "eleventyComputed": {
-    "parent": "/logs/books/{% if yearRead != 2024 %}{{ yearRead }}{% endif %}"
+    "eleventyNavigation": {
+      "key": "{{ page.fileSlug | slugify }}",
+      "parent": "{% if yearRead != 2024 %}{{ yearRead }}{% else %}books{% endif %}"
+    }
   }
 }
