@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: The Cruel Prince
+title: The Cruel Prince
 author: Holly Black
 yearPublished: 2018
 genre: ["fantasy", "young adult", "romance"]
@@ -9,7 +9,7 @@ dateStarted: 2023-04-12
 date: 2023-04-15
 status: Read
 rating: 4.5
-cover: "/assets/img/the-cruel-prince.jpg"
+cover: "/logs/books/covers/the-cruel-prince.jpg"
 hasReview: true
 ---
 

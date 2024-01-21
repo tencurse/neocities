@@ -1,7 +1,8 @@
 ---
 title: shrines
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: shrines
 ---
 
 the following page(s) are image/GIF-heavy and contain spoilers for their source material! enjoy {% lucide "heart" %}

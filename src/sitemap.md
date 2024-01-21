@@ -1,7 +1,8 @@
 ---
 title: sitemap
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: sitemap
 ---
 
 <pre class="ascii">

@@ -1,7 +1,8 @@
 ---
 title: uses
 layout: base.njk
-parent: /
+eleventyNavigation:
+  key: uses
 ---
 
 work in progress :~)

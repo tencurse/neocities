@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: Fingersmith
+title: Fingersmith
 author: Sarah Waters
 yearPublished: 2002
 genre: ["historical fiction", "lgbt", "romance"]
@@ -9,7 +9,7 @@ dateStarted: 2022-12-31
 date: 2023-01-19
 status: Read
 rating: 4.5
-cover: "/assets/img/fingersmith.jpg"
+cover: "/logs/books/covers/fingersmith.jpg"
 favourite: true
 hasReview: true
 ---

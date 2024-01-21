@@ -1,7 +1,9 @@
 ---
 title: logs/music
 layout: base.njk
-parent: /logs
+eleventyNavigation:
+  key: music
+  parent: logs
 permalink: false
 ---
 

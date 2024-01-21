@@ -1,6 +1,6 @@
 ---
 yearRead: 2023
-book-title: The Monster Baru Cormorant
+title: The Monster Baru Cormorant
 author: Seth Dickinson
 yearPublished: 2018
 genre: ["fantasy", "lgbt", "science fiction"]
@@ -9,10 +9,13 @@ dateStarted: 2023-05-25
 date: 2023-12-20
 status: Read
 rating: 4.5
-cover: "/assets/img/the-monster-baru-cormorant.jpg"
+cover: "/logs/books/covers/the-monster-baru-cormorant.jpg"
 hasReview: true
 favourite: true
 ---
+
+{{ eleventyNavigation.parent }}
+{{ eleventyNavigation.key }}
 
 ### the masquerade trilogy
 
