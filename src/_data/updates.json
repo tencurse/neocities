@@ -1,8 +1,13 @@
 [
   {
     "year": 2024,
+    "date": "2024-01-20",
+    "update": "**v3.1**: added breadcrumbs above the title. a few design changes here and there. and most importantly, i brought back the [blog](/blog), which also has an [RSS feed](/feed.xml)!"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-19",
-    "update": "**v3.1**: create shortcodes to add furigana over kanji text. added breadcrumbs above the title. a few design changes here and there. and most importantly, i brought back the [blog](/blog), which also has an [RSS feed](/feed.xml)!"
+    "update": "create shortcodes to add furigana over kanji text. see it in action [here](/site-info)"
   },
   {
     "year": 2024,
