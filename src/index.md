@@ -15,11 +15,11 @@ eleventyNavigation:
 　 Ｃ(＿ｱ
 </pre>
 
-> hello! i’m **[ten](/about) (he/she)**, and welcome to my webspace!
+> hello! i’m **[ten](/about) (he/she)**, and welcome to my ever-evolving webspace!
 
-i made this site to share little pieces of myself—my [interests](/logs), my [thoughts](/blog), my projects, etc. i hope you have fun, learn something new, or both!
+here you can find my [media logs](/logs), pore over some cool and interesting [links](/links) and [resources](/resources) i found from all over the web.
 
-here’s a [map](/sitemap), go forth and explore!
+have fun [exploring](/sitemap) and i hope you learn something new!
 
 thanks for visiting and take care {% lucide "heart" %}
 

@@ -10,10 +10,6 @@ eleventyNavigation:
 
 [![Bookbug](https://i.imgur.com/YdMxqsC.gif)](https://bookbug.neocities.org/){.outlink} {.outlink-group}
 
-## members
-
-{% for button in button_bookbug %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
-
 ## 2024 reads
 
 <div class="grid normal-case">
@@ -24,3 +20,11 @@ eleventyNavigation:
 <p></p>
 
 peruse my [book log](/logs/books) for other reads!
+
+## members
+
+read the other members’ book reviews:
+
+{% for button in button_bookbug %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
+
+note that the inclusion of any websites above and their opinions are not necessarily reflective of my own. :~)
