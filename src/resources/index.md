@@ -70,3 +70,4 @@ eleventyNavigation:
 ## language learning
 
 - [Learn Japanese: A Ridiculously Detailed Guide](https://www.tofugu.com/learn-japanese/)
+- [Todaii Japanese](https://easyjapanese.net/) - learn Japanese through news and other features
