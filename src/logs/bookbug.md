@@ -26,5 +26,3 @@ peruse my [book log](/logs/books) for other reads!
 read the other members’ book reviews:
 
 {% for button in button_bookbug %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
-
-note that the inclusion of any websites above and their opinions are not necessarily reflective of my own. :~)
