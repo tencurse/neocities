@@ -43,6 +43,7 @@ eleventyNavigation:
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">9</div>
+<p>used my electric kettle for the first time! love making miso soup in just 5 mins</p>
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">10</div>
@@ -59,6 +60,7 @@ eleventyNavigation:
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">14</div>
+<p>{% lucide "tv" %} <em>Marvel's Daredevil</em> - Charlie Cox the man that you are</p>
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">15</div>
@@ -68,9 +70,11 @@ eleventyNavigation:
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">17</div>
+<p>{% lucide "snowflake" %} snow day!</p>
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">18</div>
+<p>{% lucide "snowflake" %} snowing again...</p>
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">19</div>
@@ -83,7 +87,7 @@ eleventyNavigation:
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">22</div>
-<p>{% lucide "film" %} <em>Cleaners</em> (2019)</p>
+<p>{% lucide "film" %} <em>Cleaners</em> (2019) - incredible movie</p>
 </div>
 <div class="calendar-cell">
 <div class="calendar-date">23</div>
