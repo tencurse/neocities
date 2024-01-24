@@ -253,6 +253,10 @@ a {
   text-decoration-style: dotted;
 }
 
+[id] {
+	scroll-margin-top: 2rem;
+}
+
 /* WEBRINGS */
 
 .webring {
