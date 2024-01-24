@@ -253,8 +253,18 @@ a {
   text-decoration-style: dotted;
 }
 
+a:has(em),
+a:has(i) {
+  text-decoration-color: var(--color-purple);
+}
+
+a:has(strong),
+a:has(b) {
+  text-decoration-color: var(--color-blue);
+}
+
 [id] {
-	scroll-margin-top: 2rem;
+  scroll-margin-top: 2rem;
 }
 
 /* WEBRINGS */
@@ -1032,7 +1042,8 @@ ul.link-list ul ul ul a {
 }
 
 /* FOOTNOTES */
-section.footnotes, hr.footnotes-sep {
+section.footnotes,
+hr.footnotes-sep {
   margin-block: 3rem;
 }
 
