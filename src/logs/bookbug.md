@@ -13,8 +13,8 @@ eleventyNavigation:
 ## 2024 reads
 
 <div class="grid normal-case">
-<span class="label">january</span> <span><a href="/logs/books/convenience-store-woman">Convenience Store Woman</a></span>
-<span class="label">february</span> <span><a href="/logs/books/giovanni-s-room">Giovanni's Room</a></span>
+<span class="label">january</span> <span><a href="/logs/books/convenience-store-woman">Convenience Store Woman</a> by Sayaka Murata</span>
+<span class="label">february</span> <span><a href="/logs/books/giovanni-s-room">Giovanni's Room</a> by James Baldwin</span>
 </div>
 
 <p></p>
@@ -26,5 +26,3 @@ peruse my [book log](/logs/books) for other reads!
 read the other members’ book reviews:
 
 {% for button in button_bookbug %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
-
-note that the inclusion of any websites above and their opinions are not necessarily reflective of my own. :~)
