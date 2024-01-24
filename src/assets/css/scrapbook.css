@@ -1,0 +1,51 @@
+body {
+  max-width: 700px;
+}
+
+.calendar-container {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding-right: 2rem;
+}
+
+.calendar-container > div {
+  width: 100px;
+}
+
+.calendar-day {
+  text-align: center;
+  background-color: var(--color-blue);
+  font-weight: bold;
+  color: var(--background-primary);
+}
+
+.calendar-cell {
+  border-left: 1px solid var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  min-height: 100px;
+  position: relative;
+  display: grid;
+  place-content: center;
+  padding: 12px 2px 8px;
+  line-height: 1;
+}
+
+.calendar-cell:nth-child(7n),
+.calendar-cell:last-child {
+  border-right: 1px solid var(--color-primary);
+}
+
+.calendar-cell p {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.calendar-date {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  line-height: 1;
+  font-weight: bold;
+  color: var(--color-blue);
+}
