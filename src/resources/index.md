@@ -14,6 +14,7 @@ eleventyNavigation:
 
 - [web development resources](/resources/dev) – my own curated list of web dev resources that have helped me in my path of webmastery
 - [Addy’s Toolkit](https://toolkit.addy.codes/) – curated and regularly maintained resources for web development and everything in between
+- [Tiny Tools Directory](https://tinytools.directory/) - a collection of small, free, or experimental tools (not exclusive to web development)
 
 ## graphics & templates
 
@@ -30,6 +31,8 @@ eleventyNavigation:
 - [Dithermark](https://app.dithermark.com) - yet another image dithering tool
 - [Windows 98 Icon Viewer](https://win98icons.alexmeub.com/) - a gallery of Windows 98 icons
 - [Transhumans](https://www.transhumans.xyz/) - open source punk sci-fi art collection by Pablo Stanley, available in SVG and PNG
+- [cocorini's patterns](https://cocorini.tumblr.com/patterns) - a collection of free background repeating patterns
+- [Artvee](https://artvee.com/) - public domain art
 
 ## video games
 

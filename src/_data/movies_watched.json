@@ -1,5 +1,15 @@
 [
   {
+    "Title": "Cleaners",
+    "Directors": ["Glenn Barit"],
+    "Rating": 5,
+    "Genres": ["Comedy"],
+    "Year": 2019,
+    "DateWatched": "2024-01-22",
+    "Favourite": true,
+    "YearWatched": 2024
+  },
+  {
     "Title": "The Shape of Water",
     "Directors": ["Guillermo del Toro"],
     "Rating": 5,

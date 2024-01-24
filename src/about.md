@@ -77,7 +77,7 @@ here are some link buttons to my site! i couldn’t decide which one i liked so 
 
 <div class="grid">
 <span class="label">games</span>
-<span>dragon age: origins, baldur’s gate 3, fire emblem: awakening, most fantasy RPGs, really</span>
+<span>ace attorney trilogy, dragon age: origins, disco elysium, baldur’s gate 3, fire emblem: awakening, genshin impact</span>
 <span class="label">movies</span>
 <span>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</span>
 <span class="label">books</span>
