@@ -9,5 +9,4 @@ public
 # blog articles
 
 blog
-blog.md
-feed.njk
+blog-meta
