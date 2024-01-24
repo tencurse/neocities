@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark light" />
+  <title>ten@earth ~/{{ title }}</title>
+
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/prism.css" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="stylesheet" href="/assets/css/scrapbook.css">
+
+  <link rel="me" href="https://tech.lgbt/@karma" />
+  <link rel="pgpkey" href="application/pgp-keys" href="/assets/etc/pgp.asc">
+
+  <link rel="shortcut icon" href="/assets/img/b08-icon-pc.gif" type="image/gif">
+  
+  <link rel="preload" href="/assets/fonts/MS-PGothic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-300Regular.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-300Italic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-500Regular.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-500Italic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-BoldItalic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-Bold.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/LibreBaskerville-Italic.woff2" as="font" type="font/woff2" crossorigin="">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body id="top">
+  {% include "partials/navigation.njk" %}
+  <main>
+    <article>
+      {% include "partials/header.njk" %}
+      {{ content | safe }}
+    </article>
+  </main>
+  <footer>
+    <section>
+      <br>
+      {% include "partials/footer.njk" %}
+    </section>
+  </footer>
+</body>
+
+</html>
