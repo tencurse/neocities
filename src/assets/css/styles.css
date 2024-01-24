@@ -448,7 +448,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--background-selection);
   margin: 1rem 1.5rem;
 }
 
@@ -1050,5 +1050,36 @@ hr.footnotes-sep {
 sup.footnote-ref a:focus,
 .footnote-item:target {
   outline: thin dotted;
-  outline-offset: 2px;
+}
+
+.footnote-item:target::before {
+  border-top: none;
+}
+
+ol.footnotes-list {
+  padding: 0;
+  counter-reset: footnote-counter;
+  width: 95%;
+  margin: 0 auto;
+}
+
+li.footnote-item {
+  font-size: 0.9em;
+  list-style-type: none;
+  counter-increment: footnote-counter;
+  margin-block-end: 1.5rem;
+  margin-inline-start: 1ch;
+}
+
+li.footnote-item::marker {
+  content: '0' counter(footnote-counter) ' ';
+  font-size: 0.85em;
+  color: var(--color-blue);
+  display: inline;
+  margin-inline-end: 4px;
+  vertical-align: middle;
+}
+
+li.footnote-item:nth-child(n+10)::marker {
+  content: counter(footnote-counter) ' ';
 }
