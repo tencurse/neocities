@@ -49,16 +49,17 @@ plugins used:
 - [markdown-it-attrs](https://www.npmjs.com/package/markdown-it-attrs) - plugin for [markdown-it](https://github.com/markdown-it/markdown-it)  to add classes and attributes to inline markdown
 - [navigation](https://www.11ty.dev/docs/plugins/navigation/) - hierarchical navigation and breadcrumbs
 - [image](https://www.11ty.dev/docs/plugins/image/) - automatically process and optimize images
-- [rss] - generate an RSS feed
+- [rss](https://www.11ty.dev/docs/plugins/rss/) - generate an RSS feed
 
 find more web dev resources [here](/resources/dev)!
 
 ## previous versions
 
-previous iterations of the website are saved through archive.org. current iteration is v3, updated on dec 17 2023.
+previous iterations of the website are saved through archive.org. current iteration is v3.1, updated on jan 20 2024.
 
 - [v1](https://web.archive.org/web/20230529165943/https://10kph.neocities.org/) - apr 26 2023
 - [v2](https://web.archive.org/web/20231210035358/https://10kph.neocities.org/) - may 28 2023, [source code](https://github.com/tencurse/neocities-v2)
+- [v3](https://web.archive.org/web/20231218195336/https://10kph.neocities.org/) - dec 17 2023
 
 ## licence
 

@@ -27,6 +27,7 @@ eleventyNavigation:
 </ul>
 <li><a href="/logs/bass" class="button">{% lucide "guitar" %}bass</a></li>
 </ul>
+<li><a href="/blog" class="button">{% lucide "book-text" %}blog</a></li>
 <li><a href="/shrines" class="button">{% lucide "sparkles" %}shrines</a></li>
 <li><a href="/uses" class="button">{% lucide "wrench" %}uses</a></li>
 </ul>
@@ -34,10 +35,10 @@ eleventyNavigation:
 ## the website
 
 <ul class="link-list">
-<li><a href="/site-info" class="button bg-blue">{% lucide "ruler" %}site_info</a></li>
+<li><a href="/site-info" class="button bg-blue">{% lucide "ruler" %}site info</a></li>
 <li><a href="/links" class="button bg-blue">{% lucide "link" %}outlinks</a></li>
 <li><a href="/changelog" class="button bg-blue">{% lucide "history" %}changelog</a></li>
-<li><a href="/styleguide" class="button bg-blue">{% lucide "palette" %}style_guide</a></li>
+<li><a href="/styleguide" class="button bg-blue">{% lucide "palette" %}style guide</a></li>
 </ul>
 
 ## resources
