@@ -8,9 +8,9 @@ eleventyNavigation:
 
 <section class="cards">
 
-<div class="clear thin">
+<div class="clear thin vertical">
 <h2>basics</h2>
-<div class="webring-container">
+<div class="ascii">
 <p></p>
 <pre class="ascii">
    〃∩ ∧＿∧ 　　crick
@@ -22,7 +22,7 @@ eleventyNavigation:
 <p></p>
 </div>
 
-<div class="webring-container">
+<div>
 
 <ul class="card-list alternate">
   <li class="card-item no-border">
@@ -58,7 +58,7 @@ eleventyNavigation:
 </div>
 
 </div>
-<div class="size-l">
+<div class="size-l about">
 
 my name’s ten (yeah, like the number). i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). i was born and raised in manila, philippines, and i’m now living in bc, canada.
 
@@ -72,7 +72,6 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 
 ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 
-<br>
 </div>
 
 <div class="clear">

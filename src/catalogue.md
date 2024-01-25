@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 3
 ---
 
-<section class="cards">
+<section class="cards vertical">
 <div class="size-l">
 
 behold... my stuff! these are stuff i created for fun! the list below is an assortment of coding projects (this entire site is a coding project, lbr), things i've written, lists i've curated, web pages dedicated to my favourite things, etc. enjoy!

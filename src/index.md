@@ -33,11 +33,23 @@ have fun [exploring](/sitemap) and i hope you learn something new!
 thanks for visiting and take care {% lucide "heart" %}
 
   </div>
+
+<div class="clear vertical">
   <div class="featured">
     <h2>featured</h2>
     {% image "/assets/img/dum.png" "placeholder" %}
     <p><a href="/resources" class="link">resources</a></p>
   </div>
+  <div>
+  <center>
+
+  [![Resources for Palestine](/assets/img/standwith.png)](/resources/palestine) ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
+
+  </center>
+  </div>
+</div>
+
+
   <div class="latest">
     <h2>latest</h2>
     <ul class="card-list">
@@ -47,12 +59,12 @@ thanks for visiting and take care {% lucide "heart" %}
         <span class="category"><a href="/blog">blog</a></span>
       </li>
       <li class="card-item">
-        <span class="title"><a href="{{ book.url }}">{{ book.data.title }}</a></span>
+        <span class="title"><a href="{{ book.url }}"><em>{{ book.data.title }}</em></a></span>
         <span class="date">{{ book.data.dateStarted | toUTC }}</span>
         <span class="category"><a href="/logs/books/">book</a></span>
       </li>
       <li class="card-item">
-        <span class="title"><a href="/logs/movies">{{ movie.Title }} ({{ movie.Year }})</a></span>
+        <span class="title"><em>{{ movie.Title }}</em> ({{ movie.Year }})</span>
         <span class="date">{{ movie.DateWatched | toUTC }}</span>
         <span class="category"><a href="/logs/movies/">movie</a></span>
       </li>
@@ -63,7 +75,7 @@ thanks for visiting and take care {% lucide "heart" %}
       </li>
     </ul>
   </div>
-  <div class="webring-container">
+  <div>
   {% include 'partials/webrings.njk' %}
   </div>
 </section>
