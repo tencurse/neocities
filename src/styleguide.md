@@ -1,8 +1,9 @@
 ---
-title: style_guide
+title: style guide
 layout: base.njk
 eleventyNavigation:
-  key: style_guide
+  key: style guide
+  parent: catalogue
 ---
 
 Based off of [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)

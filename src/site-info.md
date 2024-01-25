@@ -3,6 +3,7 @@ title: site_info
 layout: base.njk
 eleventyNavigation:
   key: site_info
+eleventyExcludeFromCollections: true
 ---
 
 > are you telling me a queer coded this?

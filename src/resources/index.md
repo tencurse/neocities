@@ -3,6 +3,7 @@ title: resources
 layout: base.njk
 eleventyNavigation:
   key: resources
+  parent: catalogue
 ---
 
 ## important

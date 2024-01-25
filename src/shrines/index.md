@@ -3,6 +3,7 @@ title: shrines
 layout: base.njk
 eleventyNavigation:
   key: shrines
+  parent: catalogue
 ---
 
 the following page(s) are image/GIF-heavy and contain spoilers for their source material! enjoy {% lucide "heart" %}

@@ -3,6 +3,7 @@ title: changelog
 layout: base.njk
 eleventyNavigation:
   key: changelog
+eleventyExcludeFromCollections: true
 ---
 
 {% assign updates24 = updates | where: "year", 2024 %}

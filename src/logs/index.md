@@ -1,8 +1,9 @@
 ---
-title: logs
+title: media logs
 layout: base.njk
 eleventyNavigation:
   key: logs
+  parent: catalogue
 ---
 
 <pre class="ascii">

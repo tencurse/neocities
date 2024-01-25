@@ -3,6 +3,7 @@ title: sitemap
 layout: base.njk
 eleventyNavigation:
   key: sitemap
+eleventyExcludeFromCollections: true
 ---
 
 <pre class="ascii">

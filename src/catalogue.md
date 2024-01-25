@@ -1,9 +1,9 @@
 ---
-title: my stuff
+title: catalogue
 layout: base.njk
 eleventyNavigation:
-  key: stuff
-permalink: false
+  key: catalogue
+  order: 3
 ---
 
 behold... my stuff! these are stuff i created for fun! the list below is an assortment of coding projects (this entire site is a coding project, lbr), things i've written, lists i've curated, web pages dedicated to my favourite things, etc. enjoy!
