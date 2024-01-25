@@ -8,9 +8,9 @@ eleventyNavigation:
 
 <section class="cards">
 
-<div class="clear size-m">
-
-<div class="right">
+<div class="clear thin">
+<h2>basics</h2>
+<div class="webring-container">
 <p></p>
 <pre class="ascii">
    〃∩ ∧＿∧ 　　crick
@@ -22,38 +22,42 @@ eleventyNavigation:
 <p></p>
 </div>
 
-<div class="size-m">
-<h2>basics</h2>
-<div class="two-col-flex">
-<div class="grid">
-<span class="label">name</span>
-<span>ten</span>
-<span class="label">pronouns</span>
-<span>he/she</span>
-<span class="label">gender</span>
-<span>???</span>
-<span class="label">age</span>
-<span>25+</span>
-</div>
-<div class="grid">
-<span class="label">country</span>
-<span>[PH, CA]</span>
-<span class="label">language</span>
-<span>[EN, TL]</span>
-<span class="label">mbti</span>
-<span>INTP</span>
-</div>
-</div>
-</div>
+<div class="webring-container">
+
+<ul class="card-list alternate">
+  <li class="card-item no-border">
+    <span class="category">name</span>
+    <span class="title">ten</a></span>
+  </li>
+  <li class="card-item">
+    <span class="category">pronouns</span>
+    <span class="title">[he/him, she/her]</span>
+  </li>
+  <li class="card-item">
+    <span class="category">gender</span>
+    <span class="title">null</span>
+  </li>
+  <li class="card-item">
+    <span class="category">age</span>
+    <span class="title">25+</span>
+  </li>
+  <li class="card-item">
+    <span class="category">country</span>
+    <span class="title">[philippines, canada]</span>
+  </li>
+  <li class="card-item">
+    <span class="category">language</span>
+    <span class="title">[english, tagalog]</span>
+  </li>
+  <li class="card-item">
+    <span class="category">mbti</span>
+    <span class="title">INTP</span>
+  </li>
+</ul>
 
 </div>
 
-<!-- </section> -->
-
-<!-- <p></p> -->
-
-<!-- <section class="cards"> -->
-<div class="clear size-l">
+</div>
 <div class="size-l">
 
 my name’s ten (yeah, like the number). i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). i was born and raised in manila, philippines, and i’m now living in bc, canada.
@@ -68,30 +72,34 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 
 ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 
-</div>
+<br>
 </div>
 
 <div class="clear">
 <div>
 <h2>socials</h2>
 
-<div class="two-col-flex">
-<div class="grid">
-<span class="label">neocities</span>
-<span><a href="https://neocities.org/site/10kph">10kph</a></span>
-<span class="label">tumblr</span>
-<span><a href="https://agnikai.tumblr.com/" rel="me">agnikai</a></span>
-<span class="label">twitter</span>
-<span><a href="https://twitter.com/10kph" rel="me">@10kph</a></span>
-<span class="label">fediverse</span>
-<span><a rel="me" href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
+<ul class="card-list alternate">
+  <li class="card-item">
+    <span class="title"><a href="https://neocities.org/site/10kph">10kph</a></span>
+    <span class="date">neocities</span>
+  </li>
+  <li class="card-item">
+    <span class="title"><a href="https://agnikai.tumblr.com/">@agnikai</a></span>
+    <span class="date">tumblr</span>
+  </li>
+  <li class="card-item">
+    <span class="title"><a href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
+    <span class="date">fediverse</span>
+  </li>
+  <li class="card-item">
+    <span class="title"><a href="https://twitter.com/10kph">@10kph</a></span>
+    <span class="date">twitter</span>
+  </li>
+</ul>
 </div>
-</div>
-</div>
-
 
 <div>
-<h2>buttons</h2>
 
 here are some link buttons to my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
@@ -104,17 +112,36 @@ here are some link buttons to my site! i couldn’t decide which one i liked so 
 
 </section>
 
-## favourites
+<br>
 
-<div class="grid">
-<span class="label">games</span>
-<span>ace attorney trilogy, dragon age: origins, disco elysium, baldur’s gate 3, fire emblem: awakening, genshin impact</span>
-<span class="label">movies</span>
-<span>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</span>
-<span class="label">books</span>
-<span><em>this is how you lose the time war</em> by amal el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</span>
-<span class="label">music</span>
-<span>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</span>
-<span class="label">tv</span>
-<span>fleabag, the good place, marvel’s daredevil, sense8</span>
+<section class="cards">
+
+<h2>favourites</h2>
+<p></p>
+<div class="clear">
+<div>
+<h3>games</h3>
+<p>ace attorney trilogy, dragon age: origins, disco elysium, baldur’s gate 3, fire emblem: awakening, genshin impact</p>
 </div>
+<div>
+<h3>movies</h3>
+<p>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</p>
+</div>
+</div>
+<div class="clear">
+<div>
+<h3 class="label">books</h3>
+<p><em>this is how you lose the time war</em> by amal el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</p>
+</div>
+<div>
+<h3 class="label">music</h3>
+<p>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</p>
+</div>
+</div>
+<div>
+<h3 class="label">tv</h3>
+<p>fleabag, the good place, marvel’s daredevil, sense8</p>
+</div>
+</div>
+</div>
+</section>
