@@ -2,4 +2,4 @@
 
 {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { allowMissing: true }) | eleventyNavigationToHtml(navOptions) | safe }}
 
-<h1 class="title button">/{{ title }}</h1>
+<h1>{% if page.url == '/' %}{% lang %}カルマ・{% endlang %}karuma{% else %}{{ title }}{% endif %}</h1>
