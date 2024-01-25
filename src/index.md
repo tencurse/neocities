@@ -15,7 +15,7 @@ eleventyNavigation:
     <h2>welcome!</h2>
 <pre class="ascii">
 　　　 　  ∧,,∧
-　　　　） (´･ω･) 　 　 　 　Hello!
+　　　　） (´･ω･) 　 　 　 　
 　　　 (　 ( つ /￣￣￣/　
 　　(´[_]　＼/＿＿＿/)
 　　 [i＝========＝i]

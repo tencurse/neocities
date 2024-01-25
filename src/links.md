@@ -6,10 +6,16 @@ eleventyNavigation:
   order: 3
 ---
 
+<div class="size-l">
+
 here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png) 
+
+</div>
  
+<div class="size-l">
+
 ## personal sites
 
 {% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
@@ -20,6 +26,10 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 
 if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph@proton.me](mailto:10kph@proton.me) :~)
 
+</div>
+
+<div class="size-l">
+
 ## digital gardens
 
 - [digital gardeners](https://github.com/MaggieAppleton/digital-gardeners) – a curated list of digital gardening tools and resources
@@ -27,6 +37,10 @@ if you’ve updated your site button, have a new one (or you already have a site
 - [maya.land](https://maya.land)
 - [PhotoGabble](https://photogabble.co.uk/)
 - [Rui Vieira](https://ruivieira.dev/)
+
+</div>
+
+<div class="size-l">
 
 ## etc
 
@@ -45,3 +59,5 @@ i’m still in progress of adding more links here :~)
 in the mean time, find more fun and cool sites in my [resources page](/resources)
 
 or browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
+
+</div>
