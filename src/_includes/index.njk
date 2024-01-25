@@ -43,9 +43,8 @@
   <main>
     <article>
       {% include "partials/header.njk" %}
-      <section>
-        {{ content | safe }}
-      </section>
+      {{ content | safe }}
+      {# {% if page.url == '/' %}{% include "partials/webrings.njk" %}{% endif %} #}
     </article>
   </main>
   <footer>
