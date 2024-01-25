@@ -1,22 +1,29 @@
 ---
 title: about
-layout: base.njk
+layout: index.njk
 eleventyNavigation:
   key: about
+  order: 1
 ---
 
-<pre class="ascii">
-〃∩ ∧＿∧ 　　crick
-⊂⌒（ 　・ω・）　　　crick
-　 ｀ヽ_っ＿/￣￣￣/ ζ
-　 　 　 ＼/ 　  　  /　 旦
-　　　　　　￣￣￣
-</pre>
+<section class="cards">
 
+<div class="clear size-m">
+
+<div class="right">
 <p></p>
+<pre class="ascii">
+   〃∩ ∧＿∧ 　　crick
+   ⊂⌒（ 　・ω・）　　　crick
+   　 ｀ヽ_っ＿/￣￣￣/ ζ
+   　 　 　 ＼/ 　  　  /　 旦
+　  　　　　　￣￣￣
+</pre>
+<p></p>
+</div>
 
-## basics
-
+<div class="size-m">
+<h2>basics</h2>
 <div class="two-col-flex">
 <div class="grid">
 <span class="label">name</span>
@@ -37,7 +44,17 @@ eleventyNavigation:
 <span>INTP</span>
 </div>
 </div>
-<p></p>
+</div>
+
+</div>
+
+<!-- </section> -->
+
+<!-- <p></p> -->
+
+<!-- <section class="cards"> -->
+<div class="clear size-l">
+<div class="size-l">
 
 my name’s ten (yeah, like the number). i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). i was born and raised in manila, philippines, and i’m now living in bc, canada.
 
@@ -51,7 +68,12 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 
 ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 
-## socials
+</div>
+</div>
+
+<div class="clear">
+<div>
+<h2>socials</h2>
 
 <div class="two-col-flex">
 <div class="grid">
@@ -65,13 +87,22 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 <span><a rel="me" href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
 </div>
 </div>
-<p></p>
+</div>
+
+
+<div>
+<h2>buttons</h2>
 
 here are some link buttons to my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png)
 
 [see other cool sites here](/links)
+
+</div>
+</div>
+
+</section>
 
 ## favourites
 
