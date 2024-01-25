@@ -1,3 +1,5 @@
 <section class="footer">
-<a href="#top" class="button">back to top</a> <a href="/site-info" class="button">site info</a>
+  <a href="#top">back to top</a>
+  <a href="/site-info" {% if page.url == '/site-info/' %}class="active"{% endif %}>site info</a>
+  <a href="/sitemap" {% if page.url == '/sitemap/' %}class="active"{% endif %}>sitemap</a>
 </section>
