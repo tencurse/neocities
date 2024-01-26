@@ -24,6 +24,9 @@ practice protest safety when attending!
 
 - [Palestine 101](https://decolonizepalestine.com/introduction-to-palestine/) - introduction to Palestinian history
 - [Al-Nakba documentary on Al-Jazeera](https://www.aljazeera.com/program/featured-documentaries/2013/5/29/al-nakba/) - a web documentary series on the 1948 Al-Nakba in Palestine
+- [Palestine Remembered](https://www.palestineremembered.com/AllTownsListing.html) - a comprehensive website with full documentations of former locations and depopulated villages
+- [Palestine Open Maps](https://palopenmaps.org/en) - information on the current status of the villages and comparisons of maps throughout the years
+- [Palestine, Today](https://today.visualizingpalestine.org/) - an interactive website exploring how the Nakba transformed Palestine
 
 ## etc
 
