@@ -6,7 +6,8 @@ yearPublished: 1956
 genre: ["classics", "lgbt", "romance"]
 edition: ebook
 dateStarted: 2024-02-01
-status: TBR
+date: 2024-12-02
+status: In Progress
 cover: "/logs/books/covers/giovannis-room.jpg"
 bookBug: true
 ---

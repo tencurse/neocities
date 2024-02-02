@@ -36,7 +36,7 @@ thanks for visiting and take care {% lucide "heart" %}
 
 <div class="grid">
 <span class="label">reading</span>
-<span><em><a href="/logs/books/the-priory-of-the-orange-tree">the priory of the orange tree</a></em> by samantha shannon</span>
+<span><em><a href="/logs/books/giovanni-s-room/">giovanni's room</a></em> by james baldwin</span>
 <span class="label">watching</span>
 <span>house m.d., season 5</span>
 <span class="label">playing</span>
