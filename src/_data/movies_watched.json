@@ -1,5 +1,26 @@
 [
   {
+    "Title": "The Green Knight",
+    "Directors": ["David Lowery"],
+    "Rating": 5,
+    "Genres": ["Adventure", "Fantasy", "Drama"],
+    "Year": 2021,
+    "DateWatched": "2024-02-03",
+    "Favourite": true,
+    "YearWatched": 2024
+  },
+  {
+    "Title": "Star Trek Beyond",
+    "Directors": ["Justin Lin"],
+    "Rating": 5,
+    "Genres": ["Action", "Science-Fiction", "Adventure"],
+    "Year": 2016,
+    "DateWatched": "2024-01-28",
+    "Favourite": true,
+    "YearWatched": 2024,
+    "Rewatch": true
+  },
+  {
     "Title": "Cleaners",
     "Directors": ["Glenn Barit"],
     "Rating": 5,
