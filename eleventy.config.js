@@ -47,8 +47,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(lucideIcons, {
-    width: 16,
-    height: 16,
+    width: 24,
+    height: 24,
   });
 
   eleventyConfig.addPlugin(safeLinks);
