@@ -137,7 +137,7 @@ section.footer {
 
 nav li a,
 section.footer a,
-section.cards div > p > a.link {
+section.cards div p > a.link {
   font-weight: 500;
   background-color: var(--color-lavender);
   color: var(--background-primary);
@@ -153,8 +153,8 @@ nav li a:hover,
 nav li a:focus,
 section.footer a:hover,
 section.footer a:focus,
-section.cards div > p > a.link:hover,
-section.cards div > p > a.link:focus {
+section.cards div p > a.link:hover,
+section.cards div p > a.link:focus {
   background-color: var(--background-primary);
   color: var(--color-lavender);
   border: 1px dotted var(--color-lavender);
@@ -195,9 +195,19 @@ h1 {
 }
 
 h2,
-section.cards div.clear > h2 {
+section.cards div.clear h2 {
   font-size: 2em;
   letter-spacing: -2px;
+}
+
+section.cards div h2 > svg {
+  float: right;
+  margin-block-start: 5px;
+}
+
+section.cards div h3 > svg {
+  float: right;
+  margin-block-start: 6px;
 }
 
 h3 {
@@ -210,6 +220,17 @@ h2,
 h3,
 h4 {
   color: var(--color-lavender);
+}
+
+mark {
+  background-color: var(--color-blue);
+  color: var(--background-primary);
+  padding-inline: 1ch;
+  font-size: 0.9em;
+}
+
+mark.warning {
+  background-color: var(--color-red);
 }
 
 section.cards {
@@ -230,8 +251,8 @@ section.cards > div.clear > div {
   width: 100%;
 }
 
-section.cards div > h2,
-section.cards div > h3 {
+section.cards div h2,
+section.cards div h3 {
   text-align: center;
   font-size: 1.5em;
   letter-spacing: -1.5px;
@@ -276,11 +297,13 @@ div.webrings > p {
 section.cards div.featured:not(.webrings) img {
   margin-block-end: -6px;
   width: 100%;
+  height: auto;
 }
 
-section.cards div > p:has(a.link) {
+section.cards div p:has(a.link) {
   text-align: center;
   font-weight: 500;
+  margin-inline: auto;
 }
 
 section.cards > div > ul.card-list {
@@ -450,8 +473,8 @@ pre.ascii {
     flex-basis: auto;
   }
 
-  section.cards div > h2,
-  section.cards div > h3 {
+  section.cards div h2,
+  section.cards div h3 {
     text-align: left;
     margin: 20px;
   }
