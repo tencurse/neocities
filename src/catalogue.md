@@ -70,7 +70,7 @@ these are stuff i created for fun! the list below contains my media logs, things
 </ul>
 </div>
 <div>
-<h2>tools {% lucide "wrench" %}</h2>
+<h2 class="border">tools {% lucide "wrench" %}</h2>
 <p>A list of tools (mostly software) that I use every day <mark>WIP</mark></p>
 <p><a href="/uses" class="link">go to page</a></p>
 </div>
