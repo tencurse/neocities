@@ -65,7 +65,7 @@ these are stuff i created for fun! the list below contains my media logs, things
     <span class="date">for your webmastery</span>
   </li>
   <li class="card-item">
-    <p><a href="/blog" class="link">main resources page</a></p>
+    <p><a href="/blog" class="link">main page</a></p>
   </li>
 </ul>
 </div>
