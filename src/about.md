@@ -66,7 +66,7 @@ i made [this site](/site-info) to exercise my coding and design skills, and wher
 
 my journey in becoming a webmaster started when i tinkered around tumblr themes and my own themes some ~10 years ago... but i didn’t actually make my _own_ website until may 2023 when i found about the small web. and now here we are! yayyy
 
-check out my [media log](/logs), [shrines](/shrines) and [uses](/uses) (wip) page!
+check out the [catalogue](/catalogue)!
 
 if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) or at any of my socials below :-)
 
@@ -100,7 +100,7 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 
 <div>
 
-here are some link buttons to my site! i couldn’t decide which one i liked so just have all of them :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
+here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png)
 
