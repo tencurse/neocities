@@ -36,9 +36,10 @@ thanks for visiting and take care!
 
 <div class="clear vertical">
   <div class="featured">
-    <h2>featured {% lucide "flame" %}</h2>
-    {% image "/assets/img/dum.png" "placeholder" %}
-    <p><a href="/resources" class="link">resources</a></p>
+    <h2 class="border">featured {% lucide "flame" %}</h2>
+    {% image "/assets/img/catalogue.png" "catalogue" %}
+    <p>The catalogue page has everything: my media logs, the blog, resources, tools, shrines, etc!</p>
+    <p><a href="/catalogue" class="link">catalogue</a></p>
   </div>
   <div>
   <center>
