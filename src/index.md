@@ -30,13 +30,13 @@ here you can find my [media logs](/logs), pore over some cool and interesting [l
 
 have fun [exploring](/sitemap) and i hope you learn something new!
 
-thanks for visiting and take care {% lucide "heart" %}
+thanks for visiting and take care!
 
   </div>
 
 <div class="clear vertical">
   <div class="featured">
-    <h2>featured</h2>
+    <h2>featured {% lucide "flame" %}</h2>
     {% image "/assets/img/dum.png" "placeholder" %}
     <p><a href="/resources" class="link">resources</a></p>
   </div>
@@ -51,7 +51,7 @@ thanks for visiting and take care {% lucide "heart" %}
 
 
   <div class="latest">
-    <h2>latest</h2>
+    <h2>latest {% lucide "hourglass" %}</h2>
     <ul class="card-list">
       <li class="card-item">
         <span class="title"><a href="{{ blog_post.url }}">{{ blog_post.data.title }}</a></span>

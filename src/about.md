@@ -76,7 +76,7 @@ if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) 
 
 <div class="clear">
 <div>
-<h2>socials</h2>
+<h2>socials {% lucide "waypoints" %}</h2>
 
 <ul class="card-list alternate">
   <li class="card-item">
@@ -119,26 +119,26 @@ here are some link buttons to my site! i couldn’t decide which one i liked so 
 <p></p>
 <div class="clear">
 <div>
-<h3>games</h3>
+<h3>games {% lucide "gamepad-2" %}</h3>
 <p>ace attorney trilogy, dragon age: origins, disco elysium, baldur’s gate 3, fire emblem: awakening, genshin impact</p>
 </div>
 <div>
-<h3>movies</h3>
+<h3>movies {% lucide "film" %}</h3>
 <p>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</p>
 </div>
 </div>
 <div class="clear">
 <div>
-<h3 class="label">books</h3>
+<h3 class="label">books {% lucide "book-heart" %}</h3>
 <p><em>this is how you lose the time war</em> by amal el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</p>
 </div>
 <div>
-<h3 class="label">music</h3>
+<h3 class="label">music {% lucide "music" %}</h3>
 <p>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</p>
 </div>
 </div>
 <div>
-<h3 class="label">tv</h3>
+<h3 class="label">tv {% lucide "tv" %}</h3>
 <p>fleabag, the good place, marvel’s daredevil, sense8</p>
 </div>
 </div>
