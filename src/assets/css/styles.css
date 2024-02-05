@@ -186,6 +186,11 @@ p:has(img) {
   line-height: 1.6;
 }
 
+h2.border,
+section.cards div h3 {
+  border-block-end: 1px solid var(--color-lavender);
+}
+
 h1 {
   font-size: 2.5em;
   letter-spacing: -3px;
@@ -195,7 +200,7 @@ h1 {
 }
 
 h2,
-section.cards div.clear h2 {
+section.cards div.clear > h2 {
   font-size: 2em;
   letter-spacing: -2px;
 }
@@ -223,7 +228,7 @@ h4 {
 }
 
 mark {
-  background-color: var(--color-blue);
+  background-color: var(--color-sky);
   color: var(--background-primary);
   padding-inline: 1ch;
   font-size: 0.9em;
@@ -257,7 +262,7 @@ section.cards div h3 {
   text-align: center;
   font-size: 1.5em;
   letter-spacing: -1.5px;
-  margin: 1ch;
+  padding: 1ch;
 }
 
 section.cards div > p {
@@ -380,6 +385,55 @@ pre.ascii {
   line-height: 1;
 }
 
+/* 88X31 BUTTON OUTLINKS */
+
+.outlink-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.outlink {
+  width: 88px;
+  height: 31px;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  word-wrap: break-word;
+  line-height: 1.1;
+  text-align: center;
+  text-decoration-style: dotted;
+  display: grid;
+  place-content: center;
+  grid-template-columns: 88px;
+  font-weight: 500;
+}
+
+.outlink img {
+  width: 88px;
+}
+
+a.outlink:has(img[src=""]) {
+  border: 1px dotted var(--color-lavender);
+  color: var(--background-primary);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n) {
+  background-color: var(--color-sky);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n + 1) {
+  background-color: var(--color-lavender);
+}
+
+a.outlink:has(img[src=""]):nth-child(3n + 2) {
+  background-color: var(--color-pink);
+}
+
+.outlink-group .outlink:hover,
+.outlink-group .outlink:active {
+  transform: scale(0.95);
+}
+
 @media screen and (min-width: 768px) {
   h1 {
     font-size: 3em;
@@ -477,7 +531,7 @@ pre.ascii {
   section.cards div h2,
   section.cards div h3 {
     text-align: left;
-    margin: 20px;
+    padding: 20px;
   }
 
   section.cards div.right {
