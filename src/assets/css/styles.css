@@ -227,6 +227,7 @@ mark {
   color: var(--background-primary);
   padding-inline: 1ch;
   font-size: 0.9em;
+  cursor: default;
 }
 
 mark.warning {
