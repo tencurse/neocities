@@ -273,5 +273,10 @@
     "title": "inkcaps.neocities.org",
     "img": "/assets/img/inkcaps.gif",
     "url": "https://inkcaps.neocities.org/"
+  },
+  {
+    "title": "webcatz.neocities.org",
+    "img": "/assets/img/webcatz.gif",
+    "url": "https://webcatz.neocities.org/"
   }
 ]
