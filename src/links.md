@@ -48,6 +48,7 @@ if you’ve updated your site button, have a new one (or you already have a site
 - [Philippine Casette Archive](https://philippinecassettearchive.com/)
   - [archive.org version](https://web.archive.org/web/20240122201534/https://philippinecassettearchive.com/)
 - [Martial Law Index](https://martiallawindex.com/)
+- [Divina lingua](https://divinalingua.it/en)
 - [henry from online](https://henry.codes/)
   - [computer crimes](https://crime.computer/)
   - [strange websites](https://strange.website/)
