@@ -47,6 +47,8 @@ ul.char-list {
 
 li.char-item {
   height: 100px;
+  z-index: 1;
+  margin: 0.25em 0;
 }
 
 li.char-item:nth-child(odd) {
@@ -133,6 +135,7 @@ li.char-item div.link {
   li.char-item {
     height: 325px;
     width: 150px;
+    margin: 0;
   }
 
   li.char-item a {
@@ -234,5 +237,23 @@ li.char-item div.link {
     width: 25%;
     height: 1px;
     background: currentColor;
+  }
+
+  ul.char-list {
+    gap: 1rem;
+  }
+
+  li.char-item {
+    height: 425px;
+    width: 240px;
+  }
+
+  li.char-item#ajax div.image {
+    background-size: 300%;
+  }
+
+  li.char-item#marcy div.image {
+    background-size: 350%;
+    background-position: 26% 32%;
   }
 }
