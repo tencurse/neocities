@@ -1,0 +1,85 @@
+---
+title: characters
+eleventyNavigation:
+key: characters
+---
+
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/prism.css" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="stylesheet" href="/assets/css/characters.css">
+
+  <link rel="me" href="https://tech.lgbt/@karma" />
+  <link rel="pgpkey" href="application/pgp-keys" href="/assets/etc/pgp.asc">
+
+  <link rel="shortcut icon" href="/assets/img/b08-icon-pc.gif" type="image/gif">
+
+  <link rel="preload" href="/assets/fonts/MS-PGothic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-300Regular.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-300Italic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-500Regular.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-500Italic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-BoldItalic.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/CommitMono-Bold.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="/assets/fonts/LibreBaskerville-Italic.woff2" as="font" type="font/woff2" crossorigin="">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+  {% include "partials/navigation.njk" %}
+  <main>
+    <article>
+      {% set navOptions = { "listClass": "breadcrumb-list", "listItemClass": "breadcrumb-item", "activeAnchorClass":
+      "active", "activeKey": eleventyNavigation.key } %}
+
+      {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { allowMissing: true }) |
+      eleventyNavigationToHtml(navOptions) | safe }}
+
+      <h1 class="title button"><span>{{ title }}</span></h1>
+      <ul class="char-list">
+        <li class="char-item" id="ajax">
+          <a href="/characters/ajax">
+            <div class="image"></div>
+            <div class="name">
+              <h3>Ajax</h3>
+              <h4>paladin</h4>
+            </div>
+            <div class="link">Explore</div>
+          </a>
+        </li>
+        <li class="char-item" id="marcy">
+          <a href="/characters/marcy">
+            <div class="image"></div>
+            <div class="name">
+              <h3>Marcy</h3>
+              <h4>bard/warlock</h4>
+            </div>
+            <div class="link">Explore</div>
+          </a>
+        </li>
+      </ul>
+    </article>
+  </main>
+  <footer>
+    <section>
+      <br>
+      {% include "partials/footer.njk" %}
+    </section>
+  </footer>
+
+</body>
+
+</html>
