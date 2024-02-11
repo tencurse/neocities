@@ -1,0 +1,238 @@
+body {
+  max-width: 550px;
+}
+
+h1.title.button {
+  margin: 0 auto;
+  text-transform: uppercase;
+  background-color: transparent;
+  color: var(--color-primary);
+  box-shadow: none;
+  padding: 0 1em;
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+h3,
+h4 {
+  background: transparent;
+  margin: 0;
+  padding: 0;
+  color: var(--color-primary);
+  text-decoration: none;
+  line-height: 1;
+  height: auto;
+  box-shadow: none;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+h4 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+ul.char-list {
+  margin: 1em 0;
+}
+
+ul li.char-item,
+ul.char-list {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+li.char-item {
+  height: 100px;
+}
+
+li.char-item:nth-child(odd) {
+  background: var(--background-secondary);
+}
+
+li.char-item:nth-child(even) {
+  background: var(--background-tertiary);
+}
+
+li.char-item a {
+  display: flex;
+  text-decoration: none;
+}
+
+li.char-item div.image {
+  background-size: 300%;
+  width: 80px;
+  height: 100px;
+}
+
+li.char-item#ajax div.image {
+  background-image: url("/assets/img/ajax-droodle-full.png");
+  background-position: 30% 32%;
+  background-size: 350%;
+}
+
+li.char-item#marcy div.image {
+  background-image: url("/assets/img/marcy01.jpg");
+  background-position: 22% 40%;
+  background-size: 250%;
+}
+
+li.char-item div.name {
+  flex-basis: 52%;
+}
+
+li.char-item div.name,
+li.char-item div.link {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1em;
+}
+
+li.char-item div.link {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  align-items: center;
+  flex-basis: 25%;
+}
+
+@media screen and (min-width: 768px) {
+  h1::before {
+    content: "";
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    width: 22%;
+    height: 1px;
+    background: currentColor;
+  }
+
+  h1::after {
+    content: "";
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    width: 22%;
+    height: 1px;
+    background: currentColor;
+  }
+
+  ul.char-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    gap: 0.75rem;
+    margin: 2rem 0;
+  }
+
+  li.char-item {
+    height: 325px;
+    width: 150px;
+  }
+
+  li.char-item a {
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    transition-timing-function: ease, linear, ease;
+    transition-duration: 0.4s, 0.4s, 0.4s;
+    overflow: hidden;
+  }
+
+  li.char-item a:hover {
+    transform: scale(1.1);
+    border: var(--color-blue) 1px solid;
+    z-index: 3;
+    transition-timing-function: ease, step-start, ease;
+  }
+
+  li.char-item a:hover div.name {
+    bottom: 54px;
+    transition: 0.4s;
+    border-bottom: var(--color-blue) 1px solid;
+  }
+
+  li.char-item a:hover div.link {
+    display: flex;
+    transition: 0.4s;
+    bottom: 0;
+  }
+
+  li.char-item div.image {
+    width: 100%;
+    height: 100%;
+  }
+
+  li.char-item#ajax div.image {
+    background-size: 600%;
+  }
+
+  li.char-item#marcy div.image {
+    background-size: 450%;
+    background-position: 27.5% 32%;
+  }
+
+  li.char-item div.name,
+  li.char-item div.link {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  li.char-item div.name {
+    background-color: var(--background-secondary-09);
+    border-top: var(--color-blue) 1px solid;
+    align-items: center;
+    transition: 0.4s;
+  }
+
+  li.char-item div.link {
+    height: 54px;
+    right: 0;
+    left: 0;
+    bottom: -54px;
+    background-color: var(--background-secondary-09);
+    transition: 0.4s;
+  }
+}
+
+@media screen and (min-width: 811px) {
+  /* body {
+    max-width: 70%;
+  }
+
+  header,
+  footer {
+    max-width: 550px;
+    margin: 0 auto;
+  } */
+
+  h1 {
+    box-sizing: border-box;
+  }
+
+  h1::before {
+    content: "";
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    width: 25%;
+    height: 1px;
+    background: currentColor;
+  }
+
+  h1::after {
+    content: "";
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    width: 25%;
+    height: 1px;
+    background: currentColor;
+  }
+}
