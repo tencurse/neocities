@@ -128,5 +128,30 @@
     "title": "pudo.neocities.org",
     "img": "/assets/img/pudoweb.png",
     "url": "https://pudo.neocities.org/bookbug"
+  },
+  {
+    "title": "finnialla.neocities.org",
+    "img": "/assets/img/finnialla.png",
+    "url": "https://finn-all-uh.org/#bookbug"
+  },
+  {
+    "title": "tehuan.neocities.org",
+    "img": "/assets/img/tehuan.png",
+    "url": "https://tehuan.neocities.org/bookbug"
+  },
+  {
+    "title": "swiftred.neocities.org",
+    "img": "/assets/img/swiftred.png",
+    "url": "https://swiftred.neocities.org/bookbug"
+  },
+  {
+    "title": "errormine.neocities.org",
+    "img": "/assets/img/errormine.gif",
+    "url": "https://errormine.neocities.org/bookbug"
+  },
+  {
+    "title": "moria.neocities.org",
+    "img": "/assets/img/moria.png",
+    "url": "https://moria.neocities.org/bookbug"
   }
 ]
