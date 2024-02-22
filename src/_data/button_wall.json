@@ -278,5 +278,10 @@
     "title": "webcatz.neocities.org",
     "img": "/assets/img/webcatz.gif",
     "url": "https://webcatz.neocities.org/"
+  },
+  {
+    "title": "vm70.neocities.org",
+    "img": "/assets/img/vms-numbers-station.gif",
+    "url": "https://vm70.neocities.org/"
   }
 ]
