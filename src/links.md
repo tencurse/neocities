@@ -1,11 +1,12 @@
 ---
 title: links
-layout: base.njk
+layout: index.njk
 eleventyNavigation:
   key: links
   order: 3
 ---
 
+<section class="cards">
 <div class="size-l">
 
 here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
@@ -13,7 +14,9 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png) 
 
 </div>
- 
+</section>
+<p></p>
+<section class="cards">
 <div class="size-l">
 
 ## personal sites
@@ -22,12 +25,12 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 
 <p></p>
 
-<button class="button" id="randomLink">i’m feeling lucky {% lucide "mouse-pointer-click" %}</button>
+<button class="button" id="randomLink">i’m feeling lucky (random)</button>
 
 if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph@proton.me](mailto:10kph@proton.me) :~)
 
 </div>
-
+<div class="clear size-l">
 <div class="size-l">
 
 ## digital gardens
@@ -62,3 +65,5 @@ in the mean time, find more fun and cool sites in my [resources page](/resources
 or browse more random sites in the [marginalia](https://search.marginalia.nu/explore/random)
 
 </div>
+</div>
+</section>
