@@ -15,7 +15,7 @@ eleventyNavigation:
 
 behold... my stuff!
 
-these are stuff i created for fun! the list below contains my media logs, things i’ve written, lists i’ve curated, web pages dedicated to my favourite things, etc. enjoy!
+below you can see my media logs, things i’ve written, lists i’ve curated, web pages dedicated to my favourite things (aka shrines), etc. enjoy!
 
 </div>
 </section>
