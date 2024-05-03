@@ -14,14 +14,11 @@ hasReview: true
 favourite: true
 ---
 
-{{ eleventyNavigation.parent }}
-{{ eleventyNavigation.key }}
-
-### the masquerade trilogy
+### the masquerade series
 
 1. *[The Traitor Baru Cormorant](/logs/books/the-traitor-baru-cormorant)*
 2. *The Monster Baru Cormorant* (you are here)
-3. *The Tyrant Baru Cormorant* - TBR
+3. *[The Tyrant Baru Cormorant](/logs/books/the-tyrant-baru-cormorant)*
 
 ### review
 
