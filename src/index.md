@@ -29,25 +29,25 @@ thanks for visiting and take care {% lucide "heart" %}
 
 <div class="grid">
 <span class="label">featured page&nbsp;&nbsp;</span>
-<span><a href="/resources">resources</a> (updated!) / <a href="/blog">blog</a> (it’s back!)</span>
+<span><a href="/resources">resources</a>
 </div>
 
 ## currently
 
 <div class="grid">
 <span class="label">reading</span>
-<span><em><a href="/logs/books/giovanni-s-room/">giovanni's room</a></em> by james baldwin</span>
+<span><em><a href="/logs/books/the-tyrant-baru-cormorant/">the tyrant baru cormorant</a></em> by seth dickinson</span>
 <span class="label">watching</span>
-<span>house m.d., season 5</span>
+<span>house m.d., season 6</span>
 <span class="label">playing</span>
-<span>baldur’s gate 3</span>
+<span>pathfinder: wrath of the righteous</span>
 <span class="label">listening</span>
-<span><em>the deal</em> by mitski</span>
+<span><em>want to be free</em> by sea power</span>
 </div>
 
 <p></p>
 
-last updated: jan 2024
+last updated: may 2024
 
 ## changelog
 
