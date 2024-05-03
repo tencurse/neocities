@@ -1,6 +1,11 @@
 [
   {
     "year": 2024,
+    "date": "2024-05-02",
+    "update": "review for [the priory of the orange tree](/logs/books/the-priory-of-the-orange-tree) is up!"
+  },
+  {
+    "year": 2024,
     "date": "2024-01-20",
     "update": "**v3.1**: added breadcrumbs above the title. a few design changes here and there. and most importantly, i brought back the [blog](/blog), which also has an [RSS feed](/feed.xml)!"
   },
