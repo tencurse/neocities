@@ -5,10 +5,12 @@ author: Seth Dickinson
 yearPublished: 2020
 genre: ["fantasy", "lgbt", "science fiction"]
 edition: ebook
-dateStarted: 2023-04-11
-date: 2024-12-20
-status: In Progress
+dateStarted: 2024-04-11
+date: 2024-05-23
+status: Read
 cover: "/logs/books/covers/the-tyrant-baru-cormorant.jpg"
+rating: 5
+favourite: true
 ---
 
 ### the masquerade series
