@@ -32,7 +32,7 @@ have fun [exploring](/sitemap) and i hope you learn something new!
 
 thanks for visiting and take care!
 
-  </div>
+</div>
 
 <div class="clear vertical">
   <div class="featured">
