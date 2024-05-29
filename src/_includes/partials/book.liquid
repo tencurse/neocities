@@ -2,7 +2,7 @@
 
 <li class="log-book">
         {% image book.data.cover, alt, "log-cover" %}
-        <span class="log-title"><em><a href="{{ book.url }}">{{ book.data.title }}</a></em> <span class="log-dir">by {{ book.data.author }}</span></span>
+        <span class="log-title"><em>{% if book.data.hasReview %}<a href="{{ book.url }}">{% endif %}{{ book.data.title }}{% if book.data.hasReview %}</a>{% endif %}</em> <span class="log-dir">by {{ book.data.author }}</span></span>
         <span class="log-date">{% if book.data.status == "Read"%}{{ book.data.date | toUTC }}{% else %}{{ book.data.status }}{% endif %}</span>
         <span>{% if book.data.rating %}<span class="log-rating">{% renderStar book.data.rating %}</span>{% endif %} <span class="log-icon">
                 {% if book.data.reread %}{% lucide "refresh-cw" %}{% endif%} {%if book.data.favourite %}{% lucide "heart" %}{% endif %}</span> {%if book.data.bookBug %}

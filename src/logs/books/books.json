@@ -6,6 +6,7 @@
     "eleventyNavigation": {
       "key": "{{ page.fileSlug | slugify }}",
       "parent": "{% if yearRead != 2024 %}{{ yearRead }}{% else %}books{% endif %}"
-    }
+    },
+    "draft": "{% if hasReview != true %}true{% endif %}"
   }
 }

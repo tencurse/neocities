@@ -112,6 +112,17 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByTag("books").reverse();
   });
 
+  eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
+		return (data) => {
+			// Always skip during non-watch/serve builds
+			if (data.draft && !process.env.BUILD_DRAFTS) {
+				return false;
+			}
+
+			return data.permalink;
+		};
+	});
+
   // PASSTHROUGH
 
   eleventyConfig.addPassthroughCopy("./src/assets/css");
