@@ -48,6 +48,6 @@ eleventyExcludeFromCollections: true
 <li><a href="/resources" class="button">{% lucide "atom" %}resources</a></li>
 <ul>
 <li><a href="/resources/palestine" class="button">{% lucide "heart-handshake" %}palestine</a></li>
-<li><a href="/resources/dev" class="button">{% lucide "terminal-square" %}web development</a></li>
+<li><a href="/resources/dev" class="button">{% lucide "square-terminal" %}web development</a></li>
 </ul>
 </ul>
