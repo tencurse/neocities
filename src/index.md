@@ -49,33 +49,31 @@ thanks for visiting and take care!
   </center>
   </div>
 </div>
-
-
-  <div class="latest">
-    <h2>latest {% lucide "hourglass" %}</h2>
-    <ul class="card-list">
-      <li class="card-item">
-        <span class="title"><a href="{{ blog_post.url }}">{{ blog_post.data.title }}</a></span>
-        <span class="date">{{ blog_post.data.date | toUTC }}</span>
-        <span class="category"><a href="/blog">blog</a></span>
-      </li>
-      <li class="card-item">
-        <span class="title"><a href="{{ book.url }}"><em>{{ book.data.title }}</em></a></span>
-        <span class="date">{{ book.data.dateStarted | toUTC }}</span>
-        <span class="category"><a href="/logs/books/">book</a></span>
-      </li>
-      <li class="card-item">
-        <span class="title"><em>{{ movie.Title }}</em> ({{ movie.Year }})</span>
-        <span class="date">{{ movie.DateWatched | toUTC }}</span>
-        <span class="category"><a href="/logs/movies/">movie</a></span>
-      </li>
-      <li class="card-item">
-        <span class="title update">{{ update.update | renderUsingMarkdown }}</span>
-        <span class="date">{{ update.date | toUTC }}</span>
-        <span class="category"><a href="/changelog">changelog</a></span>
-      </li>
-    </ul>
-  </div>
+<div class="latest">
+  <h2>latest {% lucide "hourglass" %}</h2>
+  <ul class="card-list">
+    <li class="card-item">
+      <span class="title"><a href="{{ blog_post.url }}">{{ blog_post.data.title }}</a></span>
+      <span class="date">{{ blog_post.data.date | toUTC }}</span>
+      <span class="category"><a href="/blog">blog</a></span>
+    </li>
+    <li class="card-item">
+      <span class="title"><a href="{{ book.url }}"><em>{{ book.data.title }}</em></a></span>
+      <span class="date">{{ book.data.dateStarted | toUTC }}</span>
+      <span class="category"><a href="/logs/books/">book</a></span>
+    </li>
+    <li class="card-item">
+      <span class="title"><em>{{ movie.Title }}</em> ({{ movie.Year }})</span>
+      <span class="date">{{ movie.DateWatched | toUTC }}</span>
+      <span class="category"><a href="/logs/movies/">movie</a></span>
+    </li>
+    <li class="card-item">
+      <span class="title update">{{ update.update | renderUsingMarkdown }}</span>
+      <span class="date">{{ update.date | toUTC }}</span>
+      <span class="category"><a href="/changelog">changelog</a></span>
+    </li>
+  </ul>
+</div>
   <div>
   {% include 'partials/webrings.njk' %}
   </div>
