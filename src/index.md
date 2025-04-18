@@ -1,5 +1,5 @@
 ---
-title: カルマ・karuma
+title: karma
 layout: index.njk
 eleventyNavigation:
   key: home
