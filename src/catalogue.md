@@ -65,7 +65,7 @@ below you can see my media logs, things i’ve written, lists i’ve curated, we
     <span class="date">for your webmastery</span>
   </li>
   <li class="card-item">
-    <p><a href="/blog" class="link">main page</a></p>
+    <p><a href="/resources" class="link">main page</a></p>
   </li>
 </ul>
 </div>
