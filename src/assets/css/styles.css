@@ -113,16 +113,19 @@ body {
   line-height: 1.5;
 }
 
-body,
 main {
-  margin: 2rem auto;
+  width: 100%;
 }
 
 header,
 article,
 footer {
   width: 90%;
-  margin: 2rem auto;
+  margin: 1rem auto;
+}
+
+header {
+  margin-block-end: 6em;
 }
 
 nav ul,
@@ -130,9 +133,9 @@ section.footer {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  column-gap: 2ch;
-  row-gap: 1.25ch;
-  justify-content: center;
+  column-gap: 1.75ch;
+  row-gap: 1ch;
+  justify-content: left;
 }
 
 nav li a,
@@ -145,7 +148,8 @@ button.button {
   padding: 0 1ch;
   text-decoration: none;
   line-height: 1.1;
-  border: 1px dotted var(--color-lavender);
+  border: 1px solid var(--color-lavender);
+  border-radius: 10px;
 }
 
 nav li a.active,
@@ -160,7 +164,7 @@ button.button:hover,
 button.button:focus {
   background-color: var(--background-primary);
   color: var(--color-lavender);
-  border: 1px dotted var(--color-lavender);
+  border: 1px solid var(--color-lavender);
 }
 
 button.button {
@@ -183,7 +187,7 @@ a:focus {
 }
 
 [id] {
-  scroll-margin-block-start: 2rem;
+  scroll-margin-block-start: 0;
 }
 
 p {
@@ -216,33 +220,24 @@ div > ul:last-child:not(ul.card-list) {
   margin-block-end: 2rem;
 }
 
-h2.border,
-section.cards div h3 {
-  border-block-end: 1px solid var(--color-lavender);
-}
-
 h1 {
-  font-size: 2.5em;
-  letter-spacing: -3px;
+  font-family: "bianzhidai_nobg Base";
+  font-size: clamp(2.5rem, 0.1156rem + 10.1734vw, 8rem);
+  font-weight: normal;
+  letter-spacing: clamp(-0.5625rem, -0.1145rem + -0.578vw, -0.25rem);
   margin-block-end: 2rem;
   line-height: 1;
   text-align: center;
 }
 
-h2,
-section.cards div.clear > h2 {
-  font-size: 2em;
-  letter-spacing: -2px;
+h1.site-title {
+  font-size: clamp(3.4375rem, 1.4595rem + 8.4393vw, 8rem);
 }
 
-section.cards div h2 > svg {
-  float: right;
-  margin-block-start: 5px;
-}
-
-section.cards div h3 > svg {
-  float: right;
-  margin-block-start: 6px;
+h2 {
+  font-size: 2.5em;
+  margin-block-start: 4rem;
+  font-family: "Redaction 50";
 }
 
 h3 {
@@ -422,7 +417,7 @@ section > div li.card-item p {
 }
 
 pre.ascii {
-  background-color: var(--background-secondary);
+  background-color: transparent;
   font-family: "MS PGothic", "MS Gothic", monospace;
   line-height: 1;
 }
@@ -477,10 +472,6 @@ a.outlink:has(img[src=""]):nth-child(3n + 2) {
 }
 
 @media screen and (min-width: 768px) {
-  h1 {
-    font-size: 3em;
-  }
-
   nav ul,
   section.footer {
     column-gap: 4ch;
@@ -543,6 +534,10 @@ a.outlink:has(img[src=""]):nth-child(3n + 2) {
 @media screen and (min-width: 811px) {
   h1 {
     text-align: left;
+  }
+
+  p {
+    width: 500px;
   }
 
   section:not(.cards) {
