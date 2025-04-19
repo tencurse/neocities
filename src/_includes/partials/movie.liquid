@@ -1,9 +1,0 @@
-<li class="log-entry">
-  <span class="log-date">{{ movie.DateWatched | toUTC }}</span>
-  <span class="log-title"><em>{{ movie.Title }} ({{ movie.Year }})</em> <span class="log-dir">dir. {% for dir in
-      directors %}{{ dir
-      }}{% if dir != directors.last %}, {%endif%}{% endfor %}</span></span> <span class="log-icon">{% if movie.Rewatch
-    %}{% lucide "refresh-cw" %}{%
-    endif %} {% if movie.Favourite %}{% lucide "heart" %}{% endif %}</span>
-  <span class="log-rating">{% renderStar movie.Rating %}</span>
-</li>

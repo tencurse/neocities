@@ -3,6 +3,7 @@ title: uses
 layout: base.njk
 eleventyNavigation:
   key: uses
+  parent: catalogue
 ---
 
 work in progress :~)

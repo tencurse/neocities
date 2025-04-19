@@ -1,20 +1,24 @@
 ---
 title: resources
-layout: base.njk
+layout: index.njk
 eleventyNavigation:
   key: resources
+  order: 6
 ---
+
 
 ## important
 
 - [palestine](/resources/palestine) - list of resources, information, and what you can do to help palestine
 - [Palestine buttons + resources by rosemary](https://hillhouse.neocities.org/journal/notes/palestine) - button art credit and more resources/links
 
+
 ## web development
 
 - [web development resources](/resources/dev) – my own curated list of web dev resources that have helped me in my path of webmastery
 - [Addy’s Toolkit](https://toolkit.addy.codes/) – curated and regularly maintained resources for web development and everything in between
 - [Tiny Tools Directory](https://tinytools.directory/) - a collection of small, free, or experimental tools (not exclusive to web development)
+
 
 ## graphics & templates
 
@@ -66,9 +70,8 @@ eleventyNavigation:
 
 ## tech
 
-- [torrenting tutorial](https://easyussr.neocities.org/torrenting) (autoplay warning) - comprehensive guide to safely torrenting and everything in between
+- [torrenting tutorial](https://easyussr.neocities.org/torrenting) <mark class="warning">autoplay</mark> - comprehensive guide to safely torrenting and everything in between
 - [terminal colour schemes](https://gogh-co.github.io/Gogh/) – install terminal colour schemes in one command. i mostly use this as reference when picking out colour schemes for websites/IDEs
-
 
 ## language learning
 

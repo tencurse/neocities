@@ -1,8 +1,8 @@
 ---
 layout: base.njk
-title: dev
+title: web dev
 eleventyNavigation:
-  key: dev
+  key: web dev
   parent: resources
 ---
 

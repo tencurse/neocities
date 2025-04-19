@@ -1,13 +1,9 @@
 <header>
   <nav>
     <ul>
-      <li><a href="/" class="button">home</a></li>
-      <li><a href="/about" class="button">about</a></li>
-      <li><a href="/logs" class="button">media logs</a></li>
-      <li><a href="/blog" class="button">blog</a></li>
-      <li><a href="/links" class="button">outlinks</a></li>
-      <li><a href="/resources" class="button">resources</a></li>
-      <li><a href="/sitemap" class="button">sitemap</a></li>
+      {% for nav in collections.all | eleventyNavigation %}
+      <li><a href="{{ nav.url }}"{% if nav.url == page.url%} class="active" aria-current="page"{% endif %}>{{ nav.title }}</a></li>
+      {% endfor %}
     </ul>
   </nav>
 </header>

@@ -2,6 +2,7 @@
 title: 404 not found
 layout: base.njk
 permalink: not_found.html
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: 404
 ---

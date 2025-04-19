@@ -1,21 +1,22 @@
 ---
 title: links
-layout: base.njk
+layout: index.njk
 eleventyNavigation:
   key: links
+  order: 5
 ---
 
 here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png) 
- 
+
 ## personal sites
 
 {% for button in button_wall %}[![{{ button.title }}]({{ button.img }})]({{ button.url }}){.outlink}{% endfor %} {.outlink-group}
 
 <p></p>
 
-<button class="button" id="randomLink">i’m feeling lucky {% lucide "mouse-pointer-click" %}</button>
+<button class="button" id="randomLink">i’m feeling lucky (random)</button>
 
 if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [10kph@proton.me](mailto:10kph@proton.me) :~)
 
@@ -40,7 +41,7 @@ if you’ve updated your site button, have a new one (or you already have a site
 - [Genderswap.fm](https://genderswap.fm/)
 - [deuxfleurs](https://deuxfleurs.fr/)
 
-i’m still in progress of adding more links here :~)
+i’m still in progress of organising my links :~)
 
 in the mean time, find more fun and cool sites in my [resources page](/resources)
 

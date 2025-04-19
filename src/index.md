@@ -1,13 +1,16 @@
 ---
-title: home
-layout: base.njk
+title: karma
+layout: index.njk
 eleventyNavigation:
   key: home
+  order: 1
 ---
 
+{% assign update = updates | first %}
+
 <pre class="ascii">
-　　　 　  ∧,,∧
-　　　　） (´･ω･) 　 　 　 　Hello!
+　　　 　   ∧,,∧
+　　　　） (´･ω･) 　 　 　 　
 　　　 (　 ( つ /￣￣￣/　
 　　(´[_]　＼/＿＿＿/)
 　　 [i＝========＝i]
@@ -15,45 +18,21 @@ eleventyNavigation:
 　 Ｃ(＿ｱ
 </pre>
 
-> hello! i’m **[ten](/about) (he/she)**, and welcome to my ever-evolving webspace!
+> *you know what they say: karma always catches up to you.*
+    
+hello! i’m **[ten](/about)** — welcome to my ever-evolving webspace: part [digital garden](/notes), part [playground](/catalogue) to all the things i like and make and forget about.
 
-here you can find my [media logs](/logs), pore over some cool and interesting [links](/links) and [resources](/resources) i found from all over the web.
+have fun [exploring](/sitemap) and thanks for stopping by. feel free to click around, and don’t forget to take your shoes off.
 
-have fun [exploring](/sitemap) and i hope you learn something new!
+## featured
 
-thanks for visiting and take care {% lucide "heart" %}
-
-[![Resources for Palestine](/assets/img/standwith.png)](/resources/palestine) click the button on the left or go to [this page](/resources/palestine) for more information and resources and what you can do to help.
-
-<p></p>
-
-<div class="grid">
-<span class="label">featured page&nbsp;&nbsp;</span>
-<span><a href="/resources">resources</a>
-</div>
-
-## currently
-
-<div class="grid">
-<span class="label">reading</span>
-<span><em><a href="/logs/books/the-tyrant-baru-cormorant/">the tyrant baru cormorant</a></em> by seth dickinson</span>
-<span class="label">watching</span>
-<span>house m.d., season 6</span>
-<span class="label">playing</span>
-<span>pathfinder: wrath of the righteous</span>
-<span class="label">listening</span>
-<span><em>want to be free</em> by sea power</span>
-</div>
-
-<p></p>
-
-last updated: may 2024
+[ [catalogue](/catalogue) ]
+[ [wyll shrine](/shrines/wyll) ]
+[ [free palestine](/resources/palestine) ]
 
 ## changelog
 
-<div class="grid">
-{% for update in updates limit:4 %}<span class="label">{{ update.date | toUTC }} &nbsp;</span> <span>{{ update.update | renderUsingMarkdown }}</span>{% endfor %}
-</div>
-<p></p>
+[<span class="label"> {{ update.date | toUTC }} </span>] {{ update.update | renderUsingMarkdown }}
 
-[see more updates ->](/changelog)
+
+{% include "partials/webrings.njk"%}

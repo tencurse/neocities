@@ -18,7 +18,7 @@ practice protest safety when attending!
 
 - [Shut It Down For Palestine](https://www.shutitdown4palestine.org/actions) - protest actions with specific dates/locations etc
 - [palestinianyouthmovement on ig](https://www.instagram.com/palestinianyouthmovement/) - north america protest dates
-- [Calendar of Resistance for Palestine](https://samidoun.net/2023/12/calendar-of-resistance-for-palestine-2024/) - worldwide protest dates
+- [Calendar of Resistance for Palestine](https://samidoun.net/2025/03/calendar-of-resistance-for-palestine-events-actions-and-demonstrations-for-liberation-against-genocide/) - worldwide protest dates
 
 ## historical context
 
