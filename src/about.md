@@ -29,7 +29,7 @@ eleventyNavigation:
 
 my name’s ten (yeah, like the number). i write code for a living, write fiction for fun, and have way too many side projects for someone with limited free time.
 
-[this site’s](/site-info) my personal corner of the internet — a space where i can code without having to be “professional,” whatever the hell that means. i think [making websites](/resources/dev) should be fun and deeply unserious.
+[this site’s](/site-info) my personal corner of the internet — a space where i can code without having to be “professional,” whatever the hell that means. [making websites](/resources/dev) should be fun and deeply unserious.
 
 i started messing around with html and css by editing tumblr themes sometime in the early 2010s, which eventually turned into full-blown website brainrot in april 2023 after falling into the small web rabbit hole... and then never looked back.
 
