@@ -1,5 +1,5 @@
 ---
-title: 404 not found
+title: not found
 layout: base.njk
 permalink: not_found.html
 eleventyExcludeFromCollections: true
