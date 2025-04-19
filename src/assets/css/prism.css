@@ -5,7 +5,7 @@ pre,
 kbd {
   background: var(--background-secondary);
   color: var(--text-primary);
-  font-family: "CommitMonoLig","Anonymous Pro", "Inconsolata", 'Courier New', Courier, monospace;
+  font-family: "Victor Mono","Anonymous Pro", "Inconsolata", 'Courier New', Courier, monospace;
   direction: ltr;
   text-align: left;
   white-space: pre;

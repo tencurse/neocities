@@ -20,7 +20,8 @@
 
 @font-face {
   font-family: "Redaction";
-  src: url("/assets/fonts/Redaction-Regular.otf");
+  src: local("Redaction"), local("Redaction"),
+    url("/assets/fonts/Redaction-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -28,7 +29,8 @@
 
 @font-face {
   font-family: "Redaction";
-  src: url("/assets/fonts/Redaction-Italic.otf");
+  src: local("Redaction-Italic"), local("Redaction-Italic"),
+    url("/assets/fonts/Redaction-Italic.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -36,7 +38,8 @@
 
 @font-face {
   font-family: "Redaction";
-  src: url("/assets/fonts/Redaction-Bold.otf");
+  src: local("Redaction-Bold"), local("Redaction-Bold"),
+  url("/assets/fonts/Redaction-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -174,7 +177,7 @@ section:nth-child(odd) {
   margin-inline-start: 0.5rem;
 }
 
-section.clear.photoset > section:nth-child(odd) {
+section.clear.photoset>section:nth-child(odd) {
   margin-block-start: 0;
   margin-inline-start: 0.75rem;
 }
@@ -493,6 +496,7 @@ section.accent a {
 }
 
 @media only screen and (max-width: 811px) {
+
   html,
   body {
     overflow-x: hidden;
@@ -522,7 +526,7 @@ section.accent a {
     margin-block-start: -1.5rem;
   }
 
-  section.clear.photoset > section:nth-child(odd) {
+  section.clear.photoset>section:nth-child(odd) {
     margin-block-start: 0;
   }
 
@@ -536,6 +540,7 @@ section.accent a {
   article {
     width: 90%;
   }
+
   .grid {
     grid-template-columns: repeat(4, 1fr);
   }
