@@ -1,5 +1,5 @@
 {% set navOptions = { "listClass": "breadcrumb-list", "listItemClass": "breadcrumb-item", "activeAnchorClass": "active", "activeKey": eleventyNavigation.key } %}
 
-{{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { allowMissing: true }) | eleventyNavigationToHtml(navOptions) | safe }}
-
 <h1 {% if page.url == '/' %}class="site-title"{% endif %}>{% if page.url == '/' %}karma{% else %}{{ title }}{% endif %}</h1>
+
+<!-- {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { allowMissing: true }) | eleventyNavigationToHtml(navOptions) | safe }} -->
