@@ -8,9 +8,9 @@ For your browsing experience, please click **Code** at the top of a Markdown fil
 
 ## Preview
 
-![Website layout screenshot](2023-12-17.png)
+![Website layout screenshot](2025-04-19.png)
 
-Website layout as of 2023-12-17
+Website layout as of 2025-04-19
 
 ## Getting started
 
