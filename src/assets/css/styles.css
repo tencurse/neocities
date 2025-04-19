@@ -12,8 +12,8 @@
 
 @font-face {
   font-family: "bianzhidai_nobg Base";
-  src: local("bianzhidai_nobg Base"), local("bianzhidai_nobg Base"),
-    url("/assets/fonts/bianzhidai_nobg Base.woff") format("woff");
+  src: local("bianzhidai_nobg-Base"), local("bianzhidai_nobg-Base"),
+    url("/assets/fonts/bianzhidai_nobg-Base.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -21,8 +21,8 @@
 
 @font-face {
   font-family: "Redaction 50";
-  src: local("Redaction50"), local("Redaction50"),
-    url("/assets/fonts/Redaction50-Regular.woff2") format("woff2");
+  src: local("Redaction_50"), local("Redaction_50"),
+    url("/assets/fonts/Redaction_50-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -30,8 +30,8 @@
 
 @font-face {
   font-family: "Redaction 50";
-  src: local("Redaction50-Italic"), local("Redaction50-Italic"),
-    url("/assets/fonts/Redaction-Italic.woff2") format("woff2");
+  src: local("Redaction_50-Italic"), local("Redaction_50-Italic"),
+    url("/assets/fonts/Redaction_50-Italic.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -39,8 +39,8 @@
 
 @font-face {
   font-family: "Redaction 50";
-  src: local("Redaction50-Bold"), local("Redaction50-Bold"),
-  url("/assets/fonts/Redaction50-Bold.woff2") format("woff2");
+  src: local("Redaction_50-Bold"), local("Redaction_50-Bold"),
+  url("/assets/fonts/Redaction_50-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
