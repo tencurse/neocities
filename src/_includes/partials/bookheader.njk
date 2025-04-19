@@ -1,5 +1,0 @@
-{% set navOptions = { "listClass": "breadcrumb-list", "listItemClass": "breadcrumb-item", "activeAnchorClass": "active", "activeKey": eleventyNavigation.key } %}
-
-{{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml(navOptions) | safe }}
-
-<h1 class="title button entry-title">{{ title }}</h1>
