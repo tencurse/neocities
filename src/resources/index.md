@@ -3,20 +3,15 @@ title: resources
 layout: index.njk
 eleventyNavigation:
   key: resources
-  order: 4
+  order: 6
 ---
 
-<section class="cards">
-<div class="clear size-l">
-<div class="size-l">
 
 ## important
 
 - [palestine](/resources/palestine) - list of resources, information, and what you can do to help palestine
 - [Palestine buttons + resources by rosemary](https://hillhouse.neocities.org/journal/notes/palestine) - button art credit and more resources/links
 
-</div>
-<div class="size-l">
 
 ## web development
 
@@ -24,9 +19,6 @@ eleventyNavigation:
 - [Addy’s Toolkit](https://toolkit.addy.codes/) – curated and regularly maintained resources for web development and everything in between
 - [Tiny Tools Directory](https://tinytools.directory/) - a collection of small, free, or experimental tools (not exclusive to web development)
 
-</div>
-</div>
-<div class="size-l">
 
 ## graphics & templates
 
@@ -46,9 +38,6 @@ eleventyNavigation:
 - [cocorini's patterns](https://cocorini.tumblr.com/patterns) - a collection of free background repeating patterns
 - [Artvee](https://artvee.com/) - public domain art
 
-</div>
-<div class="size-l">
-
 ## video games
 
 - [Disco Elysium digital artbook](https://archive.org/details/discoelysiumartbook/) - available for free on archive dot org
@@ -64,17 +53,10 @@ eleventyNavigation:
 - [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
 - [The Death Generator](https://deathgenerator.com/#gallery) - generate fake video game screenshots
 
-</div>
-<div class="clear size-l">
-<div class="size-l">
-
 ## music
 
 - [Genius lyric card generator](https://ehmorris.com/lyriccardgenerator/tool/)
 - [album of the day](https://albumoftheday.versary.town/)
-
-</div>
-<div class="size-l">
 
 ## books
 
@@ -86,23 +68,12 @@ eleventyNavigation:
 - [The Anarchist Library](https://theanarchistlibrary.org/special/index)
 - [Anna’s Archive](https://annas-archive.org/)
 
-</div>
-</div>
-<div class="size-l">
-
 ## tech
 
-- [torrenting tutorial](https://easyussr.neocities.org/torrenting) (autoplay warning) - comprehensive guide to safely torrenting and everything in between
+- [torrenting tutorial](https://easyussr.neocities.org/torrenting) <mark class="warning">autoplay</mark> - comprehensive guide to safely torrenting and everything in between
 - [terminal colour schemes](https://gogh-co.github.io/Gogh/) – install terminal colour schemes in one command. i mostly use this as reference when picking out colour schemes for websites/IDEs
-
-</div>
-<div class="size-l">
 
 ## language learning
 
 - [Learn Japanese: A Ridiculously Detailed Guide](https://www.tofugu.com/learn-japanese/)
 - [Todaii Japanese](https://easyjapanese.net/) - learn Japanese through news and other features
-
-</div>
-
-</section>

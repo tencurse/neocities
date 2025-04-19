@@ -3,15 +3,13 @@ title: karma
 layout: index.njk
 eleventyNavigation:
   key: home
+  order: 1
 ---
 
-{% assign blog_post = collections.posts | reverse | first %}
-{% assign book = collections.books | first %}
 {% assign update = updates | first %}
-{% assign movie = movies_watched | first %}
 
 <pre class="ascii">
-　　　 　  ∧,,∧
+　　　 　   ∧,,∧
 　　　　） (´･ω･) 　 　 　 　
 　　　 (　 ( つ /￣￣￣/　
 　　(´[_]　＼/＿＿＿/)
@@ -19,17 +17,22 @@ eleventyNavigation:
 　　　 _｡_　 　
 　 Ｃ(＿ｱ
 </pre>
+
+> *you know what they say: karma always catches up to you.*
     
-hello! i’m **[ten](/about) (he/she)**, and welcome to my ever-evolving webspace!
+hello! i’m **[ten](/about)** — welcome to my ever-evolving webspace: part [digital garden](/notes), part [playground](/catalogue) to all the things i like and make and forget about.
 
-here you can find my [media logs](/logs), pore over some cool and interesting [links](/links) and [resources](/resources) i found from all over the web.
-
-have fun [exploring](/sitemap) and i hope you learn something new!
-
-thanks for visiting and take care!
+have fun [exploring](/sitemap) and thanks for stopping by. feel free to click around, and don’t forget to take your shoes off.
 
 ## featured
-    {% image "/assets/img/catalogue.png" "catalogue" %}
-    
-    <p>The catalogue page has everything: my media logs, the blog, resources, tools, shrines, etc!</p>
-    <p><a href="/catalogue" class="link">catalogue</a></p>
+
+[ [catalogue](/catalogue) ]
+[ [wyll shrine](/shrines/wyll) ]
+[ [free palestine](/resources/palestine) ]
+
+## changelog
+
+[<span class="label"> {{ update.date | toUTC }} </span>] {{ update.update | renderUsingMarkdown }}
+
+
+{% include "partials/webrings.njk"%}

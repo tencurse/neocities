@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.
 
-![Test image](../assets/img/2023-05-29%20oldindex.png)
+![Test image](./assets/img/wyll-shrine.png)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem.
 
@@ -54,7 +54,7 @@ _Note: the [Figure-Figcaption](http://html5doctor.com/the-figure-figcaption-elem
 
 ---
 
-# Text Elements
+## Text Elements
 
 The [a element](#), [external a element](https://example.com), and [a element with title](# "Example Title") examples
 
@@ -110,7 +110,7 @@ The <var>var element</var> example
 
 ---
 
-# Monospace / Preformatted
+## Monospace / Preformatted
 
 Code block wrapped in "pre" and "code" tags:
 
@@ -140,9 +140,9 @@ Monospace Text wrapped in "pre" tags:
 
 ---
 
-# List Types
+## List Types
 
-## Ordered List
+### Ordered List
 
 1. List Item 1
 2. List Item 2
@@ -154,7 +154,7 @@ Monospace Text wrapped in "pre" tags:
    3. List Item 3.3
 4. List Item 4
 
-## Unordered List
+### Unordered List
 
 - List Item 1
 - List Item 2
@@ -166,7 +166,7 @@ Monospace Text wrapped in "pre" tags:
   - List Item 3.3
 - List Item 4
 
-## Definition List
+### Definition List
 
 <dl>
   <dt>Definition Term 1</dt>
@@ -177,7 +177,7 @@ Monospace Text wrapped in "pre" tags:
 
 ---
 
-# Tables
+## Tables
 
 | Table Header 1 | Table Header 2 | Table Header 3 |
 | -------------- | -------------- | -------------- |

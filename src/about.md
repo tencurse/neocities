@@ -3,7 +3,7 @@ title: about
 layout: index.njk
 eleventyNavigation:
   key: about
-  order: 1
+  order: 2
 ---
 
 <section class="cards">
@@ -19,128 +19,42 @@ eleventyNavigation:
    　 　 　 ＼/ 　  　  /　 旦
 　  　　　　　￣￣￣
 </pre>
-<p></p>
-</div>
 
-<div>
+- **name:** ten
+- **pronouns:** [he/him, she/her]
+- **gender:** null
+- **age:** 25+
+- **country:** [ph, ca]
+- **language:** [eng, tag]
 
-<ul class="card-list alternate">
-  <li class="card-item no-border">
-    <span class="category">name</span>
-    <span class="title">ten</a></span>
-  </li>
-  <li class="card-item">
-    <span class="category">pronouns</span>
-    <span class="title">[he/him, she/her]</span>
-  </li>
-  <li class="card-item">
-    <span class="category">gender</span>
-    <span class="title">null</span>
-  </li>
-  <li class="card-item">
-    <span class="category">age</span>
-    <span class="title">25+</span>
-  </li>
-  <li class="card-item">
-    <span class="category">country</span>
-    <span class="title">[philippines, canada]</span>
-  </li>
-  <li class="card-item">
-    <span class="category">language</span>
-    <span class="title">[english, tagalog]</span>
-  </li>
-  <li class="card-item">
-    <span class="category">mbti</span>
-    <span class="title">INTP</span>
-  </li>
-</ul>
+my name’s ten (yeah, like the number). i write code for a living, write fiction for fun, and have way too many side projects for someone with limited free time.
 
-</div>
+[this site’s](/site-info) my personal corner of the internet — a space where i can code without having to be “professional,” whatever the hell that means. i think [making websites](/resources/dev) should be fun and deeply unserious.
 
-</div>
-<div class="size-l about">
-
-my name’s ten (yeah, like the number). i’m a software developer by day (professionally) and fiction writer by night (un-professionally... hobby-ly???). i was born and raised in manila, philippines, and i’m now living in bc, canada.
-
-i made [this site](/site-info) to exercise my coding and design skills, and where i can code things for fun and not have to worry about being “professional” online, whatever the hell that means. [making websites](/resources/dev) is fun and cool, my friend.
-
-my journey in becoming a webmaster started when i tinkered around tumblr themes and my own themes some ~10 years ago... but i didn’t actually make my _own_ website until may 2023 when i found about the small web. and now here we are! yayyy
-
-check out the [catalogue](/catalogue)!
-
-if you’d like to chat, hit me up at [10kph@proton.me](mailto:10kph@proton.me) or at any of my socials below :-)
+i started messing around with html and css by editing tumblr themes sometime in the early 2010s, which eventually turned into full-blown website brainrot in april 2023 after falling into the small web rabbit hole... and then never looked back.
 
 ![Bisexual flag](/assets/img/bisexual.png) ![Trans Rights Now](/assets/img/trn.png)
 
-</div>
+## interests
 
-<div class="clear">
-<div>
-<h2>socials {% lucide "waypoints" %}</h2>
+- tragic women in sci-fi & fantasy
+- morally questionable choices in CRPGs
+- long rambly rants about my favourite niche media
+- modding games and immediately forgetting which mods i used
+- hoarding cool websites and then never bookmarking them properly
 
-<ul class="card-list alternate">
-  <li class="card-item">
-    <span class="title"><a href="https://neocities.org/site/10kph">10kph</a></span>
-    <span class="date">neocities</span>
-  </li>
-  <li class="card-item">
-    <span class="title"><a href="https://agnikai.tumblr.com/">@agnikai</a></span>
-    <span class="date">tumblr</span>
-  </li>
-  <li class="card-item">
-    <span class="title"><a href="https://tech.lgbt/@karma">@karma@tech.lgbt</a></span>
-    <span class="date">fediverse</span>
-  </li>
-  <li class="card-item">
-    <span class="title"><a href="https://twitter.com/10kph">@10kph</a></span>
-    <span class="date">twitter</span>
-  </li>
-</ul>
-</div>
+## socials
 
-<div>
+if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials below :-)
 
-here are some buttons for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
+- **neocities:** [10kph](https://neocities.org/site/10kph)
+- **tumblr:** [@ulyuxe](https://ulyuxe.tumblr.com)
+- **fediverse:** [@karma@tech.lgbt](https://tech.lgbt/@karma)
+
+here are some buttons[^1] for my site if you want to link back! :~) please do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking)!
 
 ![](/assets/img/10kph-01.png) ![](/assets/img/10kph-02.png) ![](/assets/img/10kph-03.png)
 
 [see other cool sites here](/links)
 
-</div>
-</div>
-
-</section>
-
-<br>
-
-<section class="cards">
-
-<h2>favourites</h2>
-<p></p>
-<div class="clear">
-<div>
-<h3>games {% lucide "gamepad-2" %}</h3>
-<p>ace attorney trilogy, dragon age: origins, disco elysium, baldur’s gate 3, fire emblem: awakening, genshin impact</p>
-</div>
-<div>
-<h3>movies {% lucide "film" %}</h3>
-<p>pacific rim (2013), the nice guys (2016), the handmaiden (2016), perfect blue (1997), howl’s moving castle (2004)</p>
-</div>
-</div>
-<div class="clear">
-<div>
-<h3 class="label">books {% lucide "book-heart" %}</h3>
-<p><em>this is how you lose the time war</em> by amal el-mohtar and max gladstone, <em>gone girl</em> by gillian flynn, <em>the masquerade trilogy</em> by seth dickinson, <em>chainsaw man series</em> by tatsuki fujimoto</p>
-</div>
-<div>
-<h3 class="label">music {% lucide "music" %}</h3>
-<p>mitski, metric, arctic monkeys, sir chloe, florence + the machine, sunmi</p>
-</div>
-</div>
-<div>
-<h3 class="label">tv {% lucide "tv" %}</h3>
-<p>fleabag, the good place, marvel’s daredevil, sense8</p>
-</div>
-</div>
-</div>
-</section>
+[^1]: i should probably update these to match my new site design
