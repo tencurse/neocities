@@ -35,7 +35,7 @@ eleventyNavigation:
 - [Dithermark](https://app.dithermark.com) - yet another image dithering tool
 - [Windows 98 Icon Viewer](https://win98icons.alexmeub.com/) - a gallery of Windows 98 icons
 - [Transhumans](https://www.transhumans.xyz/) - open source punk sci-fi art collection by Pablo Stanley, available in SVG and PNG
-- [cocorini's patterns](https://web.archive.org/web/20190320091308/https://cocorini.tumblr.com/patterns) - a collection of free background repeating patterns <mark>archive\.org</mark>
+- [cocorini's patterns](https://web.archive.org/web/20190320091308/https://cocorini.tumblr.com/patterns) <mark>archive\.org</mark> - a collection of free background repeating patterns
 - [Artvee](https://artvee.com/) - public domain art
 
 ## video games
