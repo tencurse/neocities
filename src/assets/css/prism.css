@@ -3,7 +3,7 @@ code,
 pre[class*="language-"],
 pre,
 kbd {
-  background: var(--background-secondary);
+  background: var(--background-tertiary);
   color: var(--text-primary);
   font-family: "Victor Mono","Anonymous Pro", "Inconsolata", 'Courier New', Courier, monospace;
   direction: ltr;
@@ -56,7 +56,7 @@ pre {
 :not(pre) > code[class*="language-"],
 :not(pre) > code,
 kbd {
-  padding: 0.2em 0.3em;
+  padding: 0 0.5ch;
   border-radius: 0.3em;
   white-space: normal;
   font-size: 0.9rem;
