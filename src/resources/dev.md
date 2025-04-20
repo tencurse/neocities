@@ -111,6 +111,6 @@ These aren’t exclusive to web development in particular, and it might have ter
 
 - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) – Short blog post about writing code that doesn’t need comments to be readable
 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID) – These are more for object–oriented systems, but really, the most important here (imo) is the Single Responsibility Principle. If you don’t have time or can’t understand anything, read just that principle.
-  - [SOLID Principles in JavaScript](http://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/) – What SOLID looks like in JavaScript, with examples
+  - [SOLID Principles in JavaScript](https://web.archive.org/web/20240104161456/https://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/) – What SOLID looks like in JavaScript, with examples <mark>archive\.org</mark>
   - Related: [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - [Summary of ‘Clean Code’ by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) – Bullet–point summary on writing and maintaining clean code

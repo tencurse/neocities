@@ -35,12 +35,12 @@ eleventyNavigation:
 - [Dithermark](https://app.dithermark.com) - yet another image dithering tool
 - [Windows 98 Icon Viewer](https://win98icons.alexmeub.com/) - a gallery of Windows 98 icons
 - [Transhumans](https://www.transhumans.xyz/) - open source punk sci-fi art collection by Pablo Stanley, available in SVG and PNG
-- [cocorini's patterns](https://cocorini.tumblr.com/patterns) - a collection of free background repeating patterns
+- [cocorini's patterns](https://web.archive.org/web/20190320091308/https://cocorini.tumblr.com/patterns) - a collection of free background repeating patterns <mark>archive\.org</mark>
 - [Artvee](https://artvee.com/) - public domain art
 
 ## video games
 
-- [Disco Elysium digital artbook](https://archive.org/details/discoelysiumartbook/) - available for free on archive dot org
+- [Disco Elysium digital artbook](https://drive.google.com/file/d/1yYCZbQGiBqSOEDJOvxdk7GkEBOioo0IL/view)
 - *Sacred and Terrible Air* by Robert Kurvitz [PDF](https://drive.google.com/file/d/10hNiOLPy_xGX5VSnNp0fTx6aU5NHPhBX/view?usp=drivesdk) | [EPUB](https://drive.google.com/file/d/1XjBapU74VKRoC9BYk1lwhG8HeveQpVvS/view?usp=drivesdk) | [web](https://suricrasia.online/elysium/) - English fan translation of *Püha ja õudne lõhn*, written by the creator of Disco Elysium, translated by [Group Ibex](https://www.reddit.com/r/DiscoElysium/comments/13e4tle/sacred_and_terrible_air_püha_ja_õudne_lõhn_full/?utm_source=share&utm_medium=web2x&context=3)
 - [FAYDE Playback Experiment](http://fayde.co.uk/) - an archive of Disco Elysium dialogue
 - [Undertale bad time simulator](https://jcw87.github.io/c2-sans-fight/) - fight Sans on your browser

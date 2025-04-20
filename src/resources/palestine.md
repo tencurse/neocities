@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## remote actions
 
-- [eSIMs for Gaza](https://www.gazaesims.com/) - instructions and FAQs on donating eSIMs for Gaza
+- [Connecting Humanity](https://connecting-humanity.org/) - instructions and FAQs on donating eSIMs for Gaza
 - [BDS targeted boycott list](https://bdsmovement.net/get-involved/what-to-boycott) - list of brands to boycott + check for the [BDS org in your country](https://bdsmovement.net/get-involved/join-a-bds-campaign) for country-specific boycott list
 - [No Tech for Apartheid](https://www.notechforapartheid.com/)
 
