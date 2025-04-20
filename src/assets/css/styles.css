@@ -323,7 +323,7 @@ blockquote p {
 }
 
 mark {
-  background-color: var(--color-sky);
+  background-color: var(--color-sapphire);
   color: var(--background-primary);
   padding-inline: 1ch;
   font-size: var(--type--1);
@@ -339,6 +339,10 @@ mark.warning {
 
 mark.error {
   background-color: var(--color-red);
+}
+
+mark.primary {
+  background-color: var(--color-mauve);
 }
 
 .vertical {
