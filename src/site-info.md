@@ -29,6 +29,7 @@ Franziska’s name in the original Japanese is {% lang "ja" %}{% furi "狩" "か
 - [moment.js](https://momentjs.com/) - javascript library for easy date formatting
 - [transfonter.org](https://transfonter.org/) - online @font-face generator
 - [lucide.dev](https://lucide.dev/) - icons
+- [utopia.fyi](https://utopia.fyi/) - used this to make the font size, grid, and spacing responsive across devices with minimal use of media queries
 - [furigana maker](https://nihongodera.com/tools/furigana-maker) - tool to generate furigana HTML code
 
 ### fonts
