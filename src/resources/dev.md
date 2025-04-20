@@ -30,7 +30,7 @@ eleventyNavigation:
 
 If you write code, you _must_ use version control of some kind. [Git](https://git-scm.com/) is the most common one, but [there are others as well](https://en.wikipedia.org/wiki/List_of_version-control_software).
 
-{% aside "" "<p><strong>Note:</strong> Git is not the same thing as GitHub. Git is the version control system, while GitHub is where you may remotely host your repository. There are other options, like GitLab or Codeberg. Using GitHub/GitLab/Codeberg is completely optional.</p>" %}
+<mark>note</mark> Git is not the same thing as GitHub. Git is the version control system, while GitHub is where you may remotely host your repository. There are other options, like GitLab or Codeberg. Using GitHub/GitLab/Codeberg is completely optional but recommended.
 
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/) - a simple reference guide to get started with git
 - [Git Tutorial from W3 Schools](https://www.w3schools.com/git/git_intro.asp?remote=github) – I haven’t personally used this tutorial, but it might be helpful if you have no idea what Git version control is.
@@ -55,11 +55,12 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [SmolCSS](https://smolcss.dev/) – minimal snippets for modern CSS layouts and components
 - [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
 - [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
-- [`aspect-ratio`](https://jakearchibald.com/2022/img-aspect-ratio/) - Avoiding `<img>` layout shifts: aspect-ratio vs width & height attributes
+- [aspect-ratio](https://jakearchibald.com/2022/img-aspect-ratio/) - Avoiding `<img>` layout shifts: `aspect-ratio` vs `width` & `height` attributes
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [CSS Loaders](https://css-loaders.com/) - CSS-only loading animations
 - [A (more) moden CSS reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [broider](https://maxbittker.github.io/broider/) - a collection of CSS border image art
 
 ## html
 - [&what;](https://www.amp-what.com/unicode/search/%2F%26%5Cw%2F) - HTML entities unicode characters
