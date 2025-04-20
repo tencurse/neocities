@@ -51,9 +51,9 @@ eleventyNavigation:
 - [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of ROM sites by obspogon
 - [Ace Attorney Investigations 2: Prosecutor’s Path](https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451/) - English fan translation of Ace Attorney Investigations 2
   - <mark>note</mark> aai2 has officially been localised, but i’m still keeping the link up for posterity and gratitude to the hard work of the translators <3
-- [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
+- [Wayfarer](https://idrellegames.itch.io/wayfarer) <mark class="primary">recommended</mark> - interactive fiction fantasy game by Idrelle Games
 - [The Death Generator](https://deathgenerator.com/#gallery) - generate fake video game screenshots
-- [Project Hadea](https://nyehilism.itch.io/project-hadea) - interactive fiction sci-fi game by nyehilism
+- [Project Hadea](https://nyehilism.itch.io/project-hadea) <mark class="primary">recommended</mark> - interactive fiction sci-fi game by nyehilism
 - [5etools](https://5e.tools/) - a suite of tools for dnd 5e
   - [2014 version](https://2014.5e.tools/)
 

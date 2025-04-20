@@ -14,11 +14,11 @@ eleventyNavigation:
 
 ## tutorials
 
-- **[The Odin Project](https://www.theodinproject.com/)** – The ultimate web development online course. It’s free and extensive. Teaches the basics of the basics. Highly recommend!
+- **[The Odin Project](https://www.theodinproject.com/)** <mark class="primary">recommended</mark> – The ultimate web development online course. It’s free and extensive. Teaches the basics of the basics.
   - The biggest hurdle here is that it asks you to dual–boot Linux if you’re on Windows. You can [install WSL instead](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview), but it’s not officially supported by the Project’s community.
 - [Interneting is Hard](https://internetingishard.netlify.app/) - web development tutorials with visual aids for the visual learner and interactive examples for the hands-on learner
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - an interactive, step-by-step guide on making your own web page in 4 minutes
-- **[Create a static site using 11ty and deploy to neocities](https://flamedfury.com/guides/11ty-homepage-neocities/)** – The holy grail tutorial that helped me so I never have to use `<iframe>`s for navigation menus, and now you don’t have to, too.
+- **[Create a static site using 11ty and deploy to neocities](https://flamedfury.com/guides/11ty-homepage-neocities/)** <mark class="primary">recommended</mark> – The holy grail tutorial that helped me so I never have to use `<iframe>`s for navigation menus, and now you don’t have to, too.
   - [Whiona’s 11ty Neocities workflow](https://whiona.weblog.lol/2023/10/my-neocities-workflow:-using-eleventy-and-the-cli-to-speed-up-development) - [Whiona](https://whiona.me) also has a great writeup that may be easier to follow for beginners/non-coders
 - [The Modern JavaScript Tutorial](https://javascript.info/) – Great for both beginners and advanced users, though some of it may be _too_ advanced.
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web) – CSS Tricks tutorial on implementing dark mode on your website
@@ -37,21 +37,21 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [Learn Git Branching](https://learngitbranching.js.org/) – Interactive tutorial for Git branching. Fun to use, but not for you if you don’t already have initial knowledge about Git.
 - [Git commit message conventions](https://cbea.ms/git-commit/#seven-rules) – a blog post on writing better commit messages
   - [Atomic commits](https://www.freshconsulting.com/insights/blog/atomic-commits/) – a blog post on keeping commits related to one change only, a.k.a. atomic
-- **[deploy-to-neocities](https://deploy-to-neocities.neocities.org/)** – Quick setup to automatically deploy your changes to Neocities using a GitHub workflow
+- **[deploy-to-neocities](https://deploy-to-neocities.neocities.org/)** <mark class="primary">recommended</mark> – Quick setup to automatically deploy your changes to Neocities using a GitHub workflow
 - [Gitmoji](https://gitmoji.dev/) - emoji guide for commit messages (just for fun!)
 
 ## css
 
-- **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
+- **[The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade)** <mark class="primary">recommended</mark> – Learn about the cascade of CSS, i.e., why you don’t need to use `!important` to make your CSS work
 - [Vanilla CSS](https://git.sr.ht/~bt/vanilla-css/tree/master/item/vanilla.css) - a minimal class-less baseline stylesheet
 - [Specialized CSS frameworks](https://github.com/troxler/awesome-css-frameworks#specialized) – Cool CSS stylesheets/libraries! Some of these emulate interfaces (Windows 98, XP, 7, BIOS / MS–DOS, NES, etc.)
   - Personal pick: [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-- **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
+- **[Common Layouts using CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)** <mark class="primary">recommended</mark> – MDN Docs takes you step by step on how to build some common website layouts using CSS Grid
 - [CSS Layout collection](https://phuoc.ng/collection/css-layout/) – Pre–made CSS layouts for common web components
 - [Responsive Templates (w3.css)](https://www.w3schools.com/w3css/w3css_templates.asp) – Free responsive CSS templates from ol’ reliable W3 Schools
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks’ comprehensive guide to Flexbox layout
 - [Flexbox Tutorial](https://internetingishard.netlify.app/html-and-css/flexbox/) - tutorial on flexbox from Interneting is Hard
-- [Codrops Playground](https://tympanus.net/codrops/category/playground/) – Demos of some cool web designs and animations
+- **[Codrops Playground](https://tympanus.net/codrops/category/playground/)** <mark class="primary">recommended</mark> – Demos of some cool web designs and animations
 - [SmolCSS](https://smolcss.dev/) – minimal snippets for modern CSS layouts and components
 - [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
 - [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
@@ -61,6 +61,7 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 - [CSS Loaders](https://css-loaders.com/) - CSS-only loading animations
 - [A (more) moden CSS reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 - [broider](https://maxbittker.github.io/broider/) - a collection of CSS border image art
+- **[Fluid Responsive Design](https://utopia.fyi/)** <mark class="primary">recommended</mark> - CSS tools to make your font sizes and spacing responsive with minimal use of media queries
 
 ## html
 - [&what;](https://www.amp-what.com/unicode/search/%2F%26%5Cw%2F) - HTML entities unicode characters
@@ -74,11 +75,11 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 
 ## accessibility
 
-- **[Solaria’s Web Accessibility Guide](https://solaria.neocities.org/accessibility)**
+- **[Solaria’s Web Accessibility Guide](https://solaria.neocities.org/accessibility)** <mark class="primary">recommended</mark>
 - [A Field Guide to Accessibility](https://theultimatemotherfuckingwebsite.com/)
 - [WAVE Web Accessibility Tool](https://wave.webaim.org/) – This scans your website for any accessibility problems and how to fix them
 - [WebAIM’s Contrast Checker](https://webaim.org/resources/contrastchecker/) - Check your text/background colour contrast
-- [Colour Contrast Checker](https://colourcontrast.cc/) - a more visual tool to checking colour contrast
+- **[Colour Contrast Checker](https://colourcontrast.cc/)** <mark class="primary">recommended</mark> - a more visual tool to checking colour contrast
 - [Randoma11y](https://randoma11y.com) – Generate accessible colour schemes
 - [caniuse.com](https://caniuse.com/) – Check browser compatibility for HTML/CSS/JS features
 - [whocanuse.com](https://www.whocanuse.com/) – caniuse but for accessible colours
@@ -87,18 +88,19 @@ If you write code, you _must_ use version control of some kind. [Git](https://gi
 ## typography
 - [Go Mono](https://go.dev/blog/go-fonts) - typeface designed for the Go programming language
 - [Bunny Fonts](https://fonts.bunny.net/) - faster & GPDR friendly fonts, good alternative to Google Fonts
-- [Redaction](https://www.redaction.us/) - free serif typeface inspired by *The Redaction*
-- [Commit Mono](https://commitmono.com/) - neat customizable monospace font
-- [JuliaMono Typeface](https://juliamono.netlify.app/) - free monospace font
+- **[Redaction](https://www.redaction.us/)** <mark class="primary">recommended</mark> - free serif typeface inspired by *The Redaction*
+- **[Commit Mono](https://commitmono.com/)** <mark class="primary">recommended</mark> - neat customizable monospace font
+- **[JuliaMono Typeface](https://juliamono.netlify.app/)** <mark class="primary">recommended</mark> - free monospace font
 - [Comic Mono](https://dtinth.github.io/comic-mono-font/) - free monospace font based on Comic Sans (but legible)
 - [UNCUT.wtf](https://uncut.wtf/) - a collection of free fonts
 - [Asterism Fonts](https://www.asterism-m.com/font/) - a collection of cute Japanese fonts
 - [Old School PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/)
   - Personal pick: [Cordata PPC-400](https://int10h.org/oldschool-pc-fonts/fontlist/font?cordata_ppc-400)
-- [Velvetyne](https://velvetyne.fr/) - free and open source fonts
+- **[Velvetyne](https://velvetyne.fr/)** <mark class="primary">recommended</mark> - free and open source fonts
 - [Cava’s Pixel Resources](https://caveras.net/) - video game pixel fonts
 - [Pixel Font Gallery](https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/) - pixel fonts created from [bitfontmaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)
 - [CSS Font Stack](https://www.cssfontstack.com/) - a collection of web safe font stacks
+- **[Junicode](https://psb1558.github.io/Junicode-font/)** <mark class="primary">recommended</mark> - free old-style serif typeface
 
 ## code editors
 
