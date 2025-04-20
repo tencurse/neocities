@@ -31,8 +31,7 @@ if you’ve updated your site button, have a new one (or you already have a site
 ## etc
 
 - [crouton.net](http://crouton.net/)
-- [Philippine Casette Archive](https://philippinecassettearchive.com/)
-  - [archive.org version](https://web.archive.org/web/20240122201534/https://philippinecassettearchive.com/)
+- [Philippine Casette Archive](https://web.archive.org/web/20240122201534/https://philippinecassettearchive.com/) <mark>archive\.org</mark>
 - [Martial Law Index](https://martiallawindex.com/)
 - [Divina lingua](https://divinalingua.it/en)
 - [henry from online](https://henry.codes/)
