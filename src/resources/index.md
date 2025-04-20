@@ -19,7 +19,6 @@ eleventyNavigation:
 - [Addy’s Toolkit](https://toolkit.addy.codes/) – curated and regularly maintained resources for web development and everything in between
 - [Tiny Tools Directory](https://tinytools.directory/) - a collection of small, free, or experimental tools (not exclusive to web development)
 
-
 ## graphics & templates
 
 - [88x31 button maker by hekate2](https://hekate2.github.io/buttonmaker/)
@@ -37,8 +36,9 @@ eleventyNavigation:
 - [Transhumans](https://www.transhumans.xyz/) - open source punk sci-fi art collection by Pablo Stanley, available in SVG and PNG
 - [cocorini's patterns](https://web.archive.org/web/20190320091308/https://cocorini.tumblr.com/patterns) <mark>archive\.org</mark> - a collection of free background repeating patterns
 - [Artvee](https://artvee.com/) - public domain art
+- [cobalt](https://cobalt.tools/) - download GIFs/videos from social media
 
-## video games
+## gaming
 
 - [Disco Elysium digital artbook](https://drive.google.com/file/d/1yYCZbQGiBqSOEDJOvxdk7GkEBOioo0IL/view)
 - *Sacred and Terrible Air* by Robert Kurvitz [PDF](https://drive.google.com/file/d/10hNiOLPy_xGX5VSnNp0fTx6aU5NHPhBX/view?usp=drivesdk) | [EPUB](https://drive.google.com/file/d/1XjBapU74VKRoC9BYk1lwhG8HeveQpVvS/view?usp=drivesdk) | [web](https://suricrasia.online/elysium/) - English fan translation of *Püha ja õudne lõhn*, written by the creator of Disco Elysium, translated by [Group Ibex](https://www.reddit.com/r/DiscoElysium/comments/13e4tle/sacred_and_terrible_air_püha_ja_õudne_lõhn_full/?utm_source=share&utm_medium=web2x&context=3)
@@ -50,8 +50,12 @@ eleventyNavigation:
   - [Theme Plaza](https://themeplaza.art/themes) - spice up your 3DS with nice themes
 - [ROM sites](https://obspogon.neocities.org/megacol/kits/roms/) - collection of ROM sites by obspogon
 - [Ace Attorney Investigations 2: Prosecutor’s Path](https://gbatemp.net/threads/ace-attorney-investigation-2-prosecutors-path-final-release.367451/) - English fan translation of Ace Attorney Investigations 2
+  - <mark>note</mark> aai2 has officially been localised, but i’m still keeping the link up for posterity and gratitude to the hard work of the translators <3
 - [Wayfarer](https://idrellegames.itch.io/wayfarer) - interactive fiction fantasy game by Idrelle Games
 - [The Death Generator](https://deathgenerator.com/#gallery) - generate fake video game screenshots
+- [Project Hadea](https://nyehilism.itch.io/project-hadea) - interactive fiction sci-fi game by nyehilism
+- [5etools](https://5e.tools/) - a suite of tools for dnd 5e
+  - [2014 version](https://2014.5e.tools/)
 
 ## music
 
