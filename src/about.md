@@ -45,7 +45,7 @@ i started messing around with html and css by editing tumblr themes sometime in 
 
 ## socials
 
-if you’d like to chat, hit me up at 10kph@proton.me or at any of my socials below :-)
+if you’d like to chat, hit me up at hi@karma.computer or at any of my socials below :-)
 
 - **neocities:** [10kph](https://neocities.org/site/10kph)
 - **tumblr:** [@ulyuxe](https://ulyuxe.tumblr.com)

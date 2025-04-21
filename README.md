@@ -29,7 +29,7 @@ If you'd like to get the generated static site, run `npm build`. The files will 
 
 ## Feedback
 
-Found a bug? Any accessibility or design issues? I am open to any and all suggestions! Let me know [here](https://github.com/tencurse/neocities/issues) or email me at 10kph@pm.me
+Found a bug? Any accessibility or design issues? I am open to any and all suggestions! Let me know [here](https://github.com/tencurse/neocities/issues) or email me at hi@karma.computer
 
 Or [contribute](https://github.com/tencurse/neocities/pulls) to the site.
 

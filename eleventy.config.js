@@ -86,10 +86,10 @@ module.exports = function (eleventyConfig) {
       language: "en",
       title: "karma",
       subtitle: "This is a longer description about your blog.",
-      base: "https://karuma.me/",
+      base: "https://karma.computer/",
       author: {
         name: "Ten",
-        email: "10kph@proton.me"
+        email: "hi@karma.computer"
       }
     }
   });
