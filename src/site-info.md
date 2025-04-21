@@ -12,15 +12,6 @@ this [mobile-friendly site](https://kalechips.net/responsive/index) is made with
 
 feel free to copy-paste my code, but if you do, please take the time to learn what you are copy-pasting. arm yourself with knowledge! (this should go without saying, but don’t actually copy the written content.)
 
-## what is {% lang "ja" %}「カルマ・{% endlang %}karuma{% lang %}」{% endlang %}?
-
-{% lang "ja" %}カルマ{% endlang %} <mark>read: karuma</mark> is katakana for the word *karma*, meaning the religious/philosophical concept of actions and consequences. in the context of this website, it comes from my two favourite characters who share the word in their names: Franziska von Karma from *Phoenix Wright: Ace Attorney* and Karma from *League of Legends*.
-
-Franziska’s name in the original Japanese is {% lang "ja" %}{% furi "狩" "かる" %}{% furi "魔" "ま" %}{% furi "冥" "めい" %}{% endlang %} <mark>read: Mei Karuma</mark>.[^1] {% lang "ja" %}{% furi "狩" "かる" %}{% furi "魔" "ま" %}{% endlang %} in this case does not directly translate to the word *karma*, unlike in the localized English version. instead, it means *hunting demon*.[^2] for the sake of consistency, i opted with the katakana version of her name.
-
-[^1]: the individual kanji suggests it should be read as "karima". however in the game, it is “karuma”
-[^2]: translated from DeepL
-
 ## site credits
 
 ### resources
