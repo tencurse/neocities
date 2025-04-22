@@ -18,7 +18,7 @@ here are some buttons for my site if you want to link back! :~) please do not [h
 
 <button class="button" id="randomLink">i’m feeling lucky (random)</button>
 
-if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email hi@karma.computer :~)
+if you’ve updated your site button, have a new one (or you already have a site button and i just couldn’t find it), or you want to get your site removed from above, let me know via email [hi@karma.computer](mailto:hi@karma.computer) :~)
 
 ## digital gardens
 
