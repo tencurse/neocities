@@ -158,7 +158,7 @@ section {
 }
 
 section {
-  grid-row: 2;
+  grid-row: 3;
   word-wrap: break-word;
 }
 
@@ -200,6 +200,55 @@ button.button:focus {
   border: 1px solid var(--color-lavender);
 }
 
+ul.breadcrumb-list {
+  padding: 1rem 0;
+  display: flex;
+  gap: 1ch;
+  transform: rotate(90deg);
+  margin: 0;
+}
+
+li.breadcrumb-item {
+  list-style: none;
+  padding: 0;
+}
+
+li.breadcrumb-item:not(:first-of-type)::before {
+  content: "-> ";
+  font-weight: bold;
+}
+
+li.breadcrumb-item a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 1ch;
+  display: inline-block;
+  line-height: 1.3;
+  color: var(--color-primary);
+}
+
+li.breadcrumb-item:nth-child(odd) a {
+  background-color: var(--background-blue);
+  color: var(--color-blue);
+}
+
+li.breadcrumb-item:nth-child(odd) a:hover {
+  background-color: var(--color-blue);
+}
+
+li.breadcrumb-item:nth-child(even) a {
+  background-color: var(--background-purple2);
+  color: var(--color-purple);
+}
+
+li.breadcrumb-item:nth-child(even) a:hover {
+  background-color: var(--color-peach);
+}
+
+li.breadcrumb-item a:hover {
+  color: var(--background-primary);
+}
+
 button.button {
   cursor: pointer;
   font-family: "Victor Mono","CommitMonoLig", monospace;
@@ -209,7 +258,7 @@ button.button {
 
 a {
   color: var(--color-peach);
-  text-decoration-style: dotted;
+  text-decoration-style: wavy;
 }
 
 a:hover,
@@ -379,14 +428,20 @@ b, strong {
     column-gap: 4ch;
   }
 
-  section {
-    grid-column: 1 / span 7;
+  ul.breadcrumb-list {
+    grid-row: 3;
+    grid-column: 8;
+    align-self: start;
   }
 }
 
 @media screen and (min-width: 811px) {
   h1 {
     text-align: left;
+  }
+
+  section {
+    grid-column: 1 / span 7;
   }
 }
 
